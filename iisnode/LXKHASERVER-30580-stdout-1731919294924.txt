@@ -1,0 +1,963 @@
+data {
+  objrelatedstory: [
+    {
+      storyID: 48411,
+      storyheading: 'सेहतमंद आहार क्या हैं? FAO और WHO ने बताया',
+      storysubheading: 'What is a healthy diet',
+      englishurl: 'health',
+      redirectURL: 'What-is-a-healthy-diet',
+      category_type: '1',
+      storyImage1: 'What-is-a-healthy-diet-638658382280704984.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'सेहतमंद आहार क्या हैं, स्वस्थ आहार के सिद्धांत, FAO और WHO का संयुक्त बयान,\r\n' +
+        'स्वस्थ जीवनशैली पोषण संबंधी दिशा निर्देश, स्वस्थ आहार के लाभ, FAO WHO health guidelines, आहार सुधार नीतियाँ, पोषण और स्वास्थ्य, संतुलित आहार के नियम, सक्रिय जीवनशैली और आहार में सुधार, संयुक्त राष्ट्र के आहार मानक,Minimum Diet Variety for Women,',
+      category_name: 'स्वास्थ्य',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 41314,
+      storyheading: 'Demo Testing Hastaksheps',
+      storysubheading: 'Demo Testing Hastakshep',
+      englishurl: 'health',
+      redirectURL: 'Demo-Testing-Hastakshep',
+      category_type: '1',
+      storyImage1: '',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Hastekshep,Health',
+      category_name: 'स्वास्थ्य',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29892,
+      storyheading: 'Of all human diseases, 60% originate in animals – “One Health” is the only way to keep antibiotics working',
+      storysubheading: 'of-all-human-diseases-60percent-originate-in-animals-one-health-is-the-only-way',
+      englishurl: 'news',
+      redirectURL: 'of-all-human-diseases-60percent-originate-in-animals-one-health-is-the-only-way',
+      category_type: '1',
+      storyImage1: 'oNHsovjb61Gl02qjyIfe.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'environmental health, environmental-health, genetic principles of drug resistance, genetic-principles-of-drug-resistance, harmful effects of bacteria in domestic animals, harmful-effects-of-bacteria-in-domestic-animals, Mental health, mental-health, multiple drug resistance, multiple-drug-resistance, short notes of antimicrobial resistant, short-notes-of-antimicrobial-resistant',
+      category_name: 'News',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29830,
+      storyheading: 'एनोस्कोपी क्या है? What is an anoscopy in Hindi?',
+      storysubheading: 'anoscopy-in-hindi',
+      englishurl: 'news-2',
+      redirectURL: 'anoscopy-in-hindi',
+      category_type: '1',
+      storyImage1: 's6M3PV8BdwHHecZaj9Be.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Health, health, कोशिका, koshikaa, बवासीर, bvaasiir, रक्तस्राव, rktsraav',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 18231,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'May  1 2022  6:30PM',
+  storyheading: 'जानिए इलास्टोग्राफी क्या है? इलास्टोग्राफी से क्या तात्पर्य है?',
+  storysubheading: 'ultrasound-elastography-in-hindi',
+  storysynopsis: 'जानिए इलास्टोग्राफी क्या है? इलास्टोग्राफी से क्या तात्पर्य है?',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>इलास्टोग्राफी - Ultrasound Elastography in Hindi</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong>इस समाचार में सरल हिंदी में जानिए कि </strong><strong>इलास्टोग्राफी क्या है</strong><strong> </strong><strong>elastography in Hindi</strong><strong>) ? </strong><strong>फाइब्रोस्कैन टेस्ट कैसे होता है</strong><strong>? </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट का उपयोग किस लिए किया जाता है</strong><strong>? </strong><strong>आपको </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट की आवश्यकता क्यों होती है</strong><strong>? </strong><strong>जब आप </strong><strong>इलास्टोग्राफी</strong><strong> परीक्षण कराते हैं तब क्या होता है</strong><strong>? </strong><strong>क्या आपको </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट की तैयारी के लिए कुछ करने की आवश्यकता होती है</strong><strong>? </strong><strong>क्या </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट के कोई जोखिम हैं</strong><strong>? </strong><strong>इस समाचार की जानकारी का उपयोग पेशेवर चिकित्सा देखभाल या सलाह के विकल्प के रूप में नहीं किया जा सकता है। यदि आप अपने स्वास्थ्य के बारे में कोई प्रश्न पूछना चाहते हैं तो स्वास्थ्य देखभाल प्रदाता/ योग्य चिकित्सक से संपर्क करें।</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>नेशनल लाइब्रेरी ऑफ मेडिसिन के मेडलाइनप्लस पर उपलब्ध <a rel="nofollow" href="https://medlineplus.gov/lab-tests/elastography/">जानकारी</a> के मुताबिक </strong>-</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यह परीक्षण इलास्टोग्राफी (<a>elastography in Hindi</a>), जिसे यकृत इलास्टोग्राफी (liver elastography in Hindi) के रूप में भी जाना जाता है, एक प्रकार का इमेजिंग परीक्षण (imaging test) है जो फाइब्रोसिस के लिए यकृत की जांच करता है। <strong><a rel="noreferrer noopener" href="https://www.hastakshep.com/liver-diseases-and-harmful-effects-of-fatty-liver-awareness-necessary/" data-type="post" data-id="7097" target="_blank">फाइब्रोसिस</a></strong> एक ऐसी स्थिति होती है जो लीवर में और उसके अंदर रक्त के प्रवाह को कम कर देती है। यह दागदार ऊतक के निर्माण का कारण बनता है। यदि फाइब्रोसिस को अनुपचारित छोड़ दिया जाए तो यह यकृत में गंभीर समस्याएं पैदा कर सकता है। इनमें सिरोसिस, <strong><a href="https://www.hastakshep.com/many-cancers-are-on-the-rise-instead-of-decreasing/" data-type="post" data-id="21599" target="_blank" rel="noreferrer noopener">लिवर कैंसर</a></strong> और लीवर फेलियर शामिल हैं। लेकिन शीघ्र निदान और उपचार फाइब्रोसिस के प्रभावों को कम या उलट भी कर सकते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>लिवर इलास्टोग्राफी टेस्ट कितने प्रकार के होते हैं :</strong><strong></strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यकृत इलास्टोग्राफी परीक्षण (types of liver elastography tests) दो प्रकार के होते हैं:</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>अल्ट्रासाउंड इलास्टोग्राफी</strong>, जिसे फाइब्रोस्कैन भी कहा जाता है, <strong><a href="https://www.hastakshep.com/what-is-the-difference-between-an-x-ray-ct-scan-or-mri/" data-type="post" data-id="189" target="_blank" rel="noreferrer noopener">अल्ट्रासाउंड डिवाइस</a></strong> का ब्रांड नाम है। यकृत ऊतक की कठोरता (stiffness of liver tissue) को मापने के लिए परीक्षण ध्वनि तरंगों का उपयोग करता है। कठोरता फाइब्रोसिस का संकेत है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>एमआरई (चुंबकीय अनुनाद इलास्टोग्राफी</strong>-magnetic resonance elastography) एक परीक्षण है जो एमआरआई के साथ अल्ट्रासाउंड तकनीक को जोड़ती है। एमआरआई एक ऐसी प्रक्रिया है जो शरीर के अंदर अंगों और संरचनाओं की छवियों को बनाने के लिए शक्तिशाली चुंबक और रेडियो तरंगों का उपयोग करती है। एमआरई परीक्षण में, एक कंप्यूटर प्रोग्राम एक दृश्य मानचित्र बनाता है जो यकृत की कठोरता को दर्शाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>लीवर बायोप्सी (liver biopsy-एक अधिक आक्रामक परीक्षण जिसमें परीक्षण के लिए यकृत ऊतक के एक टुकड़े को निकालना शामिल है) के स्थान पर इलास्टोग्राफी टेस्ट का उपयोग किया जा सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>अन्य नाम</strong> : लीवर इलास्टोग्राफी, ट्रांज़िएंट इलास्टोग्राफी (transient elastography), फाइब्रोस्कैन (Fibroscan in Hindi), एमआर इलास्टोग्राफी (MR elastography in Hindi)</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>इलास्टोग्राफी का उपयोग क्या है</strong><strong>? (What is the use of elastography?)</strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इलास्टोग्राफी का उपयोग फैटी लीवर रोग (एफएलडी) और फाइब्रोसिस के निदान के लिए किया जाता है। एफएलडी एक ऐसी स्थिति है जिसमें लीवर में वसा का निर्माण होता है। यह वसा सैल दैथ (कोशिका मृत्यु- cell death) और फाइब्रोसिस का कारण बन सकती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>आपको इलास्टोग्राफी की आवश्यकता क्यों होती है</strong><strong>? Why do you need an elastography?</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>फाइब्रोसिस वाले बहुत से लोगों में लक्षण मालूम नहीं पड़ते हैं। लेकिन यदि इसे अनुपचारित छोड़ दिया जाए तो, फाइब्रोसिस लिवर को दागना जारी रखेगा और अंततः सिरोसिस (cirrhosis) में बदल जाएगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>सिरोसिस शब्द का उपयोग यकृत के अत्यधिक घाव का वर्णन करने के लिए किया जाता है। <strong><a href="https://www.hastakshep.com/%e0%a4%b6%e0%a4%b0%e0%a5%80%e0%a4%b0-%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%af%e0%a4%be-%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%b8%e0%a4%bf%e0%a4%a8-%e0%a4%95/" data-type="post" data-id="7435" target="_blank" rel="noreferrer noopener">सिरोसिस</a></strong> अक्सर शराब के दुरुपयोग या हेपेटाइटिस के कारण होता है। गंभीर मामलों में, सिरोसिस जानलेवा हो सकता है। सिरोसिस लक्षण पैदा करता है। इसलिए यदि आपको सिरोसिस या किसी अन्य जिगर की बीमारी के लक्षण हैं तो आपको यह टेस्ट कराने की आवश्यकता हो सकती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>सिरोसिस और अन्य जिगर के रोगों के लक्षण लगभग समान होते हैं और इसमें शामिल हो सकते हैं :</strong><strong></strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>त्वचा का पीला पड़ना। इसे पीलिया (jaundice) के नाम से जाना जाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     थकान</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     खुजली</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     आसानी से चोट लगना</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     भारी नकसीर</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     पैरों में सूजन</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     वजन घटना</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     भ्रम</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><strong>जानिए इलास्टोग्राफी के दौरान क्या होता है</strong><strong>? </strong><strong>आप लिवर इलास्टोग्राफी अल्ट्रासाउंड कैसे करते हैं</strong><strong>?</strong></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>अल्ट्रासाउंड (फाइब्रोस्कैन) इलास्टोग्राफी के दौरान :</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:list --></p>\n' +
+    '<ul>\n' +
+    '<li>आप अपनी पीठ के बल एक परीक्षा टेबल पर लेट जाएंगे, जिससे आपके पेट का दाहिना क्षेत्र खुला रहेगा।</li></p>\n' +
+    '<li>एक रेडियोलॉजी तकनीशियन आपकी त्वचा पर पूरे क्षेत्र में एक जैल फैला देगा।</li>\n' +
+    '<li>वह आपके लीवर को ढंकने वाली त्वचा के क्षेत्र पर एक छड़ी जैसा उपकरण, जिसे ट्रांसड्यूसर (transducer) कहा जाता है, रखेगा।</li>\n' +
+    '<li>जांच में ध्वनि तरंगों की एक श्रृंखला पैदा होगी। ये तरंगें आपके जिगर तक जाएंगी और वापस आएंगी। इन तरंगों की पिच इतनी ऊंची होती है कि आप उन्हें सुन नहीं सकते।</li>\n' +
+    '<li>जांच करते समय आप एक हलका झटका महसूस कर सकते हैं, लेकिन इससे चोट नहीं लगनी चाहिए।</li>\n' +
+    '<li>ध्वनि तरंगों को रिकॉर्ड किया जाता है, मापा जाता है और एक मॉनिटर पर प्रदर्शित किया जाता है।</li>\n' +
+    '<li>माप लिवर में स्टिफनेस ( कठोरता) के स्तर को दर्शाता है।</li>\n' +
+    '</ul>\n' +
+    '<p><!-- /wp:list --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस प्रक्रिया में तो केवल पांच मिनट लगते हैं, लेकिन आपकी पूरी तैयारी में आधा घंटा लग सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>एमआरई (चुंबकीय अनुनाद इलास्टोग्राफी</strong>-magnetic resonance elastography) एक ही प्रकार की मशीन और पारंपरिक एमआरआई (magnetic resonance imaging) टेस्ट की तरह एक समान चरणों में किया जाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>एमआरई प्रक्रिया के दौरान :</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:list --></p>\n' +
+    '<ul>\n' +
+    '<li>आप एक पतली परीक्षण टेबल पर लेट जाएंगे।</li></p>\n' +
+    '<li>एक रेडियोलॉजी टैक्नीशियन आपके पेट पर एक छोटा सा पैड रखेगा। पैड कंपन का उत्सर्जन करेगा जो आपके लीवर से गुजरेगा।</li>\n' +
+    '<li>टेबल एक एमआरआई स्कैनर में स्लाइड करेगी, जो एक सुरंग के आकार की मशीन होती है जिसमें चुंबक होता है। स्कैनर के शोर, जो बहुत तेज़ होता है, को रोकने में मदद करने के लिए आपको परीक्षण से पहले इयरप्लग या हेडफ़ोन दिए जा सकते हैं।</li>\n' +
+    '<li>एक बार स्कैनर के अंदर, पैड सक्रिय हो जाएगा और आपके लिवर से कंपन का माप भेजेगा। माप को कंप्यूटर पर रिकॉर्ड किया जाएगा और एक विज़ुअल मैप में बदल दिया जाएगा जो आपके लिवर की कठोरता को दर्शाता है।</li>\n' +
+    '<li>टेस्ट में लगभग 30 से 60 मिनट लगते हैं।</li>\n' +
+    '</ul>\n' +
+    '<p><!-- /wp:list --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>क्या आपको परीक्षा की तैयारी के लिए कुछ करने की आवश्यकता होगी</strong><strong>?</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अल्ट्रासाउंड इलास्टोग्राफी के लिए आपको किसी विशेष तैयारी की आवश्यकता नहीं है। यदि आप एमआरई कराने जा रहे हैं, तो टेस्ट से पहले सभी धातु के गहने और सहायक उपकरण निकालना सुनिश्चित करें।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>क्या इलास्टोग्राफी टेस्ट के कोई जोखिम हैं</strong><strong>? (Are there any risks to the ela'... 3752 more characters,
+  storyimage1: 'HhIw5I5I50YT4wULCTdi.jpg',
+  videos: null,
+  tags: 'health test, health-test, स्वस्थ आहार, svsth-aahaar',
+  redirectURL: 'ultrasound-elastography-in-hindi',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'health test, health-test, स्वस्थ आहार, svsth-aahaar',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'ultrasound-elastography-in-hindi',
+  createdDate: 'May 01, 2022, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 29888,
+      storyheading: 'कत्ल हुए ख्वाबों का खून आपके हाथों में हैं, ओबामा!',
+      storysubheading: 'कत्ल-हुए-ख्वाबों-का-खून-आप',
+      englishurl: 'news-2',
+      redirectURL: 'कत्ल-हुए-ख्वाबों-का-खून-आप',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'नंदीग्राम, nndiigraam',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29715,
+      storyheading: 'कानून और संविधान की धज्जी उड़ाते हुए सरकार ने की “लैंड पुलिंग”',
+      storysubheading: 'कानून-और-संविधान-की-धज्जी',
+      englishurl: 'opinion-english',
+      redirectURL: 'कानून-और-संविधान-की-धज्जी',
+      category_type: '1',
+      storyImage1: 'bDXOWnj0xOxP4Oos4gMv.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'आंध्र प्रदेश, aandhr-prdesh, गुंटूर, gunttuur, ग्रीनफील्ड कैपिटल, griinphiildd-kaipittl, चंद्रबाबू नायडू, cndrbaabuu-naaydduu, नंदीग्राम की डायरी, nndiigraam-kii-ddaayrii, लैंड पुलिंग स्कीम, laindd-puling-skiim, विजयवाड़ा, vijyvaaddaa',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28749,
+      storyheading: 'राष्ट्र मेहनतकश अवर्ण बहुजन बहुसंख्य जनगण की निगरानी, उनके दमन, उत्पीड़न सफाये और मानवाधिकार हनन का सैन्य तंत्र है',
+      storysubheading: 'red-oleanders-tagores-preoccupation-with-life',
+      englishurl: 'news-2',
+      redirectURL: 'red-oleanders-tagores-preoccupation-with-life',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'अस्मिता विमर्श, asmitaa-vimrsh, नंदीग्राम, nndiigraam',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 26593,
+      storyheading: 'भारतीय रेल के लाइफ लाइन वजूद पर सवालिया निशान',
+      storysubheading: 'भारतीय-रेल-के-लाइफ-लाइन-वज',
+      englishurl: 'news-2',
+      redirectURL: 'भारतीय-रेल-के-लाइफ-लाइन-वज',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'नंदीग्राम, nndiigraam',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 24035,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'बंगाल, असम और पूर्वोत्तर में उग्रवाद के भरोसे हिंदुत्व के एजंडे को अंजाम देने का खतरनाक खेल',
+  storysubheading: 'बंगाल-असम-और-पूर्वोत्तर-म',
+  storysynopsis: 'बंगाल, असम और पूर्वोत्तर में उग्रवाद के भरोसे हिंदुत्व के एजंडे को अंजाम देने का खतरनाक खेल',
+  fullstory: '<p>मीडिया में जनसुनावाई पर रोक के लिए हस्तक्षेप पर अंकुश</p>\n' +
+    '<p>एक्सकैलिबर स्टीवेंस विश्वास</p>\n' +
+    '<p>कोलकाता (हस्तक्षेप)। बंगाल में चरम राजनीतिकरण का नतीजा समाज, परिवार और राष्ट्र के विघटन की दिशा में परमगति प्राप्त करने लगा है। बंगाल में मीडिया पर अंकुश रघुकुल रीति की तरह मनुस्मृति शासन है और आम जनता की सुनवाई मीडिया में भी नहीं है। हस्तक्षेप में हम जनसुनवाई को प्राथमिकता देते हैं तो बंगाल में हस्तक्षेप पर भी अंकुश लगने लगा है।</p>\n' +
+    '<p>पुलिस प्रशासन और जीआरपी तक के माध्यम से हस्तक्षेप संवाददाता की गतिविधियों पर अंकुश लगाने की कोशिश हो रही है। दूसरी तरफ विपक्ष के हाशिये पर चले जाने की वजह से लोकतांत्रिक माहौल खत्म सा है।</p>\n' +
+    '<p>समूचे पूर्वोत्तर और असम में उग्रवादी गतिविधियां राजनीति का अनिवार्य अंग रही हैं और इसी के तहत केंद्र और राज्य सरकारें वहां उग्रवादी संगठनों का इस्तेमाल करती रही है। मसलन असम जैसे संवेदनसील राज्य में अस्सी के दशक से सत्ता की राजनीति अल्फा के कब्जे में है और असम में अल्फा के हवाले राजकाज है जिससे बार-बार असम नानाविध हिंसक घटनाओं का शिकार है।</p>\n' +
+    '<p>अब अल्फा की राजनीति हिंदुत्व के एजेंडे में शामिल</p>\n' +
+    '<p>सबसे खतरनाक बात यह है कि अब अल्फा की राजनीति हिंदुत्व के एजेंडे में शामिल है जिसके निशाने पर तमाम आदिवासी, दलित, शरणार्थी और गैर असमी समुदाय हैं और हिंदुत्व के एजंडे तको अमल में लाने के लिए असम को पूर्वोत्तर के दूसरे राज्यों की तरह संवेदनशील बनाये रखने की राजनीति केंद्र और राज्य सरकार की सर्वोच्च प्राथमिकता है जो केसरिया आंतकवाद की गुजरात अपसंस्कृति और अपधर्म का विस्तार है।</p>\n' +
+    '<p>बंगाल में गोरखा लैंड आंदोलन को बढ़ावा देने की राजनीति पर उत्तर बंगाल का सत्ता विमर्श अस्सी के दशक से असमिया अल्फा राजनीति का विस्तार रहा है।</p>\n' +
+    '<p>अब गोरखालैड पर केसरिया सुनामी का रंग चढ़ गया है और बंगाल का सत्ता वर्ग भी उसे नियंत्रित करने में नाकाम है।</p>\n' +
+    '<p>उत्तर बंगाल के आदिवासियों में अलगाव की राजनीति को भी हिंदुत्व की राजनीति से जोड़ दिया गया है और कामतापुरी आंदोलन को अब सीधे तौर पर राष्ट्रीय स्वयंसेवक संघ का समर्थन हासिल है।</p>\n' +
+    '<p>उग्रवादियों को केंद्र की शह पर राजनीति की मुख्यधारा में लाने की कोशिश</p>\n' +
+    '<p>दूसरी ओर, त्रिपुरा में वाम मोर्चा का गठ ढहाने में दक्षिण पंथी राजनीति फेल हो जाने से वहां फिर नेल्ली नरसंहार की स्थितियां बनाने के लिए उग्रवादियों को केंद्र की शह पर राजनीति की मुख्यधारा में लाने की कोशिश की जा रही है।</p>\n' +
+    '<p>यह कवायद पूरे् असम समेत पूर्वोत्तर में अस्सी के दशक से जारी है और वहां नरसंहार की वारदातों के पीछे सबसे बड़ी वजह यह है।</p>\n' +
+    '<p>अब बंगाल में केसरिया एजेंडा के लिए वही खतरनाक खेल दोहराया जा रहा है। सीमा सुरक्षा बल कामतापुरी अलगाववादी आंदोलन की नारायणी सेना को अंध राष्ट्रवाद की आड़ में प्रशिक्षण देने लगी है। इसकी बंगाल में तीखी प्रतिक्रिया होने की वजह से फिलहाल प्रशिक्षण स्थगित है, लेकिन इस घटना से बंगाल के केसरियाकरण के लिए असम और पूर्वोत्तर की तर्ज पर उग्रवादियों की मदद से केसरिया आतंकवाद के भूगोल में बंगला को शामिल करने के हिंदुत्व एजेंडा का खुलासा हो गया है।<br />\n' +
+    'बीएसएफ के ग्रेटर कूचबिहार पीपुल्स एसोसिएशन की नारायणी सेना को प्रशिक्षण दिये जाने के आरोप<br />\n' +
+    'मुख्यमंत्री ममता बनर्जी ने बीएसएफ के ग्रेटर कूचबिहार पीपुल्स एसोसिएशन की नारायणी सेना को प्रशिक्षण दिये जाने के संदर्भ में केंद्र पर बांटने की राजनीति करने का आरोप लगाया है।</p>\n' +
+    '<p>ममता ने कहा : कल्पना कीजिए कि बीएसएफ ऐसे लोगों को प्रशिक्षण दे रहा है, जो देश और राज्य को तोड़ना चाहते हैं। एक सांसद (भाजपा के) केंद्र को उनके (नारायणी सेना के) पक्ष में पत्र लिख रहे हैं और कह रहे हैं कि उसे भारतीय सेना में शामिल किया जाये। उनकी पार्टी के कार्यकर्ता हर घर में जाकर गायों की गिनती कर रहे हैं। हम इस तरह की चीजें बर्दाश्त नहीं करेंगे।<br />\n' +
+    'हांलाकि बीएसएफ ने आरोपों को ‘बेबुनियाद’ बता कर खारिज कर दिया है।<br />\n' +
+    'गौरतलब है कि सीमा सुरक्षा बल के जवानों द्वारा नारायणी सेना को प्रशिक्षण दिये जाने पर तृणमूल के राष्ट्रीय उपाध्यक्ष मुकुल राय ने कहा कि यह बंगाल की सत्तारूढ़ पार्टी के खिलाफ षडयंत्र है।</p>\n' +
+    '<p>तृणमूल के राष्ट्रीय उपाध्यक्ष पूर्व रेल मंत्री मुकुल राय का आरोप है कि भाजपा पश्चिम बंगाल में अपनी ताकत बढ़ाने के लिए कामतापुरी आंदोलन का इस्तेमाल करने के नजरिये से नारायणी सेना को सीमा सुरक्षा बल के मार्फत प्रशिक्षित कर रही है।</p>\n' +
+    '<p>अब देखना है कि इस खतरनाक खेल का ममता बनर्जी कैसे मुकाबला करती हैं, क्योंकि यह राज्य सरकार और बंगाल के सत्ता दल के लिए सबसे बड़ी चुनौती है और कानून और व्यवस्था की जिम्मेदारी भी उसी की है।<br />\n' +
+    'बंगाल में भी हालात असम और पूर्वोत्तर जैसा बना देने की हिंदुत्व राजनीति<br />\n' +
+    'इसी सिलसिले में मीडिया पर अंकुश के लिए पुलिस और जीआरपी का इस्तेमाल करके मीडिया की गतिविधियों में हस्तक्षेप का खेल भी संघी एजेंडा का खतरनाक आयाम है। मुख्यमंत्री को तत्काल इसपर कार्रवाई करनी होगी वरना बंगाल में भी हालात असम और पूर्वोत्तर जैसा बना देने में हिंदुत्व राजनीति कोई कसर नहीं छोड़ रही है।</p>\n' +
+    '<p>इसी सिलसिले में वामदलों और सत्ता दल से खारिज नेताओं को भाजपा में खास भूमिका देने से भी परहेज नहीं कर रहा है संघ परिवार।</p>\n' +
+    '<p>मसलन नंदीग्राम नरसंहार मामले में माकपा से बहिष्कृत पूर्व माकपा सांसद लक्ष्मण सेठ को भाजपा में शामिल करके मेजिनीपुर के संवेदनशील इलाकों के केसरियाकरण की रणनीति संघ परिवार की है, जहां पिछले विधान सभा चुनाव में कट्टर संघी नेता दिलीप घोष खड़कपुर से चुनाव जीत चुके हैं और उन्ही दिलीप घोष की पहल पर भारत की आजादी के गांधीवादी आंदोलन के गढ़ शहीद मातंगिनी हाजरा के तमलुक से लोकसभा उपचुनाव में लक्ष्मण सेठ को भाजपा प्रत्याशी बनाया जा रहा है।<br />\n' +
+    'भाजपा बंगाल में विभाजन की राजनीति उकसाने का काम कर रही- मुकुल राय<br />\n' +
+    'पूर्व रेल मंत्री मुकुल राय का कहना है कि भाजपा बंगाल में विभाजन की राजनीति उकसाने का काम कर रही है। सीमा सुरक्षा बल द्वारा कूचबिहार में ऐसे संगठन के लोगों को प्रशिक्षण दिया जा रहा है, जो बंगाल का विभाजन कर अलग राज्य बनाने की मांग कर रहे हैं। यह साबित करता है कि भाजपा अपनी ताकत बढ़ाने के लिए कोई भी कदम उठा सकती है। इसे कतई बर्दाश्त नहीं किया जायेगा। इसके खिलाफ तृणमूल पूरे राज्य में प्रचार अभियान चला कर लोगों को जागरूक करेगी।</p>\n' +
+    '<p>दूसरी तरफ बंगाल में विपक्ष के सांसदों और विधायकों को तोड़ने और पालिकाओं और जिला परिषदों से विपक्ष को बेदखल करने की सत्तादल की राजनीति की वजह से ममता बनर्जी विपक्ष के निशाने पर हैं और संघ परिवार के इस खतरनाक खेल से निबटने के लिए बंगाल में किसी तरह की राजनीतिक मोर्चाबंदी नहीं है।</p>\n' +
+    '<p>ममता लोकतांत्रिक वाम विपक्ष को हाशिये पर लाने के लिए हरसंभव जतन कर रही है और बंगाल में विपक्ष के सफाये की वजह से उग्रवादियों की मदद से संघ परिवार का अल्फाई एजेंडा बंगाल में तेजी से अमल में आ रहा है। जिस ओर न सत्ता पक्ष का ध्यान है और न वाम लोकतांत्रिक विपक्ष का।</p>\n' +
+    '<p>राजनीतिक सत्ता संघर्ष के खेल में संघ परिवार गुपचुप बेहद खतरनाक तरीके से अल्फाई केसरिया आतंकवाद के एजेंडे को बंगाल में लागू कर रहा है खुलेआम।</p>\n' +
+    '<p>विडंबना यह है कि तृणमूल काग्रेस से निबटने के चक्कर में वामनेतृत्व संघ परिवार के खतरनाक एजंडे को सिरे से नजरअंदाज कर रहा है।</p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: 'नंदीग्राम, nndiigraam',
+  redirectURL: 'बंगाल-असम-और-पूर्वोत्तर-म',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'नंदीग्राम, nndiigraam',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'बंगाल-असम-और-पूर्वोत्तर-म',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 48411,
+      storyheading: 'सेहतमंद आहार क्या हैं? FAO और WHO ने बताया',
+      storysubheading: 'What is a healthy diet',
+      englishurl: 'health',
+      redirectURL: 'What-is-a-healthy-diet',
+      category_type: '1',
+      storyImage1: 'What-is-a-healthy-diet-638658382280704984.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'सेहतमंद आहार क्या हैं, स्वस्थ आहार के सिद्धांत, FAO और WHO का संयुक्त बयान,\r\n' +
+        'स्वस्थ जीवनशैली पोषण संबंधी दिशा निर्देश, स्वस्थ आहार के लाभ, FAO WHO health guidelines, आहार सुधार नीतियाँ, पोषण और स्वास्थ्य, संतुलित आहार के नियम, सक्रिय जीवनशैली और आहार में सुधार, संयुक्त राष्ट्र के आहार मानक,Minimum Diet Variety for Women,',
+      category_name: 'स्वास्थ्य',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 41314,
+      storyheading: 'Demo Testing Hastaksheps',
+      storysubheading: 'Demo Testing Hastakshep',
+      englishurl: 'health',
+      redirectURL: 'Demo-Testing-Hastakshep',
+      category_type: '1',
+      storyImage1: '',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Hastekshep,Health',
+      category_name: 'स्वास्थ्य',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29892,
+      storyheading: 'Of all human diseases, 60% originate in animals – “One Health” is the only way to keep antibiotics working',
+      storysubheading: 'of-all-human-diseases-60percent-originate-in-animals-one-health-is-the-only-way',
+      englishurl: 'news',
+      redirectURL: 'of-all-human-diseases-60percent-originate-in-animals-one-health-is-the-only-way',
+      category_type: '1',
+      storyImage1: 'oNHsovjb61Gl02qjyIfe.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'environmental health, environmental-health, genetic principles of drug resistance, genetic-principles-of-drug-resistance, harmful effects of bacteria in domestic animals, harmful-effects-of-bacteria-in-domestic-animals, Mental health, mental-health, multiple drug resistance, multiple-drug-resistance, short notes of antimicrobial resistant, short-notes-of-antimicrobial-resistant',
+      category_name: 'News',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29830,
+      storyheading: 'एनोस्कोपी क्या है? What is an anoscopy in Hindi?',
+      storysubheading: 'anoscopy-in-hindi',
+      englishurl: 'news-2',
+      redirectURL: 'anoscopy-in-hindi',
+      category_type: '1',
+      storyImage1: 's6M3PV8BdwHHecZaj9Be.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Health, health, कोशिका, koshikaa, बवासीर, bvaasiir, रक्तस्राव, rktsraav',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 18231,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'May  1 2022  6:30PM',
+  storyheading: 'जानिए इलास्टोग्राफी क्या है? इलास्टोग्राफी से क्या तात्पर्य है?',
+  storysubheading: 'ultrasound-elastography-in-hindi',
+  storysynopsis: 'जानिए इलास्टोग्राफी क्या है? इलास्टोग्राफी से क्या तात्पर्य है?',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>इलास्टोग्राफी - Ultrasound Elastography in Hindi</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong>इस समाचार में सरल हिंदी में जानिए कि </strong><strong>इलास्टोग्राफी क्या है</strong><strong> </strong><strong>elastography in Hindi</strong><strong>) ? </strong><strong>फाइब्रोस्कैन टेस्ट कैसे होता है</strong><strong>? </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट का उपयोग किस लिए किया जाता है</strong><strong>? </strong><strong>आपको </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट की आवश्यकता क्यों होती है</strong><strong>? </strong><strong>जब आप </strong><strong>इलास्टोग्राफी</strong><strong> परीक्षण कराते हैं तब क्या होता है</strong><strong>? </strong><strong>क्या आपको </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट की तैयारी के लिए कुछ करने की आवश्यकता होती है</strong><strong>? </strong><strong>क्या </strong><strong>इलास्टोग्राफी</strong><strong> टेस्ट के कोई जोखिम हैं</strong><strong>? </strong><strong>इस समाचार की जानकारी का उपयोग पेशेवर चिकित्सा देखभाल या सलाह के विकल्प के रूप में नहीं किया जा सकता है। यदि आप अपने स्वास्थ्य के बारे में कोई प्रश्न पूछना चाहते हैं तो स्वास्थ्य देखभाल प्रदाता/ योग्य चिकित्सक से संपर्क करें।</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>नेशनल लाइब्रेरी ऑफ मेडिसिन के मेडलाइनप्लस पर उपलब्ध <a rel="nofollow" href="https://medlineplus.gov/lab-tests/elastography/">जानकारी</a> के मुताबिक </strong>-</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यह परीक्षण इलास्टोग्राफी (<a>elastography in Hindi</a>), जिसे यकृत इलास्टोग्राफी (liver elastography in Hindi) के रूप में भी जाना जाता है, एक प्रकार का इमेजिंग परीक्षण (imaging test) है जो फाइब्रोसिस के लिए यकृत की जांच करता है। <strong><a rel="noreferrer noopener" href="https://www.hastakshep.com/liver-diseases-and-harmful-effects-of-fatty-liver-awareness-necessary/" data-type="post" data-id="7097" target="_blank">फाइब्रोसिस</a></strong> एक ऐसी स्थिति होती है जो लीवर में और उसके अंदर रक्त के प्रवाह को कम कर देती है। यह दागदार ऊतक के निर्माण का कारण बनता है। यदि फाइब्रोसिस को अनुपचारित छोड़ दिया जाए तो यह यकृत में गंभीर समस्याएं पैदा कर सकता है। इनमें सिरोसिस, <strong><a href="https://www.hastakshep.com/many-cancers-are-on-the-rise-instead-of-decreasing/" data-type="post" data-id="21599" target="_blank" rel="noreferrer noopener">लिवर कैंसर</a></strong> और लीवर फेलियर शामिल हैं। लेकिन शीघ्र निदान और उपचार फाइब्रोसिस के प्रभावों को कम या उलट भी कर सकते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>लिवर इलास्टोग्राफी टेस्ट कितने प्रकार के होते हैं :</strong><strong></strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यकृत इलास्टोग्राफी परीक्षण (types of liver elastography tests) दो प्रकार के होते हैं:</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>अल्ट्रासाउंड इलास्टोग्राफी</strong>, जिसे फाइब्रोस्कैन भी कहा जाता है, <strong><a href="https://www.hastakshep.com/what-is-the-difference-between-an-x-ray-ct-scan-or-mri/" data-type="post" data-id="189" target="_blank" rel="noreferrer noopener">अल्ट्रासाउंड डिवाइस</a></strong> का ब्रांड नाम है। यकृत ऊतक की कठोरता (stiffness of liver tissue) को मापने के लिए परीक्षण ध्वनि तरंगों का उपयोग करता है। कठोरता फाइब्रोसिस का संकेत है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>एमआरई (चुंबकीय अनुनाद इलास्टोग्राफी</strong>-magnetic resonance elastography) एक परीक्षण है जो एमआरआई के साथ अल्ट्रासाउंड तकनीक को जोड़ती है। एमआरआई एक ऐसी प्रक्रिया है जो शरीर के अंदर अंगों और संरचनाओं की छवियों को बनाने के लिए शक्तिशाली चुंबक और रेडियो तरंगों का उपयोग करती है। एमआरई परीक्षण में, एक कंप्यूटर प्रोग्राम एक दृश्य मानचित्र बनाता है जो यकृत की कठोरता को दर्शाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>लीवर बायोप्सी (liver biopsy-एक अधिक आक्रामक परीक्षण जिसमें परीक्षण के लिए यकृत ऊतक के एक टुकड़े को निकालना शामिल है) के स्थान पर इलास्टोग्राफी टेस्ट का उपयोग किया जा सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>अन्य नाम</strong> : लीवर इलास्टोग्राफी, ट्रांज़िएंट इलास्टोग्राफी (transient elastography), फाइब्रोस्कैन (Fibroscan in Hindi), एमआर इलास्टोग्राफी (MR elastography in Hindi)</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>इलास्टोग्राफी का उपयोग क्या है</strong><strong>? (What is the use of elastography?)</strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इलास्टोग्राफी का उपयोग फैटी लीवर रोग (एफएलडी) और फाइब्रोसिस के निदान के लिए किया जाता है। एफएलडी एक ऐसी स्थिति है जिसमें लीवर में वसा का निर्माण होता है। यह वसा सैल दैथ (कोशिका मृत्यु- cell death) और फाइब्रोसिस का कारण बन सकती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>आपको इलास्टोग्राफी की आवश्यकता क्यों होती है</strong><strong>? Why do you need an elastography?</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>फाइब्रोसिस वाले बहुत से लोगों में लक्षण मालूम नहीं पड़ते हैं। लेकिन यदि इसे अनुपचारित छोड़ दिया जाए तो, फाइब्रोसिस लिवर को दागना जारी रखेगा और अंततः सिरोसिस (cirrhosis) में बदल जाएगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>सिरोसिस शब्द का उपयोग यकृत के अत्यधिक घाव का वर्णन करने के लिए किया जाता है। <strong><a href="https://www.hastakshep.com/%e0%a4%b6%e0%a4%b0%e0%a5%80%e0%a4%b0-%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%af%e0%a4%be-%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%b8%e0%a4%bf%e0%a4%a8-%e0%a4%95/" data-type="post" data-id="7435" target="_blank" rel="noreferrer noopener">सिरोसिस</a></strong> अक्सर शराब के दुरुपयोग या हेपेटाइटिस के कारण होता है। गंभीर मामलों में, सिरोसिस जानलेवा हो सकता है। सिरोसिस लक्षण पैदा करता है। इसलिए यदि आपको सिरोसिस या किसी अन्य जिगर की बीमारी के लक्षण हैं तो आपको यह टेस्ट कराने की आवश्यकता हो सकती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>सिरोसिस और अन्य जिगर के रोगों के लक्षण लगभग समान होते हैं और इसमें शामिल हो सकते हैं :</strong><strong></strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>त्वचा का पीला पड़ना। इसे पीलिया (jaundice) के नाम से जाना जाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     थकान</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     खुजली</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     आसानी से चोट लगना</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     भारी नकसीर</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     पैरों में सूजन</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     वजन घटना</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>     भ्रम</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><strong>जानिए इलास्टोग्राफी के दौरान क्या होता है</strong><strong>? </strong><strong>आप लिवर इलास्टोग्राफी अल्ट्रासाउंड कैसे करते हैं</strong><strong>?</strong></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>अल्ट्रासाउंड (फाइब्रोस्कैन) इलास्टोग्राफी के दौरान :</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:list --></p>\n' +
+    '<ul>\n' +
+    '<li>आप अपनी पीठ के बल एक परीक्षा टेबल पर लेट जाएंगे, जिससे आपके पेट का दाहिना क्षेत्र खुला रहेगा।</li></p>\n' +
+    '<li>एक रेडियोलॉजी तकनीशियन आपकी त्वचा पर पूरे क्षेत्र में एक जैल फैला देगा।</li>\n' +
+    '<li>वह आपके लीवर को ढंकने वाली त्वचा के क्षेत्र पर एक छड़ी जैसा उपकरण, जिसे ट्रांसड्यूसर (transducer) कहा जाता है, रखेगा।</li>\n' +
+    '<li>जांच में ध्वनि तरंगों की एक श्रृंखला पैदा होगी। ये तरंगें आपके जिगर तक जाएंगी और वापस आएंगी। इन तरंगों की पिच इतनी ऊंची होती है कि आप उन्हें सुन नहीं सकते।</li>\n' +
+    '<li>जांच करते समय आप एक हलका झटका महसूस कर सकते हैं, लेकिन इससे चोट नहीं लगनी चाहिए।</li>\n' +
+    '<li>ध्वनि तरंगों को रिकॉर्ड किया जाता है, मापा जाता है और एक मॉनिटर पर प्रदर्शित किया जाता है।</li>\n' +
+    '<li>माप लिवर में स्टिफनेस ( कठोरता) के स्तर को दर्शाता है।</li>\n' +
+    '</ul>\n' +
+    '<p><!-- /wp:list --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस प्रक्रिया में तो केवल पांच मिनट लगते हैं, लेकिन आपकी पूरी तैयारी में आधा घंटा लग सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>एमआरई (चुंबकीय अनुनाद इलास्टोग्राफी</strong>-magnetic resonance elastography) एक ही प्रकार की मशीन और पारंपरिक एमआरआई (magnetic resonance imaging) टेस्ट की तरह एक समान चरणों में किया जाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>एमआरई प्रक्रिया के दौरान :</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:list --></p>\n' +
+    '<ul>\n' +
+    '<li>आप एक पतली परीक्षण टेबल पर लेट जाएंगे।</li></p>\n' +
+    '<li>एक रेडियोलॉजी टैक्नीशियन आपके पेट पर एक छोटा सा पैड रखेगा। पैड कंपन का उत्सर्जन करेगा जो आपके लीवर से गुजरेगा।</li>\n' +
+    '<li>टेबल एक एमआरआई स्कैनर में स्लाइड करेगी, जो एक सुरंग के आकार की मशीन होती है जिसमें चुंबक होता है। स्कैनर के शोर, जो बहुत तेज़ होता है, को रोकने में मदद करने के लिए आपको परीक्षण से पहले इयरप्लग या हेडफ़ोन दिए जा सकते हैं।</li>\n' +
+    '<li>एक बार स्कैनर के अंदर, पैड सक्रिय हो जाएगा और आपके लिवर से कंपन का माप भेजेगा। माप को कंप्यूटर पर रिकॉर्ड किया जाएगा और एक विज़ुअल मैप में बदल दिया जाएगा जो आपके लिवर की कठोरता को दर्शाता है।</li>\n' +
+    '<li>टेस्ट में लगभग 30 से 60 मिनट लगते हैं।</li>\n' +
+    '</ul>\n' +
+    '<p><!-- /wp:list --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>क्या आपको परीक्षा की तैयारी के लिए कुछ करने की आवश्यकता होगी</strong><strong>?</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अल्ट्रासाउंड इलास्टोग्राफी के लिए आपको किसी विशेष तैयारी की आवश्यकता नहीं है। यदि आप एमआरई कराने जा रहे हैं, तो टेस्ट से पहले सभी धातु के गहने और सहायक उपकरण निकालना सुनिश्चित करें।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>क्या इलास्टोग्राफी टेस्ट के कोई जोखिम हैं</strong><strong>? (Are there any risks to the ela'... 3752 more characters,
+  storyimage1: 'HhIw5I5I50YT4wULCTdi.jpg',
+  videos: null,
+  tags: 'health test, health-test, स्वस्थ आहार, svsth-aahaar',
+  redirectURL: 'ultrasound-elastography-in-hindi',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'health test, health-test, स्वस्थ आहार, svsth-aahaar',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'ultrasound-elastography-in-hindi',
+  createdDate: 'May 01, 2022, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 35259,
+      storyheading: 'करतम भुगतम - ज्योतिष और आस्था की एक दिल दहला देने वाली कहानी',
+      storysubheading: 'Kartam Bhugtam review in Hindi',
+      englishurl: 'entertainment-and-bollywood',
+      redirectURL: 'Kartam-Bhugtam-review-in-Hindi',
+      category_type: '1',
+      storyImage1: 'Kartam-Bhugtam-review-in-Hindi-638516452799075328.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Kartam Bhugtam review in Hindi',
+      category_name: 'मनोरंजन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 33231,
+      storyheading: '“मैं लड़ेगा” : आकाश प्रताप सिंह के मजबूत कंधों पर खड़ी एक मर्मस्पर्शी कहानी',
+      storysubheading: 'Main Ladega Review in Hindi ',
+      englishurl: 'entertainment-and-bollywood',
+      redirectURL: 'Main-Ladega-Review-in-Hindi',
+      category_type: '1',
+      storyImage1: 'Main-Ladega-Review-in-Hindi-638498177545739223.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Main Ladega Review in Hindi ',
+      category_name: 'मनोरंजन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 30200,
+      storyheading: '‘ऐ वतन मेरे वतन’ का संदेश',
+      storysubheading: 'Ae Watan Mere Watan review in Hindi ',
+      englishurl: 'column',
+      redirectURL: 'Ae-Watan-Mere-Watan-review-in-Hindi',
+      category_type: '1',
+      storyImage1: 'Ae-Watan-Mere-Watan-638474320854915822.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Ae Watan Mere Watan review in Hindi ',
+      category_name: 'स्तंभ',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29707,
+      storyheading: 'Hindutva Movie Review : भारी संवादों तले दबा हिंदुत्व',
+      storysubheading: 'hindutva-bollywood-movie-review-in-hindi',
+      englishurl: 'news-2',
+      redirectURL: 'hindutva-bollywood-movie-review-in-hindi',
+      category_type: '1',
+      storyImage1: 'hxubnmD86LPcdqi33FEm.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'film review, film-review, Film, film, फिल्म समीक्षा, philm-smiikssaa',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 4388,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Jun 23 2019  6:30PM',
+  storyheading: ' समीक्षा – शैडो पॉलिटिक्स',
+  storysubheading: 'book-review-shadow-politics',
+  storysynopsis: ' समीक्षा – शैडो पॉलिटिक्स',
+  fullstory: '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">छाया राजनीति (शैडो पॉलिटिक्स) का इतिहास मानव इतिहास जितना ही पुराना है। किंतु, इस विषय पर हिंदी में किसी पुस्तक का सर्वथा अभाव है। इस दृष्टिकोण से अनिल राय की पुस्तक शैडो पॉलिटिक्स न सिर्फ एक नए विषय को हिंदी में प्रस्तुत करती है बल्कि इस विषय को कितनी संतुलित दृष्टि से लिखा जाए, इसके भी मानक खड़े करती है। पुस्तक की सबसे उल्लेखनीय उपलब्धि स्वातंत्र्योत्तर भारत की राजनीति में इस प्रकार की स्थिति की बेहद रोचक और पठनीय सामग्री की प्रस्तुति है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"center","textColor":"vivid-red","backgroundColor":"very-light-gray"} --></p>\n' +
+    '<p style="text-align:center" class="has-text-color has-background has-vivid-red-color has-very-light-gray-background-color"><strong>रमाकांत मिश्र</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">राजनीति भारतीय मानस का अभिन्न अंग है। हमारे दैनिक जीवन में अन्य वस्तुओं और भावों की तरह राजनीति भी समाविष्ट है। ऐसे में किसी एक विचारधारा से प्रभावित होना सहज है। किंतु पुस्तक में लेखकीय दायित्व का निर्वाह करते हुए जिस निस्संगता का परिचय दिया गया है, श्लाघनीय है। यह बहुत स्वाभाविक होता कि लेखक अपनी विचारधारा के अनुसार किसी को छोड़ देता या फिर किसी को निंदित करता। किंतु पूरी पुस्तक में विभिन्न राजनैतिक विचारधाराओं के सत्ताधीशों और उनकी छायाओं का वर्णन करते हुए किसी भी प्रकार के पक्षपात से दूरी रखी गई है। लेखक के तौर पर यह बहुत  बड़ी उपलब्धि है औऱ इसी कारण ये पुस्तक हर किसी को समान रूप से स्वीकार्य होगी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">पुस्तक की भाषा सरल, सहज औऱ सटीक है जोकि अपने विषय को संप्रेषित करने में न सिर्फ समर्थ हुई है बल्कि इससे कुछ अन्य निष्कर्ष निकाल लेने का कोई अवसर नहीं देती है। पुस्तक की शैली तथ्यों को विचारों से कुछ इस प्रकार समन्वित करते हुए चलती है कि लगता है कि आप पुस्तक न पढ़ रहे हों बल्कि इस पर कोई चर्चा कर रहे हों।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">जैसा कि भूमिका में लिखा गया है, पुस्तक आम जन के लिए है और तथ्यों को यथावत प्रस्तुत किया गया है। पुस्तक में सूचनाएं हैं किंतु उनके विषय में या फिर उनके इतिहास में जाने से बचा गया है। इस प्रकार ये पुस्तक इस विषय में किसी गहन और विस्तृत संवाद की स्थापना नहीं करती। किंतु संभवतः चर्चा का प्रवेश होने से पक्षधरता का भी प्रवेश चाहे या अनचाहे हो सकता था, लेखक ने संभवतः इसी से बचने की कोशिश की है। इस प्रकार ये पुस्तक आपको आधुनिक काल में भारतीय राजनीति में छाया राजनीति की एक असमीक्षित झलक उपलब्ध कराती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">पुस्तक में भारतीय राजनीति के बारह चिर-परिचित चेहरों को चुना गया है जिसमें प्रथम प्रधानमंत्री पंडित जवाहर लाल नेहरु से आरंभ होकर वर्तमान प्रधानमंत्री श्री नरेंद्र मोदी तक आते हैं। इन बारह शख्सियतों के इस सावधान चयन से राष्ट्रीय और क्षेत्रीय दोनो ही स्तरों पर भारतीय राजनीति के स्पदंन को अऩुभव किया जा सकता है जो कि एक जागरूक नागरिक के लिए आवश्यक है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">यह एक ऐसी पुस्तक है जिसमें किसी भी अध्याय को कभी भी पढ़ा जा सकता है किंतु एक बार शुरू करने पर आप वो अध्याय खत्म किए बिना रूक नहीं सकते और उस अध्याय के खत्म हो जाने के बाद दूसरा अध्याय पढ़ने की अदम्य अभिलाषा जागृत हो जाती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">वर्तमान संस्करण आमजन के लिए सर्वथा उपयुक्त है और इस विषय में अधिक जानने की इच्छा उत्पन्न करता है। आशा की जा सकती है कि लेखक अपने विस्तृत अनुभव और शोध से इस पुस्तक का एक कहीं विस्तृत और गहन संस्करण भी लेकर आएंगे जो इस क्षेत्र के शोधार्थियों और जिज्ञासुओं के लिए विषय का सम्यक परिचय समझी जा सकेगी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>किताब - शैडो पॉलिटिक्स</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>लेखक – अनिल राय</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>प्रकाशक – रीडिंग रूम्स</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>मूल्य – 225/-</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify">(<em>रमाकांत मिश्र पारिस्थितिकी आधारित थ्रिलर उपन्यासकार और लेखक हैं तथा भारतीय वानिकी अनुसंधान एवं शिक्षा परिषद में सहायक मुख्य तकनीकी अधिकारी के पद पर कार्यरत हैं।</em>)</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p style="text-align:justify"><strong>लेखक के बारे में -</strong> अनिल राय का पत्रकारिता में 16 साल का अनुभव है। उन्होंने अपने करियर की शुरूआत 2002 में प्रशिक्षु रिपोर्टर के रूप में शुरू की थी। इसके पश्चात उन्होंने सहारा इंडिया टेलीविजन नेटवर्क में प्रशिक्षु के रूप में शुरुआत की और आगे बढ़ते हुए पहले समय यूपी/उत्तराखंड चैनल के प्रमुख और फिर सहारा न्यूज ब्यूरो के कार्यकारी निदेशक एवं प्रमुख की जिम्मेदारियों का सफलतापूर्वक निर्वहन किया। 2015 में उन्होंने न्यूज वर्ल्ड इंडिया चैनल में कार्यकारी निदेशक एवं प्रोग्रामिंग प्रमुख के रूप में शुरूआत की और एक साल बाद ही उन्हें चैनल के प्रबंध संपादक की जिम्मेदारी दे दी गई। वर्तमान में वे नेटवर्क 18 में एडिटर-स्पेशल प्रोजेक्ट के पद पर कार्यरत हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:core-embed/youtube {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/zhvW9c61Zfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/zhvW9c61Zfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:core-embed/youtube --></p>\n' +
+    '<p><!-- wp:latest-posts /--></p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: 'book review, book-review, Shadow Politics, shadow-politics',
+  redirectURL: 'book-review-shadow-politics',
+  englishurl: 'opinion-english',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'book review, book-review, Shadow Politics, shadow-politics',
+  catname: 'Opinion',
+  catID: 90,
+  canonicalUrl: 'book-review-shadow-politics',
+  createdDate: 'June 23, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 29688,
+      storyheading: 'प्लाज्मा झिल्ली : जानिए क्या झिल्लियों के किनारों पर बसता है जीवन?',
+      storysubheading: 'plasma-membrane-in-hindi',
+      englishurl: 'national',
+      redirectURL: 'plasma-membrane-in-hindi',
+      category_type: '1',
+      storyImage1: '7SCMDATU2cyYO7XIFiZ0.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'एंजाइम, enjaaim, प्रोटीन, prottiin',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'देशबन्धु',
+  category_type: 1,
+  storyID: 23179,
+  authorID: 21,
+  author_enname: 'deshdel',
+  author_image: 'Deshbandhu.jpg',
+  storydate: 'Jul  9 2022  6:30PM',
+  storyheading: 'समझिए बुढ़ापे की जड़ में क्या है',
+  storysubheading: 'understand-what-is-at-the-root-of-old-age',
+  storysynopsis: 'समझिए बुढ़ापे की जड़ में क्या है',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>बुढ़ापे की जड़ में है एक एंजाइम</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>परिवर्तन और बूढ़े होने की प्रक्रियाएं ही हैं जो हमें समय बीतने का एहसास कराती हैं। और समय बीतने का एहसास न हो तो मानव विकास, कला व सभ्यता काफी अलग होंगे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>प्रोसीडिंग्स ऑफ द नेशनल एकेडमी ऑफ साइंसेज (Proceedings of the National Academy of Sciences)</strong> (<strong><a href="https://www.hastakshep.com/influenza-infection-may-increase-the-risk-of-bacterial-pneumonia/" data-type="post" data-id="8458" target="_blank" rel="noreferrer noopener">पीएनएएस</a></strong>) में ए एंड एम विश्वविद्यालय, एरिज़ोना स्टेट विश्वविद्यालय, चाइना कृषि विश्वविद्यालय और स्कोल्वो विज्ञान व टेक्नॉलॉजी संस्थान के शोधकर्ताओं के एक शोध पत्र में <strong>जीवित जीवों में उम्र बढ़ने के तंत्र की समझ (an understanding of the mechanism of aging in living organisms)</strong> एक कदम आगे बढ़ी है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस कदम का सम्बंध कोशिकाओं में उपस्थित डीएनए के एक अंश से है, जो <strong><a href="https://www.hastakshep.com/how-many-chromosomes-are-there-in-a-human-cell/" data-type="post" data-id="8315" target="_blank" rel="noreferrer noopener">कोशिकाओं के विभाजन </a></strong>और नवीनीकरण में भूमिका निभाता है। यह घटक सबसे पहले ठहरे हुए पानी की एक शैवाल में खोजा गया था और आगे चलकर पता चला कि यह अधिकांश सजीवों के डीएनए में पाया जाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>पृथ्वी पर सबसे लंबा जीवन किसके पास है? दुनिया में सबसे ज्यादा उम्र किसकी होती है? Who has the longest life on earth?</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:image {"id":25732,"sizeSlug":"large","linkDestination":"none"} --></p>\n' +
+    '<figure class="wp-block-image size-large"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/oyytI8ooNifbTv6DEdv5.jpg" alt="बुढ़ापे की जड़ में क्या है what is at the root of old age" class="wp-image-25732"/><br />\n' +
+    '<figcaption>बुढ़ापे की जड़ में क्या है what is at the root of old age?</figcaption></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:image --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पीएनएएस के शोध पत्र में टीम ने खुलासा किया है कि यह घटक पौधों में कैसे काम करता है। धरती पर सबसे लंबी उम्र पौधे ही पाते हैं, इसलिए इनमें इस घटक की समझ को आगे चलकर अन्य जीवों और मनुष्यों पर भी लागू किया जा सकेगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>सजीवों में वृद्धि और प्रजनन (</strong><strong>growth and reproduction in living organisms)</strong> दरअसल कोशिका विभाजन के ज़रिए होते हैं। विभाजन के दौरान कोई भी कोशिका दो कोशिकाओं में बंट जाती हैं, जो मूल कोशिका के समान होती हैं। यह प्रतिलिपिकरण <strong>कोशिका के केंद्रक में उपस्थित डीएनए</strong> <strong>(DNA present in the nucleus of the cell)</strong> की बदौलत होता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>डीएनए क्या होता है</strong><strong>?</strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>डीएनए</strong><strong> </strong><strong>अर्थात् डीऑक्सीराइबो न्यूक्लिक अम्ल (</strong><strong>Deoxyribonucleic acid)</strong> एक लंबा अणु होता है जिसमें कोशिका के निर्माण का ब्लूप्रिंट भी होता है और स्वयं की प्रतिलिपि बनाने का साधन भी होता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>डीएनए की प्रतिलिपि (</strong><strong>DNA copy</strong><strong>)</strong> इसलिए बन पाती है क्योंकि यह दो पूरक शृंखलाओं से मिलकर बना होता है। जब ये दोनों शृंखलाएं अलग-अलग होती हैं, तो दोनों में यह क्षमता होती है कि वे अपने परिवेश से पदार्थ लेकर दूसरी शृंखला बना सकती हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>लेकिन इसमें एक समस्या है। प्रतिलिपिकरण के दौरान ये शृंखलाएं लंबी हो सकती हैं या किसी अन्य डीएनए से जुड़ सकती हैं। ऐसा होने पर जो अणु बनेगा वह अकार्यक्षम होगा और इस तरह से बनने वाली कोशिकाएं नाकाम साबित होंगी। लिहाज़ा डीएनए में एक ऐसी व्यवस्था बनी है कि ऐसी गड़बड़ियों को रोका जा सके।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>टेलोमेर क्या कार्य करता है</strong><strong>? </strong><strong>टेलोमेयर से आप क्या समझते हैं</strong><strong>?</strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>प्रत्येक डीएनए के सिरों पर कुछ ऐसी रासायनिक रचना होती है जो बताती है कि वह उस अणु का अंतिम हिस्सा है। और डीएनए में यह क्षमता होती है कि वह अपने सिरों पर यह व्यवस्था बना सके।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>सिरे पर स्थित इस व्यवस्था को <strong>टेलोमेयर (</strong><strong>Telomere)</strong> कहते हैं। यह वास्तव में उन्हीं इकाइयों से बना होता है जो डीएनए को भी बनाती हैं। और यह टेलोमेयर एक एंज़ाइम की मदद से बनाया जाता है जिसे टेलोमरेज़ कहते हैं। कोशिकाओं में किसी भी रासायनिक क्रिया के संपादन हेतु एंज़ाइम पाए जाते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>बुढ़ाने की प्रक्रिया की प्रकृति को समझने की दिशा में शुरुआती खोज यह हुई थी कि कोई भी कोशिका कितनी बार विभाजित हो सकती है, इसकी एक सीमा होती है। आगे चलकर इसका कारण यह पता चला कि हर बार विभाजन के समय जो नई कोशिकाएं बनती हैं, उनका डीएनए मूल कोशिका के समान नहीं होता। हर विभाजन के बाद टेलोमेयर थोड़ा छोटा हो जाता है। एक संख्या में विभाजन के बाद टेलोमेयर निष्प्रभावी हो जाता है और कोशिका विभाजन रुक जाता है। लिहाज़ा, वृद्धि धीमी पड़ जाती है, सजीव का कामकाज ठप होने लगता है और तब कहा जाता है कि वह जीव बुढ़ा रहा है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उपरोक्त खोज 1980 में <strong>एलिज़ाबेथ ब्लैकबर्न (<a rel="nofollow" href="https://www.nobelprize.org/prizes/medicine/2009/blackburn/biographical/">Elizabeth H. Blackburn</a> - Australian-American Researcher)</strong>, <strong>कैरोल ग्राइडर (<a rel="nofollow" href="https://www.nobelprize.org/prizes/medicine/2009/greider/facts/">Carol W. Greider</a> -American molecular biologist)</strong> और <strong>जैक ज़ोस्ताक (<a rel="nofollow" href="https://www.nobelprize.org/prizes/medicine/2009/szostak/facts/">Jack W. Szostak</a> - Canadian-American biologist)</strong> ने की थी और इसके लिए उन्हें<strong> 2009 में नोबेल पुरस्कार</strong> <strong>(Nobel Prize in 2009)</strong> से नवाज़ा गया था। अच्छी बात यह थी कि इन शोधकर्ताओं ने एक एंज़ाइम (टेलोमरेज़) की खोज भी की थी जिसमें टेलोमेयर के विघटन को रोकने या धीमा करने और यहां तक कि उसे पलटने की भी क्षमता होती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>टेलोमेरेज़ आनुवंशिक जानकारी की रक्षा कैसे करता है</strong><strong>?</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>टेलोमरेज़ में वह सांचा मौजूद होता है जो आसपास के परिवेश से पदार्थों को जोड़कर डीएनए का टेलोमरेज़ वाला खंड बना सकता है। इसके अलावा टेलोमरेज़ में यह क्षमता भी होती है कि वह पूरे डीएनए की ऐसी प्रतिलिपि बनवा सकता है, जिसमें अंतिम सिरा नदारद न हो। इस तरह से टेलोमरेज़ विभाजित होती कोशिकाओं को तंदुरुस्त रख सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>टेलोमेयर और टेलोमरेज़ की क्रिया कोशिका मृत्यु और कोशिकाओं की वृद्धि में निर्णायक महत्व रखती है। वैसे किसी भी जीव की अधिकांश कोशिकाएं बहुत बार विभाजित नहीं होतीं, इसलिए अधिकांश कोशिकाओं को टेलोमेयर के घिसाव या संकुचन से कोई फर्क नहीं पड़ता। लेकिन स्टेम कोशिकाओं (stem cells) की बात अलग है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><strong>स्टेम सेल क्या होता है - </strong><strong>Stem Cell In Hindi!</strong></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong><a href="https://www.hastakshep.com/new-biomaterial-helpful-in-rebuilding-bone-tissue-developed/" data-type="post" data-id="16143" target="_blank" rel="noreferrer noopener">स्टेम सेल्स </a></strong>वे कोशिकाएं होती हैं जो क्षति या बीमारी की वजह से नष्ट होने वाली कोशिकाओं की प्रतिपूर्ति करती हैं। उम्र बढ़ने के साथ ये स्टेम कोशिकाएं कम कारगर रह जाती हैं और जीव चोट या बीमारी से उबरने में असमर्थ होता जाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>दरअसल, कई सारी ऐसी बीमारियां है जो सीधे-सीधे टेलोमरेज़ की गड़बड़ी की वजह से होती हैं। जैसे एनीमिया, त्वचा व श्वसन सम्बंधी रोग।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इसके आधार पर शायद ऐसा लगेगा कि टेलोमरेज़ को प्रोत्साहित करने के तरीके खोजकर हम वृद्धावस्था से निपट सकते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>लेकिन गौरतलब है कि टेलोमरेज़ का बढ़ा हुआ स्तर कैंसर कोशिकाओं को अनियंत्रित विभाजन में मदद कर नई समस्याएं पैदा कर सकता है। अत: <strong><em>टेलोमरेज़ की क्रियाविधि</em></strong> को समझना आवश्यक है ताकि हम ऐसे उपचार विकसित कर सकें जिनमें ऐसे साइड प्रभाव न हों।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>What does telomerase do in humans?</strong><strong> </strong><strong>| </strong><strong>मनुष्यों में टेलोमेरेज़ क्या करता है</strong><strong>?</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पीएनएएस के शोध पत्र के लेखकों ने बताया है कि वैसे तो टेलोमरेज़ की भूमिका सारे जीवों में एक-सी होती है, लेकिन यह सही नहीं है कि उसका कामकाजी हिस्सा भी सारे सजीवों में एक जैसा हो। कामकाजी हिस्से से आशय टेलोमरेज़ के उस हिस्से से है जो कोशिका विभाजन के दौरान डीएनए को टेलोमेयर के संश्लेषण में मदद देता है। इस घटक को टेलोमरेज़ आरएनए (या संक्षेप में टीआर) कहते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>शोध पत्र में स्पष्ट किया गया है कि टीआर की प्रकृति को समझना काफी चुनौतीपूर्ण रहा है क्योंकि विभिन्न प्रजातियों में टीआर की प्रकृति व संरचना बहुत अलग-अलग होती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>टीम ने अपना कार्य एरेबिडॉप्सिस थैलियाना नामक पौधे के टेलोमरेज़ के साथ प्रयोग और विश्लेषण के आधार पर किया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>अरबीडोफिसिस थालीआना</strong> पादप वैज्ञानिकों के लिए पसंदीदा मॉडल पौधा रहा है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>शोध पत्र के मुताबिक अध्ययन से'... 2863 more characters,
+  storyimage1: 'SB0dOqSpsTVQvF0V3nYf.jpg',
+  videos: null,
+  tags: 'एंजाइम, enjaaim, नोबेल पुरस्‍कार विजेता, nobel-purskaar-vijetaa, नोबेल पुरस्कार, nobel-purskaar, पृथ्वी, prthvii',
+  redirectURL: 'understand-what-is-at-the-root-of-old-age',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'एंजाइम, enjaaim, नोबेल पुरस्‍कार विजेता, nobel-purskaar-vijetaa, नोबेल पुरस्कार, nobel-purskaar, पृथ्वी, prthvii',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'understand-what-is-at-the-root-of-old-age',
+  createdDate: 'July 09, 2022, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 43357,
+      storyheading: 'नेहरू जी का संविधान सभा में झंडा प्रस्ताव: तिरंगे का इतिहास और महत्व',
+      storysubheading: 'Our flag in the eyes of Nehruji',
+      englishurl: 'aapki najar',
+      redirectURL: 'Our-flag-in-the-eyes-of-Nehruji',
+      category_type: '1',
+      storyImage1: 'Our-flag-in-the-eyes-of-Nehruji-638592539976593848.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'नेहरू जी का संविधान सभा में झंडा प्रस्ताव, तिरंगे का इतिहास और महत्व, नेहरू जी का संविधान सभा में भाषण, संविधान सभा में झंडा प्रस्ताव, भारतीय राष्ट्रीय ध्वज का इतिहास, तिरंगे के रंग और अर्थ, पंडित नेहरू का प्रस्ताव, स्वतंत्रता का प्रतीक झंडा,\r\n' +
+        'तिरंगे की प्रेरणा, नेहरू जी और भारतीय झंडा, संविधान सभा की बहस, भारतीय झंडे का महत्व, हमारे राष्ट्रीय ध्वज तिरंगे का इतिहास,',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 35266,
+      storyheading: 'आज़ादी के आंदोलन पर जवाहरलाल नेहरू के विचार',
+      storysubheading: 'Jawaharlal Nehrus views on freedom movement',
+      englishurl: 'news-2',
+      redirectURL: 'Jawaharlal-Nehrus-views-on-freedom-movement',
+      category_type: '1',
+      storyImage1: 'Jawaharlal-Nehrus-views-on-freedom-movement-638526887210888290.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'आज़ादी के आंदोलन पर जवाहरलाल नेहरू के विचार',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 35258,
+      storyheading: 'राष्ट्र के सामने संकट पर जवाहरलाल नेहरू के विचार',
+      storysubheading: 'Jawaharlal Nehrus views on crisis facing nation',
+      englishurl: 'news-2',
+      redirectURL: 'Jawaharlal-Nehrus-views-on-crisis-facing-nation',
+      category_type: '1',
+      storyImage1: 'Jawaharlal-Nehrus-views-on-crisis-facing-nation-638515859046881351.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'राष्ट्र के सामने संकट पर जवाहरलाल नेहरू के विचार',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 34261,
+      storyheading: 'राष्ट्र को गतिशील बनाने पर जवाहरलाल नेहरू के विचार',
+      storysubheading: 'Jawaharlal Nehrus thoughts on making nation dynamic',
+      englishurl: 'news-2',
+      redirectURL: 'Jawaharlal-Nehrus-thoughts-on-making-nation-dynamic',
+      category_type: '1',
+      storyImage1: 'Jawaharlal-Nehrus-thoughts-on-making-nation-dynamic-638513787207527113.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'राष्ट्र को गतिशील बनाने पर जवाहरलाल नेहरू के विचार',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 9208,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'May 28 2021  6:30PM',
+  storyheading: 'नेहरू का इतिहास बोध भारतीय संस्कृति की तरह विराट और विशाल, गंगा की तरह अविरल प्रवाह्युक्त और सार्वभौम था',
+  storysubheading: 'history-perception-of-jawaharlal-nehru-vijay-shankar-singh',
+  storysynopsis: 'नेहरू का इतिहास बोध भारतीय संस्कृति की तरह विराट और विशाल, गंगा की तरह अविरल प्रवाह्युक्त और सार्वभौम था',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>जवाहर लाल नेहरू का इतिहास बोध</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>History Perception of Jawaharlal Nehru : Vijay Shankar Singh</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify","fontSize":"medium"} --></p>\n' +
+    '<p class="has-text-align-justify has-medium-font-size"><strong><a rel="noreferrer noopener" href="https://www.hastakshep.com/pt-jawaharlal-nehrus-view-of-indian-culture/" data-type="post" data-id="6147" target="_blank">पं. जवाहर लाल नेहरू</a></strong>,<strong> न केवल आज़ादी के लिए किये गए संघर्ष के शीर्षस्थ नेताओं में से एक रहे हैं, बल्कि वे देश के प्रथम प्रधानमंत्री (First Prime Minister of India) भी रहे हैं। राजनीति में <a href="https://www.hastakshep.com/some-interesting-episodes-of-nehrus-life/" data-type="post" data-id="8106" target="_blank" rel="noreferrer noopener">पं. नेहरू </a>का एक अलग व्यक्तित्व रहा है। आधुनिक भारत के निर्माताओं में उनका स्थान प्रथम पंक्ति में है। पर आज इस लेख में जिस क्षेत्र में उनके योगदान की चर्चा की जा रही है, वह राजनीति से बिलकुल अलग अकादमिक क्षेत्र है। यह क्षेत्र है, इतिहास लेखन का। <a href="https://www.hastakshep.com/the-left-is-the-claimant-of-bhagat-singhs-legacy-professor-chaman-lal/" data-type="post" data-id="7445" target="_blank" rel="noreferrer noopener">नेहरू</a> के इतिहास बोध का।</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>जवाहर लाल नेहरू की पुस्तकें </strong><strong></strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    "<p>अहमदनगर जेल में लिखी गयी पं. जवाहर लाल नेहरू की कालजयी इतिहास पुस्तक, ” <strong>'Glimpses of world history' Book by Jawaharlal Nehru</strong>,” जिसका अनुवाद, ”<strong>विश्व इतिहास की एक झलक</strong>” मोटे तौर पर विश्व इतिहास की घटनाओं का एक सिलसिलेवार विवरण देती है। उसे इतिहास की टेक्स्ट बुक या अकादमिक इतिहास पुस्तक तो नहीं कहा जा सकता, पर वह दुनिया भर में घटने वाली ऐतिहासिक घटनाओं का रोचक विवरण अवश्य प्रस्तुत करती है। यह पुस्तक पत्र लेखन शैली में है। पिता नेहरू ने पुत्री इंदिरा को विश्व इतिहास की एक झलक दिखायी है। पत्र लेखन के माध्यम से इतिहास लिखने का यह एक अनुपम प्रयोग था।</p></p>\n" +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इसके अतिरिक्त उनकी एक और प्रसिद्ध पुस्तक है, ‘द डिस्कवरी ऑफ़ इंडिया’, ( भारत एक खोज )। प्राचीन भारत के वेदों से ले कर अब तक भारत की यह काल यात्रा है। यह पुस्तक देश के अतीत के साथ साथ, प्राचीन वांग्मय और भारतीय मनीषा के साथ, नेहरू के जुड़ाव को दिखाती है। यह दोनों पुस्तकें यह प्रमाणित करने में सफल रहीं है कि, वह एक स्वाधीनता संग्राम के संघर्षशील नायक और दृष्टा प्रधानमंत्री ही नहीं थे, बल्कि एक सिद्धहस्त लेखक भी थे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>जवाहरलाल नेहरू की कहानी</strong><strong></strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">वकालत, नेहरू के परिवार का पुश्तैनी पेशा था। नेहरू बचपन में ही पढ़ने के लिये इंग्लैंड भेज दिए गए। प्रारंभिक शिक्षा, हैरो स्कूल, और उच्च शिक्षा कैंब्रिज में हुयी। वहीं से इन्होंने बार ऐट लॉ की डिग्री ली। फिर स्वदेश आगमन और इलाहाबाद में रह कर वक़ालत का कार्य प्रारम्भ किया। इन्होंने आठ साल वकालत की। पिता मोती लाल नेहरू का रुझान तब तक देश सेवा की ओर हो चुका था। वह सर सीआर दास, जैसे बड़े वकीलों के साथ मिल कर स्वराज पार्टी बना चुके थे। गांधी का देश में आगमन हो चुका था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">गांधी जी का असहयोग आंदोलन शुरू तो हुआ पर चौरी चौरा की हिंसक घटना के कारण आंदोलन की अकाल मृत्य हो गयी। गांधी को सजा हो गयी थी। वे जेल में थे। राजनीतिक परिवेश में ठंडापन था। जवाहर लाल नेहरू जो 1919 में हुए जलियांवाला बाग़ नरसंहार के बाद से ही राजनीति में क़दम रख चुके थे, अब और सक्रिय हो गए।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>1930 के ऐतिहासिक कांग्रेस अधिवेशन, जो लाहौर में रावी नदी के तट पर हुआ, में वे राष्ट्रपति चुने गए। कांग्रेस अध्यक्ष को उन दिनों राष्ट्रपति कहा जाता था। यह अधिवेशन ऐतिहासिक कहा जाता है क्यों कि इसी अधिवेशन में कांग्रेस ने भारत के पूर्ण स्वराज की मांग का प्रस्ताव पास कर अपना लक्ष्य और संघर्ष स्पष्ट कर दिया था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">स्वाधीनता संग्राम में नेहरू ने कुल 9 साल कारागार में बिताये। वह लाहौर, अहमदनगर, लखनऊ और नैनी जेलों में रहे। वहीं इनका अध्ययन और लेखन परिपक्व हुआ। कारागार के समय का इन्होंने सकारात्मक सदुपयोग किया। वह सुबह 9 बजे से लिखना पढ़ना शुरू करते थे, और देर रात तक उनका यह क्रम चलता रहता था। जेल के एकांत और अवकाश ने उन्हें देश के इतिहास, सभ्यता, संस्कृति और परम्पराओं के अध्ययन और पुनर्मूल्यांकन का अवसर दिया। उनका लेखन आत्म मुग्धता के लिए नहीं बल्कि देश की एक ऐसी तस्वीर प्रस्तुत करने के लिए था, जिस से देश का स्वाभिमान जागृत किया जा सके। उन्होंने कुल चार पुस्तकें लिखीं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    `<p class="has-text-align-justify">1929 में पहली पुस्तक लिखी गयी, ‘<strong>लेटर्स फ्रॉम ए फादर टू ए डॉटर</strong>‘ <strong>('Letters from a Father to His Daughter' Book by Jawaharlal Nehru)</strong>, जिसमें उन्होंने प्रागैतिहासिक काल का विवरण दिया है। 1934,-1935 में उनकी क्लासिक कही जाने वाली पुस्तक, ‘ The glimpses of world history ‘,( विश्व इतिहास की एक झलक ), आयी।</p></p>\n` +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">1936 <strong>पं. जवाहर लाल नेहरू की आत्मकथा</strong>, ‘ माय ऑटोबायोग्राफी,’( मेरी कहानी- Autobiography of Pt. Jawaharlal Nehru ) और 1946 में दर्शन, इतिहास और संस्कृति को ले कर लिखी गयी पुस्तक ”The Discovery of india” ( भारत एक खोज ) प्रकाशित हुयी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उनके इतिहास बोध को समझने के पूर्व उनकी पुस्तकों के बारे में जानना आवश्यक है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पिता के पत्र पुत्री के नाम, जो 1929 में प्रकाशित पुस्तक थी, में इनके वे पत्र संकलित हैं, जो इन्होंने इलाहाबाद प्रवास के दौरान लिखा था इंदिरा उस समय मसूरी में पढ़ रहीं थीं। इतिहास के साथ, वन्य जीव जंतुओं और अन्य विषयों पर इन्होंने अपनी पुत्री की बाल सुलभ जिज्ञासाओं के समाधान की कोशिश की है। यह प्रयास यह भी बताता है कि सार्वजनिक जीवन की तमाम व्यस्तताओं के बीच, उनमें एक आदर्श पिता जीवित रहा जिस ने संतान को संवारने में कोई भी कसर नहीं छोड़ी। अंग्रेज़ी में लिखे इन पत्रों पुस्तक के रूप में अनुवाद महान उपन्यासकार मुंशी प्रेमचंद ने किया था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">उनका एक पत्र जिसका उल्लेख यहां करना उचित होगा, जो वन्य जीव के विकास पर आधारित है। डार्विन के विकासवाद का सिद्धांत तब तक अस्तित्व में आ चुका था। उन्होंने लन्दन स्थित केनिग्स्टन म्युजियम में रखे जानवरों के चित्रों पर इस पत्र को केंद्रित किया। उन्होंने यह लिखा कि ठंडे और शीत ग्रस्त क्षेत्रों के जंतु अपने वातावरण के अनुसार ही शुभ्र होते हैं जब कि गर्म क्षेत्रों के जंतु और वनस्पतियाँ विभिन्न रंगों की होती हैं। उनकी इस धारणा के पीछे कोई वैज्ञानिक शोध हो या न हो लेकिन, बाल सुलभ जिज्ञासा को शांत करने की उनकी यह शैली अद्भुत थी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>दूसरा पत्र, मनुष्य की उत्पत्ति पर है। मनुष्य के विकास का विवरण देता यह पत्र नृतत्वशास्त्र में उनकी रूचि को भी बताता है। मूलतः यह पुस्तक बच्चों के लिए है। इसमें उनका कोई गंभीर इतिहास बोध नहीं झलकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">इतिहास की उनकी अवधारणा, तिथिक्रम का विवरण और घटनाओं का वर्णन ही नहीं है। विश्व इतिहास की एक झलक, जो 1934-35 में प्रकाशित हुयी, में उन्होंने एशिया के साम्राज्यों के उत्थान और पतन पर विहंगम दृष्टि डाली है। अर्नाल्ड टॉयनाबी के इतिहास एक अध्ययन के तर्ज़ पर उन्होंने सभ्यताओं के उत्थान और पतन को समझने और समझाने का प्रयास किया है। जिस से उनके अध्येता होने का प्रमाण मिलता है। कोई भी व्यक्ति जो विश्व इतिहास की रूपरेखा समझना और जानना चाहता है और संदर्भों की शुष्क वीथिका से बचना चाहता है वह इसका अध्ययन कर सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>1934 में ही उनकी आत्म कथा, मेरी कहानी प्रकाशित हुयी। आत्मकथा लेखन एक आधुनिक साहित्य विधा है। पहले खुद के बारे में कुछ कहना और उसे प्रचारित करना आत्म मुग्धता समझा जाता था। इसी लिए पूर्ववर्ती अनेक महान साहित्यकारों के व्यक्तिगत जीवन के बारे में कोई प्रामाणिक विवरण उपलब्ध नहीं होता। जो मिलता है वह या तो किंवदंती के रूप में या समकालीनों द्वारा दिए विवरण के रूप में है। स्वयं को पारदर्शिता के साथ देखना बहुत कठिन होता है वह भी तब, जब कि मनुष्य सार्वजनिक जीवन में हो। पर अपनी आत्म कथा में पं. नेहरू ने जो भी लिखा है वह उनकी खुद की ईमानदार विवेचना है। आप यूँ भी कह सकते हैं कि उनकी आत्मकथा का काल 1932 में ही ख़त्म हो जाता है। जब कि उनके जीवन के अनेक विवाद इस काल के बाद हुए। सुभाष बाबू के साथ विवाद, भारत विभाजन और प्रधान मंत्री काल के अनेक निर्णय, जिनको ले कर उनकी आलोचना होती है, के समय की कोई आत्म कथा लिखी ही नहीं गयी। संकट काल और आलोचना से घिरे होने पर, स्वयं को कैसे बिना लाग लपेट के प्रस्तुत किया जाय इस में आत्मकथा लेखक की कुशलता और ईमानदारी दोनों ही निहित होती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>लन्दन टाइम्स ने पं. नेहरू की पुस्तक <strong>मेरी कहानी</strong> को उस समय की पठनीय पुस्तकों के वर्ग में रखा था। इस पुस्तक में उनके परिवार, उनकी पढ़ाई और 1933 तक के आज़ादी के लिए किये गए संघर्षों का विवरण मिलता है। उस काल के शोधार्थियों के लिए यह पुस्तक एक सन्दर्भ और स्रोत का भी काम करती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उनकी सबसे परिपक्व कृति, भारत एक खोज। है। 1944 में यह पुस्तक प्रकाशित हुयी। भारतीय मनीषा, सभ्यता और संस्कृति का अद्भुत सर्वेक्षण इस पुस्तक में है। पूर्णतः अंग्रेज़ी परिवेश में पले और पढ़े लिखे नेहरू द्वारा वेदों से लेकर पुराणों का अध्ययन उनके अंदर छिपे प्राच्य दर्शन को दिखाता है। इस पुस्तक में भारत की एक यात्रा है। इतिहास है, परम्पराएँ हैं और संस्कृति की जीवंतता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>नेहरू के जीवनीकार एम जे अकबर इस पुस्तक की लेखन शैली की भूरि-भूरि प्रशंसा करते हैं। वह बताते'... 9047 more characters,
+  storyimage1: '1zlrgPRquUG5FGAYZ2oK.jpg',
+  videos: null,
+  tags: 'नेहरू के सपनों का भारत, nehruu-ke-spnon-kaa-bhaart, नेहरू की वैज्ञानिक सोच, nehruu-kii-vaijnyaanik-soc, नेहरू, nehruu, नेहरूजी का सपना, nehruujii-kaa-spnaa, नेहरूजी, nehruujii, पं. जवाहर लाल नेहरू, pn-jvaahr-laal-nehruu, पं. नेहरू, pn-nehruu, पंडित जवाहरलाल नेहरू की पुण्यतिथि, pnddit-jvaahrlaal-nehruu-kii-punnytithi, पंडित नेहरू, pnddit-nehruu',
+  redirectURL: 'history-perception-of-jawaharlal-nehru-vijay-shankar-singh',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'नेहरू के सपनों का भारत, nehruu-ke-spnon-kaa-bhaart, नेहरू की वैज्ञानिक सोच, nehruu-kii-vaijnyaanik-soc, नेहरू, nehruu, नेहरूजी का सपना, nehruujii-kaa-spnaa, नेहरूजी, nehruujii, पं. जवाहर लाल नेहरू, pn-jvaahr-laal-nehruu, पं. नेहरू, pn-nehruu, पंडित जवाहरलाल नेहरू की पुण्यतिथि, pnddit-jvaahrlaal-nehruu-kii-punnytithi, पंडित नेहरू, pnddit-nehruu',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'history-perception-of-jawaharlal-nehru-vijay-shankar-singh',
+  createdDate: 'May 28, 2021, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}

@@ -1,0 +1,948 @@
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 13451,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'पुलिस उच्चाधिकारियों द्वारा विधि प्रक्रिया का उपहास',
+  storysubheading: 'पुलिस-उच्चाधिकारियों-द्व',
+  storysynopsis: 'पुलिस उच्चाधिकारियों द्वारा विधि प्रक्रिया का उपहास',
+  fullstory: '<p>रणधीर सिंह सुमन</p>\n' +
+    '<p>बाराबंकी जनपद में हैदरगढ़ पुलिस ने दावा किया कि दो करोड़ की मूर्तियाँ उसने बरामद की हैं और तीन व्यक्तियों को अपराध संख्या 505/11 अंतर्गत धरा 41, 411, 414 आइ.पी.सी के तहत गिरफ्तार किया। पुलिस ने लिखा-पढ़ी में लिखा की बरामद गौतमबुद्ध व श्रीकृष्ण की मूर्ती को मौके पर सील मोहर कर दी और वहीँ पर फर्द बरामदगी लिखी गयी। बाद में अपर पुलिस अधीक्षक श्रीपर्णा गांगुली व अन्य पुलिस अधिकारियो ने प्रेस के सामने गौतम बुद्ध व श्रीकृष्ण की मूर्तियों के साथ फोटोवें खिचवा कर प्रकाशित कराया।<br />\n' +
+    'गौरतलब है कि किसी भी अवैध वस्तु की बरामदगी करने वाला अधिकारी बरामदगी स्थल पर ही उस वास्तु को सर्वमोहर करता है और मौके पर फर्द बरामदगी लिख कर उसकी एक प्रति अभियुक्तों को देता है और फिर सम्बंधित पुलिस स्टेशन आकर फर्द बरामदगी को हेड मोहर्रिर को देता है। हेड मोहर्रिर फर्द बरामदगी के आधार पर चिक प्रथम सूचना रिपोर्ट तैयार करता है। मुलजिम को हवालात में दाखिल करता है। बरामद सील मोहर अवैध वस्तु को माल खाने में रखता है। जब अभियुक्त्गन को सम्बंधित मजिस्टेट के समक्ष पेश किया जाता है तो सर्व मोहर माल को मजिस्टेट से हस्ताक्षर करवाए जाते हैं। इस बीच में सर्वमोहर माल को खोलने का अधिकार किसी को नहीं है। यदि सर्व मोहर माल को खोल दिया जाता है तो वाद में अभियुक्त को सजा नहीं करायी जा सकती है और इस कार्य का लाभ अभियुक्त को मिलता है किन्तु पुलिस ने इस मामले में पूरी विधिक प्रक्रिया का उपहास उड़ाते हुए। नेताओं की स्टाइल में मूर्तियों के साथ फोटो खिंचवाकर प्रकाशित कराने से अभियुक्तों को ही लाभ होगा। इस प्रकरण की शिकायत जिला बार एशोसियेशन के पूर्व महामंत्री श्री प्रदीप सिंह एडवोकेट ने जिला मजिस्टेट से की है।</p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'पुलिस-उच्चाधिकारियों-द्व',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'पुलिस-उच्चाधिकारियों-द्व',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'डॉ-राम-पुनियानी',
+  category_type: 1,
+  storyID: 6784,
+  authorID: 10,
+  author_enname: 'rpuni',
+  author_image: 'DefaultImageHastakshep.jpg',
+  storydate: 'Sep  6 2016  6:30PM',
+  storyheading: 'गौभक्ति और गौमांस दरअसल, समुदाय विशेष के खिलाफ घृणा फैलाने का बहाना भर है',
+  storysubheading: 'गौभक्ति-और-गौमांस-दरअसल-स',
+  storysynopsis: 'गौभक्ति और गौमांस दरअसल, समुदाय विशेष के खिलाफ घृणा फैलाने का बहाना भर है',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>एक समुदाय विशेष के खिलाफ घृणा फैलाने का बहाना भर है</strong> <strong>गौभक्ति</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>गौमांस और राजनैतिक परिदृश्य</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">पिछले दो वर्षों में <strong>दलितों और मुसलमानों के विरुद्ध हिंसा की कई घटनाएं (</strong><strong>Many incidents of violence against Dalits and Muslims)</strong> समाचारपत्रों की सुर्खियां बनीं। इनमें से कुछ, जिनमें उना, गुजरात में जुलाई 2016 का घटनाक्रम शामिल है, ने देश के संवेदनशील नागरिकों की आत्मा को झकझोर कर रख दिया है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इसके पहले, जून 2015 में उत्तरप्रदेश के दादरी में मोहम्मद अखलाक की इस झूठे आरोप में पीट-पीटकर हत्या कर दी गई थी कि उसके घर गौमांस रखा था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>गौरक्षकों के लिए नरेन्द्र मोदी ने क्या कहा?</strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:image {"id":28008,"sizeSlug":"full","linkDestination":"none"} --></p>\n' +
+    '<figure class="wp-block-image size-full"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/" alt="PM Modi to launch nationwide animal healthcare campaign from Mathura – vrindavan" class="wp-image-28008"/><br />\n' +
+    '<figcaption>PM Modi to launch nationwide animal healthcare campaign from Mathura – vrindavan</figcaption></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:image --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>आज नरेन्द्र मोदी यह कह रहे हैं कि </strong><strong>80</strong><strong> प्रतिशत गौरक्षक असामाजिक तत्व हैं, </strong>परंतु इन्हीं मोदी ने 2014 के आम चुनाव के दौरान इस मुद्दे का इस्तेमाल समाज को धार्मिक आधार पर ध्रुवीकृत करने के लिए किया था। इसे जानने के लिए हमें केवल उनके भाषणों को याद करने की ज़रूरत है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>श्री मोदी ने कहा था कि,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>‘‘राणा प्रताप ने अपना जीवन गौरक्षा के लिए समर्पित कर दिया। उन्होंने गाय की रक्षा के लिए युद्ध लड़े और युवाओं के जीवन की कुर्बानी दी...’’।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उन्होंने देश से <strong>बीफ के निर्यात को ‘‘पिंक रेवोल्यूशन’’</strong> बताया था और उसकी कड़ी निंदा की थी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उन्होंने यह आरोप भी लगाया था कि अगर कांग्रेस सत्ता में आई तो <strong>बीफ के निर्यात के लिए गायों का वध</strong> किया जाएगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>इसी सिलसिले में दो अन्य घटनाएं भी सामने आई हैं।</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>भाजपा-शासित राजस्थान में ‘‘गौ विभाग’’ का गठन किया गया है और इसका ज़िम्मा एक मंत्री को सौंपा गया है। इसी राज्य में हिंगोनिया में स्थित एक गौशाला में उचित देखभाल न होने के कारण सैंकड़ों गायों के मरने की खबर है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यह बताया जाता है कि भाजपा के सत्ता में आने के बाद से गौशालाओं के लिए दिए जाने वाले अनुदान में भारी कमी की गई है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इन सब तथ्यों से यह स्पष्ट है कि गौभक्ति, दरअसल, एक समुदाय विशेष के खिलाफ घृणा फैलाने का बहाना भर है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>गाय से जुड़े मुद्दों पर हिंसा की घटनाओं में बढ़ोत्तरी इसलिए हुई है क्योंकि कथित गौरक्षक यह जानते हैं कि केंद्र सरकार और भाजपा-शासित अनेक राज्य सरकारें उनकी गैर-कानूनी हरकतों को नज़रअंदाज करेंगी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>संविधान में गौवंश की रक्षा के लिए क्या प्रावधान है?</strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>यह सही है कि संविधान में गौवंश की रक्षा के लिए प्रावधान है।</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>संविधान सभा में</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>‘‘काफी लंबी बहस और चर्चा, जिसके दौरान कई सदस्यों ने गौवध पर पूर्ण प्रतिबंध को संविधान के मूल अधिकारों में शामिल करने की मांग की, के बाद एक समझौते पर पहुंचा गया, जिसके अन्तर्गत गाय की रक्षा को राज्य के नीति निदेशक तत्वों में शामिल किया गया। यह अनमने ढंग और हिचकिचाहट के साथ हिन्दुओं की भावनाओं को संविधान में जगह देने का प्रयास था।’’</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस प्रावधान को भी धार्मिक रंग न देते हुए उसे कृषि और विज्ञान से जोड़ा गया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>‘‘राज्य, कृषि और पशुपालन को आधुनिक और वैज्ञानिक प्रणालियों से संगठित करने का प्रयास करेगा और विशिष्टतया गायों और बछड़ों तथा अन्य दुधारू और वाहक पशुओं की नस्लों के परिरक्षण और सुधार के लिए और उनके वध का प्रतिशेध करने के लिए कदम उठाएगा।’’</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>देश के 28 में से 24 राज्यों में गायों और अन्य मवेशियों के वध को प्रतिबंधित करने वाले या उन पर किसी न किसी तरह की रोक लगाने वाले कानून लागू हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मध्य प्रदेश, गुजरात और महाराष्ट्र में गौवध को गैर-जमानती अपराध घोषित कर दिया गया है और इसके लिए कड़ी सज़ा का प्रावधान किया गया है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इन कानूनों की संवैधानिक वैधता की जांच की जानी आवश्यक है और यह पता लगाया जाना ज़रूरी है कि कहीं वे देश के कुछ समूहों या समुदायों के मूल अधिकारों का उल्लंघन तो नहीं करते और भारतीय संविधान की धर्मनिरपेक्ष आत्मा के खिलाफ तो नहीं हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>बहरहाल, जहां एक ओर गौशालाओं के लिए बजट में कमी की गई है और गौ विभागों के बाद भी गौशालाओं में रह रही गायों की देखभाल में घोर लापरवाही बरती जा रही है, वहीं गाय के नाम पर मुसलमानों और दलितों के खिलाफ हिंसा भी भड़काई जा रही है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>गौमाता की रक्षा के मुद्दे पर हिन्दू संप्रदायवादी 19वीं सदी के उत्तरार्ध से लेकर अब तक कई तरह के आंदोलन चलाते आए हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>स्वाधीनता के पहले तक मुस्लिम सांप्रदायिक तत्व, सूअर को घृणा का पात्र बताकर इस आग को भड़काने का काम करते रहे थे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>ऐसी घटनाएं भी सामने आई हैं जिनमें बजरंग दल के कार्यकर्ताओं ने मंदिरों में गौमांस फेंका।</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>जहां समाज के सामूहिक अवचेतन में गौमांस के मुद्दे को हमेशा जीवित रखा गया वहीं अब इसका खुलकर इस्तेमाल सांप्रदायिक ध्रुवीकरण करने के लिए किया जा रहा है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">इसमें कोई संदेह नहीं कि गाय, कृषि-आधारित अर्थव्यवस्था के लिए बहुत महत्वपूर्ण व उपयोगी पशु है। जहां गाय दूध देती है वहीं बैल का इस्तेमाल खेती में किया जाता है। परंतु बूढ़े और अनुपयोगी बैलों और गायों का भोजन के रूप में इस्तेमाल भी हमेशा से होता आया है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>आदिवासियों के अतिरिक्त, दलितों, मुसलमानों और ईसाईयों और यहां तक कि उच्च जातियों के हिन्दुओं के कुछ तबके भी बीफ का प्रोटीन के सस्ते स्रोत के रूप में सेवन करते आए हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अगर हम इतिहास की दृष्टि से देखें तो बीफ, वैदिक काल से ही खानपान का भाग था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>गाय को गौमाता का दर्जा काफी बाद में दिया गया और धीरे-धीरे उसे पहचान की राजनीति का उपकरण बना दिया गया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>भीमराव अंबेडकर ने अपने प्रसिद्ध लेख ‘‘डिड हिन्दूज़ नेवर ईट बीफ?’’ में इसका खुलासा किया है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong><a href="https://www.hastakshep.com/old/swami-vivekanand-muslims-in-india/" data-type="post" data-id="13908" target="_blank" rel="noreferrer noopener">स्वामी विवेकानंद ने कहा था</a></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>‘‘आप को यह जानकर आश्चर्य होगा कि पुरानी प्रथाओं के अनुसार, वो हिन्दू एक अच्छा हिन्दू नहीं था जो बीफ नहीं खाता था। कुछ मौकों पर उसे बैल की बलि देकर उसे खाना होता था।’’</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>किसी भी बहुसांस्कृतिक समाज में खानपान की विविधता अपरिहार्य है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस मुद्दे को सौहार्दपूर्ण ढंग से सुलझाया जा सकता है। गांधी इस मामले में हमें राह दिखाते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>गौमांस के मुद्दे पर उन्होंने कहा था,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">‘‘...गौमांस उनका (मुसलमान)  रोजाना का सामान्य भोजन नहीं है, उनका रोजाना का सामान्य भोजन तो वही है जो देश के अन्य करोड़ों बाशिन्दों का है। यह सही है कि ऐसे मुसलमान बहुत कम हैं जो धार्मिक कारण से शाकाहारी हों। अगर उन्हें मांस, जिसमें गौमांस शामिल है, उपलब्ध होगा तो वे उसे खाएंगे। परंतु एक लंबे समय से गरीबी के कारण करोड़ों मुसलमान किसी भी प्रकार का मांस नहीं खा पाते हैं। ये तो तथ्य हैं। परंतु सैद्धांतिक प्रश्न का स्पष्ट उत्तर देना आवश्यक है...मेरी यह मान्यता है कि मुसलमानों को गौवध करने की पूरी स्वतंत्रता होनी चाहिए...’’</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>परंतु अब सांप्रदायिक ताकतों द्वारा मुसलमानों की छवि गौवध करने वालों के रूप में इस हद तक प्रचारित कर दी गई है कि जो लोग शांति, सहिष्णुता और बहुवाद के हामी हैं, उन्हें इस मुद्दे पर मुसलमानों के प्रति घृणा के भाव को समाप्त करने के लिए बहुत मेहनत और प्रयास करने होंगे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"fontSize":"large"} --></p>\n' +
+    '<p class="has-large-font-size"><strong>-</strong><strong>राम पुनियानी</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>(मूल अंग्रेजी से हिन्दी रूपांतरण अमरीश हरदेनिया)</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>(लेखक आई.आई.टी. मुंबई में पढ़ाते थे और सन् 2007 के नेशनल कम्'... 1090 more characters,
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: 'गाय, gaay, गाय/बीफ का मुद्दा, gaaybiiph-kaa-muddaa',
+  redirectURL: 'गौभक्ति-और-गौमांस-दरअसल-स',
+  englishurl: 'opinion-english',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'गाय, gaay, गाय/बीफ का मुद्दा, gaaybiiph-kaa-muddaa',
+  catname: 'Opinion',
+  catID: 90,
+  canonicalUrl: 'गौभक्ति-और-गौमांस-दरअसल-स',
+  createdDate: 'September 06, 2016, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 17870,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Sep 13 2023  1:30AM',
+  storyheading: 'आज की दस बड़ी खबरें | 13 सितंबर 2023 आज की बड़ी खबरें',
+  storysubheading: 'todays-big-news-13-september-2023',
+  storysynopsis: " देश | राजनीति | दुनिया | समाचार Today's big news 13 September 2023. Aaj Ki Taza Khabar: आज की टॉप टेन न्यूज़ क्या है? | today's top 10 news. आज सुबह की टॉप 10 खबरें | Top 10 news of this morning | आज की दस बड़ी खबरें | आज की अन्य बड़ी खबरें",
+  fullstory: "<h2>Today's big news 12 September 2023. Aaj Ki Taza Khabar: आज की टॉप टेन न्यूज़ क्या है? | today's top 10 news.</h2>\n" +
+    '<h3>आज सुबह की टॉप 10 खबरें | Top 10 news of this morning | आज की दस बड़ी खबरें | आज की अन्य बड़ी खबरें</h3>\n' +
+    '<p>कनाडा के प्रधानमंत्री जस्टिन ट्रूडो, जो पिछले दो दिनों से यहां राष्ट्रीय राजधानी में फंसे हुए थे, आखिरकार कल दोपहर विमान की तकनीकी खराबी ठीक होने के बाद कनाडा के लिए रवाना हो गए।</p>\n' +
+    '<p>सुप्रीम कोर्ट ने कल राजस्थान हाई कोर्ट के आदेश के खिलाफ आसाराम बापू की याचिका पर विचार करने से इनकार कर दिया। हाई कोर्ट ने बलात्कार के मामले में सजा निलंबित करने के उनके आवेदन को खारिज कर दिया था।</p>\n' +
+    '<p>एक बार फिर वो वार्षिक पड़ाव आ गया है। सितम्बर महीने के तीसरे और चौथे सप्ताह में, दुनिया की नज़र यूएन मुख्यालय पर टिकेगी, जब यूएन महासभा, देशों के राष्ट्रपतियों, शासनाध्यक्षों, प्रधानमंत्रियों, और राष्ट्राध्यक्षों का स्वागत करेगी। यूएन महासभा के इस वार्षिक उच्चस्तरीय सत्र में ,193 देशों के प्रतिनिधि शिरकत करने के लिए, यूएन मुख्यालय में, उच्चस्तरीय कार्यक्रमों के सप्ताह के दौरान, पृथ्वी की नब्ज़ का जायज़ा लेने और वैश्विक चुनौतियों पर चर्चा करने के लिए एकत्र होंगे।&nbsp;</p>\n' +
+    '<p>इस दौरान न्यूयॉर्क सिटी के मैनहैटन इलाक़े में स्थित यूएन मुख्यालय तक जाने वाले रास्तों पर कड़ी चौकसी रहेगी, रास्तों पर बड़े अवरोधक लगाए जाएंगे, और सुरक्षा बहुत कड़ी रखी जाएगी।</p>\n' +
+    '<p>संयुक्त राष्ट्र द्वारा नियुक्त स्वतंत्र मानवाधिकार जाँचकर्ताओं ने मानवाधिकार परिषद को बताया है कि म्याँमार में उग्र होती हिंसा के बीच आम लोग, सैन्य नेतृत्व द्वारा अंजाम दिए जा रहे भयावह अपराधों की पीड़ा भुगत रहे हैं। म्याँमार के लिए जाँच-पड़ताल टीम के प्रमुख निकोलस कुमजियन के अनुसार, हाल के महीनों में युद्ध अपराधों और मानवता के विरुद्ध अपराधों की आवृत्ति और गहनता केवल बढ़ी है। संयुक्त राष्ट्र मानवाधिकार परिषद ने 2018 में म्याँमार जाँच टीम की स्थापना की थी, और उसके अगले वर्ष इस दल ने अपना कार्य आरम्भ किया।</p>\n' +
+    '<p>उपराष्ट्रपति जगदीप धनखड़ कल बृहस्पतिवार को राजस्थान के जयपुर में अंतराष्&zwj;ट्रीय बांध सुरक्षा का उद्घाटन करेंगें। 15 देशों और कई राज्&zwj;यों के विशेषज्ञों के इसमें शामिल होने की संभावना है। जल शक्ति मंत्रालय के मुताबिक भारत में 6 हजार बांध हैं और ये विश्&zwj;व में बड़े बांधों के मामलों में तीसरे स्&zwj;थान पर है।</p>\n' +
+    '<p>प्रधानमंत्री नरेन्&zwj;द्र मोदी कल बृहस्पतिवार को मध्य प्रदेश के सागर में बीपीसीएल की बीना रिफाइनरी में डाउनस्ट्रीम पेट्रोकेमिकल काम्&zwj;पलेक्&zwj;स और रिफाइनरी विस्&zwj;तार परियोजना की आधारशिला रखेंगे।</p>\n' +
+    '<p>वर्ष 2024 के पद्म पुरस्&zwj;कारों के लिए ऑनलाइन नामांकन इस महीने की 15 तारीख तक किया जा सकता है। पद्म पुरस्&zwj;कारों के लिए नामांकन पहली मई से शुरू हुआ था। गृह मंत्रालय ने कहा है कि पद्म पुरस्&zwj;कारों के लिए नामांकन या सिफारिशें राष्&zwj;ट्रीय पुरस्&zwj;कार पोर्टल पर ऑनलाइन प्राप्त की जाती है। पुरस्&zwj;कारों की घोषणा अगले वर्ष गणतंत्र दिवस के अवसर पर की जाएगी।</p>\n' +
+    "<p>राष्ट्रपति, श्रीमती द्रौपदी मुर्मु, आज दूरदर्शी स्वास्थ्य कार्यक्रम 'आयुष्मान भव:' अभियान का उद्घाटन करेंगी। देश भर में स्वास्थ्य सेवाओं की पहुंच और समावेशिता को फिर से परिभाषित करने के लिए निर्धारित इस महत्वपूर्ण कार्यक्रम का उद्घाटन वर्चुअल माध्यम से होगा। इस सार्वभौमिक स्वास्थ्य कवरेज (यूएचसी) और सभी के लिए स्वास्थ्य सेवा सुनिश्चित करने की दिशा में एक महत्वपूर्ण कदम है।</p>\n" +
+    '<p>बाढ़ से लीबिया में हजारों लोगों के मरने की आशंका है। रेड क्रॉस के मुताबिक बाढ़ में दस हजार लोगों के लापता होने की आशंका है। डर्ना शहर का एक चौथाई क्षेत्र तूफान में बांधों के टूटने से नष्ट हो गया और एक हजार से अधिक शव यहां बरामद किए जा चुके हैं।</p>\n' +
+    '<p><iframe width="560" height="314" src="https://www.youtube.com/embed/6TQ4wvpGgBk" allowfullscreen="allowfullscreen"></iframe></p>\n' +
+    '<p>ब्रेकिंग न्यूज़ हिंदी | Daily School Assembly News Headlines in Hindi</p>\n' +
+    '<p>&nbsp;<br>&nbsp;</p>',
+  storyimage1: 'gMEOv2k5UKFzgmo9zItg.jpg',
+  videos: null,
+  tags: 'Aaj Ki Taza Khabar, aaj-ki-taza-khabar, Daily School Assembly News Headlines in Hindi, daily-school-assembly-news-headlines-in-hindi, आज की दस बड़ी खबरें, aaj-kii-ds-bddii-khbren, आज की बड़ी खबरें, aaj-kii-bdddhii-khbren, ब्रेकिंग न्यूज़ हिंदी, breking-nyuuj-hindii',
+  redirectURL: 'todays-big-news-13-september-2023',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Aaj Ki Taza Khabar, aaj-ki-taza-khabar, Daily School Assembly News Headlines in Hindi, daily-school-assembly-news-headlines-in-hindi, आज की दस बड़ी खबरें, aaj-kii-ds-bddii-khbren, आज की बड़ी खबरें, aaj-kii-bdddhii-khbren, ब्रेकिंग न्यूज़ हिंदी, breking-nyuuj-hindii',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'todays-big-news-13-september-2023',
+  createdDate: 'September 13, 2023, 01:30 AM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 19819,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Sep 21 2019  6:30PM',
+  storyheading: 'हाउडी मोदी में पीएम मस्त, न्यूयॉर्क टाइम्स बोला - अंडरवीयर से लेकर कारों तक, भारत की अर्थव्यवस्था चरमरा रही है',
+  storysubheading: 'from-underwear-to-cars-indias-economy-is-fraying',
+  storysynopsis: 'हाउडी मोदी में पीएम मस्त, न्यूयॉर्क टाइम्स बोला - अंडरवीयर से लेकर कारों तक, भारत की अर्थव्यवस्था चरमरा रही है',
+  fullstory: '<p><strong>नई दिल्ली, 22 सितंबर 2019। </strong>प्रधानमंत्री नरेंद्र मोदी इस समय अमेरिका यात्रा पर हैं। उनके <strong>हाउडी मोदी</strong> ईवेंट (Howdy Modi) को लेकर भारतीय मीडिया और हिन्दुत्तवादियों में अति उत्साह है। लेकिन इस बीच द न्यूयॉर्क टाइम्स ने एक खबर का शीर्षक दिया है कि “<strong>अंडरवीयर से लेकर कारों तक</strong><strong>, </strong><strong>भारत की अर्थव्यवस्था चरमरा रही है</strong><strong>” (From Underwear to Cars, India’s Economy Is Fraying)</strong></p>\n' +
+    '<p>अखबार लिखता है कि देश (भारत) एक समय में दुनिया की सबसे तेजी से बढ़ती अर्थव्यवस्था था, लेकिन इसे वैश्विक और घरेलू ताकतों ने पस्त कर दिया है। भारत की मुसीबतें अन्य विकासशील देशों के लिए एक चेतावनी भरा संकेत हैं।</p>\n' +
+    `<p>अखबार में इस <a href="https://www.nytimes.com/2019/09/21/business/economy/india-economy-trade.html"><strong>खबर</strong></a> में कहा गया है कि जब <strong>एलन ग्रीनस्पैन</strong>  (Alan Greenspan) एक परामर्श फर्म चलाते थे और यह जानना चाहते थे कि अर्थव्यवस्था कहाँ है, तो वह अक्सर एक गाइड के रूप में पुरुषों के अंडरवियर की बिक्री (Alan Greenspan's Underwear Drawer,) को देखते थे।</p>\n` +
+    '<p>श्री ग्रीनस्पैन, जिन्होंने बाद में फेडरल रिजर्व के अध्यक्ष के रूप में कार्य किया था, का मानना था कि जब समय कठिन होता है, तो पुरुष अन्य खरीद में कटौती से पहले फटा अंडरवियर की जगह नया लेना बंद कर देते हैं, जिसे कोई भी नहीं देख सकता है। इस आधार पर भारतीय अर्थव्यवस्था एक गंभीर मंदी में है।</p>\n' +
+    '<p>दक्षिण भारत के त्रिपूर के एक अंडरगारमेंट विक्रेता के हवाले से खबर में बताया गया है कि पुरुषों के अंडरवियर की बिक्री 50 प्रतिशत गिर गई है। साथ ही बताया गया है कि यह सिर्फ अंडरवियर का ही हाल नहीं है, बल्कि कार की बिक्री अगस्त में 32 प्रतिशत गिर गई, जो दो दशकों में सबसे बड़ी गिरावट है, और कार निर्माता एक मिलियन कर्मचारियों की छंटनी की चेतावनी दे रहे हैं क्योंकि दुकानदार बढ़ती कीमतों से गंजे हो गए हैं और स्कीट लोनर्स से ऋण प्राप्त करने के लिए संघर्ष कर रहे हैं।</p>\n' +
+    '<p>तो जोर से बोले मोदी-मोदी।</p>\n' +
+    '<p><iframe src="https://www.youtube.com/embed/dcvQxcBD7IY" width="704" height="396" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>\n',
+  storyimage1: 'o0bjY4VH310D3UEDGSgX.jpg',
+  videos: null,
+  tags: "Alan Greenspan, alan-greenspan, Alan Greenspan's Underwear Drawer, alan-greenspans-underwear-drawer, howdy modi, howdy-modi, एलन ग्रीनस्पैन, eln-griinspain, हाउडी मोदी, haauddii-modii",
+  redirectURL: 'from-underwear-to-cars-indias-economy-is-fraying',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: "Alan Greenspan, alan-greenspan, Alan Greenspan's Underwear Drawer, alan-greenspans-underwear-drawer, howdy modi, howdy-modi, एलन ग्रीनस्पैन, eln-griinspain, हाउडी मोदी, haauddii-modii",
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'from-underwear-to-cars-indias-economy-is-fraying',
+  createdDate: 'September 21, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 45395,
+      storyheading: 'इज़राइल का एंटोनियो गुटेरेस को पर्सोना नॉन ग्राटा घोषित करने पर भारत के विदेश मंत्रालय की चुप्पी पर सवाल',
+      storysubheading: 'India did not sign letter of 104 countries opposing Israel and supporting UN Secretary General',
+      englishurl: 'news-2',
+      redirectURL: 'India-did-not-sign-letter-of-104-countries-opposing-Israel-and-supporting-UN-Secretary-General',
+      category_type: '1',
+      storyImage1: 'India-did-not-sign-the-letter-of-104-countries-opposing-Israel-and-supporting-the-UN-Secretary-General-638644286689687575.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'इज़राइल का एंटोनियो गुटेरेस को पर्सोना नॉन ग्राटा घोषित करने पर भारत का रुख,इज़राइल का गुटेरेस को पर्सोना नॉन ग्राटा घोषित करना,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 34246,
+      storyheading: "गुटेरेस ने इज़राइल और हमास से 'राजनीतिक साहस' दिखाने और युद्धविराम पर सहमत होने का आग्रह किया",
+      storysubheading: "Guterres urges Israel and Hamas to show 'political courage' and agree to ceasefire",
+      englishurl: 'news-2',
+      redirectURL: 'Guterres-urges-Israel-and-Hamas-to-show-political-courage-and-agree-to-ceasefire',
+      category_type: '1',
+      storyImage1: 'Israel-638507648547775189.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'इज़राइल और हमास',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 20945,
+      storyheading: 'संयुक्त राष्ट्र-इजराइल विवाद : क्या संयुक्त राष्ट्र मात्र एक सजावटी संस्था बन कर रह गई है?',
+      storysubheading: 'united-nations-israel-dispute-has-united-nations-become-merely-a-decorative-organization-1674673',
+      englishurl: 'opinion',
+      redirectURL: 'united-nations-israel-dispute-has-united-nations-become-merely-a-decorative-organization-1674673',
+      category_type: '1',
+      storyImage1: 'jpyjGvwuM9rc2WiMRdwP.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'इज़राइल, ijraail, पूंजीवादी, puunjiivaadii, संयुक्त राष्ट्र, snyukt-raassttr',
+      category_name: 'हस्तक्षेप',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 16374,
+      storyheading: 'फिलिस्तीन–इजराइल संघर्ष : समाधान का गांधीवादी रास्ता',
+      storysubheading: 'palestine-israel-conflict-gandhian-path-to-solution-2021327',
+      englishurl: 'opinion',
+      redirectURL: 'palestine-israel-conflict-gandhian-path-to-solution-2021327',
+      category_type: '1',
+      storyImage1: 'GLejMgsSAaHhFn52XeRy.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'इज़राइल, ijraail, फिलिस्तीन, philistiin',
+      category_name: 'हस्तक्षेप',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 12342,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Nov 14 2023  2:13PM',
+  storyheading: 'इजराइल-फिलिस्तीन युद्ध: मुश्किल में बाइडेन, मुकदमा हुआ दायर',
+  storysubheading: 'israel-palestine-war-biden-in-trouble-lawsuit-filed-1695934',
+  storysynopsis: 'दुनिया | समाचार Israel-Palestine war: Biden in trouble, lawsuit filed. फ़िलिस्तीनी समूहों और व्यक्तियों की ओर से शिकायत में आरोप लगाया गया है कि इज़राइल की कार्रवाई नरसंहार के बराबर है',
+  fullstory: `<h2 style="text-align: justify;"><strong>इज़राइल-फिलिस्तीन युद्ध: फिलिस्तीनियों ने गाजा में 'नरसंहार' को रोकने में विफल रहने के लिए बिडेन पर मुकदमा दायर किया</strong></h2>\n` +
+    '<h3 style="text-align: justify;"><strong>फ़िलिस्तीनी समूहों और व्यक्तियों की ओर से शिकायत में आरोप लगाया गया है कि इज़राइल की कार्रवाई नरसंहार के बराबर है</strong></h3>\n' +
+    '<p style="text-align: justify;">नई दिल्ली, 14 नवंबर 2023. अमेरिका और कब्जे वाले फिलिस्तीनी क्षेत्रों में रहने वाले फिलिस्तीनियों के एक समूह ने बीते सोमवार को जो बाइडेन प्रशासन के खिलाफ एक मुकदमा दायर किया है, जिसमें इज़राइल को अमेरिका के राजनयिक और सैन्य समर्थन को रोकने की मांग की गई है। मुकदमे में अमेरिका पर गाजा पर इजरायल के हमले के बीच फिलिस्तीनी लोगों के खिलाफ "नरसंहार को रोकने" में विफल रहने का आरोप लगाया गया है।</p>\n' +
+    '<p style="text-align: justify;">फिलिस्तीनियों के साथ-साथ फिलिस्तीनी मानवाधिकार संगठनों, अल-हक और डिफेंस फॉर चिल्ड्रन इंटरनेशनल द्वारा दायर मुकदमे में कहा गया है कि कई कानूनी विशेषज्ञों का कहना है कि अमेरिका को अंतरराष्ट्रीय कानून के तहत इजराइल द्वारा फिलिस्तीनियों के खिलाफ संभावित नरसंहार को रोकने के लिए अपने दायित्वों को पूरा करने की आवश्यकता है।</p>\n' +
+    '<p style="text-align: justify;">मुकदमे में कहा गया है कि "गाजा में फिलिस्तीनी लोगों का यह नरसंहार अब तक राष्ट्रपति जोसेफ बिडेन, राज्य सचिव एंटनी ब्लिंकन और रक्षा सचिव लॉयड ऑस्टिन द्वारा दिए गए बिना शर्त समर्थन के कारण संभव हुआ है, जो प्रथागत अंतरराष्ट्रीय कानून के तहत अमेरिकी जिम्मेदारियों का उल्लंघन है।&ldquo;</p>\n' +
+    '<p style="text-align: justify;">द गार्जियन की एक खबर के मुताबिक कैलिफोर्निया की संघीय अदालत में दायर मुकदमे में अदालत से अमेरिका को इजरायल को हथियार, धन और राजनयिक समर्थन प्रदान करने से रोकने की मांग की गई है। इसमें एक घोषणा की भी मांग की गई है कि राष्ट्रपति, राज्य सचिव, एंटनी ब्लिंकन और रक्षा सचिव, लॉयड ऑस्टिन को "गाजा के फिलिस्तीनी लोगों के खिलाफ इजरायल के नरसंहार कृत्यों को रोकने के लिए अपनी शक्ति के भीतर सभी उपाय करने" की आवश्यकता है।</p>\n' +
+    '<p style="text-align: justify;">खबरों के मुताबिक कानूनी विशेषज्ञों, <strong>संयुक्त राष्ट्र</strong> के अधिकारियों और 800 से अधिक अंतर्राष्ट्रीय विद्वानों ने चेतावनी दी है कि इज़राइल संभावित रूप से फिलिस्तीनियों के खिलाफ नरसंहार कर रहा है। जब नरसंहार के मुद्दे की बात आती है, तो कई विशेषज्ञ संयुक्त राष्ट्र के नरसंहार कन्वेंशन के अनुच्छेद II और अंतर्राष्ट्रीय आपराधिक न्यायालय के रोम क़ानून में उल्लिखित परिभाषा का उल्लेख करते हैं।</p>\n' +
+    '<p style="text-align: justify;"><strong>नरसंहार की परिभाषा क्या है&nbsp;</strong></p>\n' +
+    '<p style="text-align: justify;">अमेरिका, जर्मनी, फ्रांस और ब्रिटेन सहित दुनिया को 130 से अधिक देशों द्वारा व्यापक रूप से स्वीकृत नरसंहार की इस परिभाषा में कहा गया है कि नरसंहार का अर्थ है "किसी राष्ट्रीय, जातीय, नस्लीय या धार्मिक समूह को पूर्ण या आंशिक रूप से नष्ट करने के इरादे से किया गया कार्य"।</p>',
+  storyimage1: 'jpyjGvwuM9rc2WiMRdwP.jpg',
+  videos: null,
+  tags: 'इज़राइल, ijraail, नरसंहार, nrsnhaar, फिलिस्तीन, philistiin, संयुक्त राष्ट्र, snyukt-raassttr',
+  redirectURL: 'israel-palestine-war-biden-in-trouble-lawsuit-filed-1695934',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'इज़राइल, ijraail, नरसंहार, nrsnhaar, फिलिस्तीन, philistiin, संयुक्त राष्ट्र, snyukt-raassttr',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'israel-palestine-war-biden-in-trouble-lawsuit-filed-1695934',
+  createdDate: 'November 14, 2023, 02:13 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'Hastakshep-Desk',
+  category_type: 1,
+  storyID: 47407,
+  authorID: 4,
+  author_enname: 'HastakshepDesk',
+  author_image: '45eec1c3-5896-4ae3-b324-ead5877063ef_DefaultImageHastakshep.webp',
+  storydate: '2024-10-25 11:01:05',
+  storyheading: 'आज की दस बड़ी खबरें | 25 अक्टूबर 2024. आज सुबह की बड़ी खबरें',
+  storysubheading: 'big news 25 October 2024',
+  storysynopsis: "Today's big news 25 October 2024. Aaj Ki Taza Khabar: 25 अक्टूबर 2024 की दस बड़ी खबरें, आज की अन्य बड़ी खबरें. Top 20 news today",
+  fullstory: `<h2><strong style="font-size: large;">Today's big news 2</strong><strong style="font-size: large;">5</strong><strong style="font-size: large;"> October 2024. Aaj Ki Taza Khabar: </strong><strong style="font-size: large;">आज की टॉप टेन न्यूज़ क्या है</strong><strong style="font-size: large;">? | today's top 10 news.</strong></h2>\r\n` +
+    '<h3><span style="font-size: large;"><strong>आज सुबह की टॉप </strong><strong>10</strong><strong> खबरें </strong><strong>| Top 20 news of this morning | </strong><strong>आज की दस बड़ी खबरें </strong><strong>| </strong><strong>आज की अन्य बड़ी खबरें</strong></span></h3>\r\n' +
+    '<h4><span style="font-size: large;"><strong>News of the Day | News Bulletin</strong></span></h4>\r\n' +
+    '<p><span style="font-size: large;"><strong>आज की दस बड़ी खबरें </strong><strong>| 2</strong><strong>5 अक्टूबर </strong><strong>2024: </strong><strong>आज सुबह की बड़ी खबरें लेकर हाज़िर हैं। जानिए देश और दुनिया से जुड़ी टॉप </strong><strong>10 </strong><strong>बड़ी खबरें जो आज के दिन को प्रभावित कर सकती हैं। इस समाचार में पढ़िए आज की ताजा खबरें</strong><strong>, </strong><strong>राजनीति</strong><strong>, </strong><strong>अर्थव्यवस्था</strong><strong>, </strong><strong>खेल</strong><strong>, </strong><strong>और अंतरराष्ट्रीय घटनाओं से जुड़ी महत्वपूर्ण अपडेट्स। यह न्यूज़ बुलेटिन आपको दिनभर के प्रमुख घटनाक्रमों की पूरी जानकारी देगा</strong></span></p>\r\n' +
+    '<p><strong><span style="font-size: large;">इस वक्त की बड़ी खबरें कुछ इस प्रकार हैं...</span></strong></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>फडणवीस का बयान</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">महाराष्ट्र के डिप्टी सीएम देवेंद्र फडणवीस ने बड़ा बयान दिया है। उन्होंने कहा कि महायुति में सीट शेयरिंग लगभग फाइनल हो गई है। बस 10 सीटों पर ही चर्चा बाकी है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>हरियाणा विधानसभा में स्पीकर का चुनाव</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">आज हरियाणा विधानसभा में स्पीकर और डिप्टी स्पीकर के चुनाव होंगे। सूत्रों के मुताबिक, हरविंद्र कल्याण विधानसभा स्पीकर बन सकते हैं।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>झारखंड चुनाव की सरगर्मियाँ</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">झारखंड में चुनावी सरगर्मियाँ तेज हो गई हैं। केंद्रीय मंत्री चिराग पासवान आज रांची पहुंचेंगे और लोजपा प्रत्याशी के नामांकन में शामिल होंगे।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>ज्ञानवापी मस्जिद पर कोर्ट का फैसला</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">ज्ञानवापी मस्जिद की खुदाई होगी या नहीं, इस पर आज कोर्ट का अहम फैसला आने वाला है। मामले में सुनवाई पूरी हो चुकी है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>जीशान</strong><strong>सिद्दीकी अजीत पवार की टीम में शामिल</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">बाबा सिद्दीकी के बेटे जीशान अजीत पवार की टीम में शामिल हो गए हैं। इससे पहले कांग्रेस ने उन्हें निष्कासित कर दिया था।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>LAC </strong><strong>पर सामान्य हो रहे हालात</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">भारत-चीन सीमा पर हालात धीरे-धीरे सामान्य हो रहे हैं। चीन ने अपने तंबू उखाड़ लिए हैं और दोनों देशों की सेनाएं पीछे हट रही हैं।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>SC </strong><strong>ने </strong><strong>LG </strong><strong>से मांगा जवाब</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">दिल्ली में पेड़ों की कटाई को लेकर सुप्रीम कोर्ट ने एलजी से जवाब मांगा है। शीर्ष अदालत ने कहा कि प्रदूषण मुक्त वातावरण नागरिकों का मौलिक अधिकार है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>लॉरेंस बिश्नोई गैंग पर </strong><strong>NIA </strong><strong>का शिकंजा</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">लॉरेंस बिश्नोई गैंग पर NIA का शिकंजा कसता जा रहा है। लॉरेंस के भाई अनमोल पर 10 लाख के इनाम का ऐलान किया गया है।</span></p>\r\n' +
+    `<p><span style="font-size: large;"><strong>ओडिशा में </strong><strong>'</strong><strong>दाना</strong><strong>' </strong><strong>की तबाही</strong></span></p>\r\n` +
+    `<p><span style="font-size: large;">ओडिशा में 'दाना' चक्रवात ने तबाही मचानी शुरू कर दी है। 400 उड़ानें और 750 ट्रेनें रद्द कर दी गई हैं, और 6 लाख से ज्यादा लोग विस्थापित हुए हैं।</span></p>\r\n` +
+    '<p><span style="font-size: large;"><strong>पुणे टेस्ट में हंगामा</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">पुणे में चल रहे टेस्ट मैच के दौरान दर्शकों ने हंगामा खड़ा कर दिया। इसके बाद एमसीए को माफी मांगनी पड़ी है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>जाकिर नाइक का पाकिस्तान में विरोध</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">भगोड़े जाकिर नाइक का पाकिस्तान में भारी विरोध हो रहा है। उन्होंने सार्वजनिक भाषणों में ईसाई समुदाय पर सवाल उठाए थे।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>BRICS </strong><strong>की मजबूती और पुतिन की ताकत</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">रूसी राष्ट्रपति व्लादिमीर पुतिन ने कहा है कि BRICS की मजबूती से उनकी ताकत में इजाफा होगा। उन्होंने ट्रंप को लेकर भी बड़ा बयान दिया है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>गाज़ा में स्कूल पर इज़रायल का हमला</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">इज़रायल ने गज़ा में एक स्कूल पर हमला किया, जिसमें 17 लोगों की जान चली गई। भारत ने लेबनान को मानवीय मदद भेजी है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>मेक्सिको में धमाका</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">मेक्सिको में पुलिस स्टेशन के बाहर कार में धमाका हुआ, जिसमें तीन अधिकारी घायल हो गए हैं।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>UN </strong><strong>में भारत के लिए स्थायी सीट की मांग</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">संयुक्त राष्ट्र में भारत के लिए स्थायी सीट की मांग जोर पकड़ रही है। एस जयशंकर ने इस पर तत्काल सुधार का आह्वान किया है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>भारत में बनेगा </strong><strong>AI </strong><strong>इन्फ्रास्ट्रक्चर</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">भारत में आर्टिफिशियल इंटेलिजेंस का इंफ्रास्ट्रक्चर तैयार करने के लिए मुकेश अंबानी और जेन्सन हुआंग के बीच पार्टनरशिप हुई है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>म्यूजिक कंपनी दे रही डिविडेंड</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">एक बड़ी म्यूजिक कंपनी ने अपने निवेशकों को डिविडेंड देने की घोषणा की है। जल्द ही यह राशि उनके अकाउंट में आ जाएगी।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>यूपी में </strong><strong>19</strong><strong> दिनों तक बिजली कटौती नहीं</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">त्योहारों के इस मौसम में यूपी के सीएम योगी आदित्यनाथ का आदेश आया है कि अगले 19 दिनों तक बिजली कटौती नहीं होगी।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>दिल्ली में महंगी पार्किंग का नहीं दिखा असर</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">दिल्ली में महंगी पार्किंग के बावजूद गाड़ियों की लंबी कतारें देखी जा रही हैं। इससे प्रशासन की चिंता बढ़ गई है।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>रेल यात्रियों को होगी परेशानी</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;">चक्रवात दाना के चलते रेलवे अलर्ट पर है। तेजस और राजधानी सहित कई ट्रेनें कैंसिल कर दी गई हैं।</span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>तो ये थीं अब तक की बड़ी खबरें। बने रहिए हमारे साथ और खबरों के लिए हमारे चैनल को सब्सक्राइब कीजिए। धन्यवाद!</strong></span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong></strong></span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong><span><span>ब्रेकिंग न्यूज़ हिंदी | Daily School Assembly News Headlines in Hindi</span></span></strong></span></p>\r\n' +
+    '<p><span style="font-size: large;"><strong>&nbsp;</strong></span></p>',
+  storyimage1: 'Top-20-news-today-638654508658201726.jpg',
+  videos: '',
+  tags: 'big news 25 October 2024, 25 अक्टूबर 2024 की दस बड़ी खबरें,25 अक्टूबर 2024 की दस बड़ी खबरें,',
+  redirectURL: 'big-news-25-October-2024',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'big news 25 October 2024, 25 अक्टूबर 2024 की दस बड़ी खबरें,25 अक्टूबर 2024 की दस बड़ी खबरें,',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'big-news-25-October-2024',
+  createdDate: 'October 25, 2024, 11:01 AM',
+  updatedDate: null,
+  iframeContent: '&lt;iframe width="853" height="480" src="https://www.youtube.com/embed/BsrdSmGmwJU" title="Top 20 ताजा खबरें - 11 बजे की प्रमुख समाचार हेडलाइंस | आज की मुख्य खबरें हिंदी में | hastakshep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;',
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 7890,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'पत्रकारिता में कभी परफेक्‍शन नहीं होता, परफेक्‍शन मौत है',
+  storysubheading: 'पत्रकारिता-में-कभी-परफेक',
+  storysynopsis: 'पत्रकारिता में कभी परफेक्‍शन नहीं होता, परफेक्‍शन मौत है',
+  fullstory: '<p>सफलता का कोई शॉर्टकट नहीं होता<br />\n' +
+    'खुद को ही रोज पराजित करना होता है एक पत्रकार को - कमर वहीद नकवी<br />\n' +
+    'आगरा। “पत्रकारिता में कभी परफेक्‍शन नहीं होता, परफेक्‍शन मौत है।“ यह कहना है टीवी टुडे, आजतक, तेज, दिल्‍ली आजतक और हेडलाइन्‍स टुडे के पूर्व समाचार निदेशक कमर वहीद नकवी का।<br />\n' +
+    'श्री नकवी शुक्रवार को हिंदी दैनिक कल्‍पतरु एक्‍सप्रेस के चौथे वर्ष में प्रवेश के अवसर पर आयोजित मीडिया विमर्श की छठी कड़ी में बतौर विशिष्ट अतिथि श्रोताओं को संबोधित कर रहे थे। उन्होंने अपराह्न में, अपना व्‍याख्‍यान दिया और उपस्थित पत्रकारों के प्रश्‍नों का उत्‍तर दिया।</p>\n' +
+    '<p>कमर वहीद नकवी ने कल्‍पतरू परिवार के सदस्‍यों को संबोधित करते हुये कहा कि पत्रकारिता में कभी परफेक्‍शन नहीं होता, परफेक्‍शन मौत है। हमें हमेशा देखना होगा कि कल के किये में आज क्‍या नया सुधार किया जा सकता है। एक पत्रकार को खुद को ही रोज पराजित करना होता है। कल की लकीर कल की थी, यहाँ रोज एक नयी और पहले से बड़ी लकीर खींचनी होती है। कल की लकीर से बडी लकीर।</p>\n' +
+    '<p>श्री नकवी ने कहा कि पत्रकार के लिये जरूरी नहीं कि वह किसी विषय का विशेषज्ञ हो इसके विपरीत उसे हर विषय की जानकारी होनी चाहिए। उसे जैक ऑफ ऑल ट्रेड होना चाहिए।</p>\n' +
+    '<p>श्री नकवी ने कहा कि हमेशा बड़ा सोचिए। सामान्‍य सोचेंगे तो सामान्‍य बने रहेंगे। मतलब अपनी आस पास के माहौल को बेहतर बनायेंगे तो आप बेहतर होते जायेंगे। कि सफलता का कोई शॉर्टकट नहीं होता। मेहनत, पढ़ाई, गलतियों से सीखना होगा, कोई दूसरा नहीं सिखा देगा। हिन्‍दी के पत्रकारों की आलोचना करते उन्होंने कहा हिन्‍दी वालों की दुनिया हिन्‍दी तक ही सीमित नहीं होनी चाहिए। उसे अंग्रेजी भाषा में क्‍या लिखा जा रहा है और बाकी देश दुनिया में क्‍या हो रहा है उसके प्रति भी सतर्क रहना चाहिए। आपके पास अपनी विश्‍व दृष्टि होनी चाहिए और आपको बिजनेस का अखबार भी पढ़ना चाहिए। बिजनेस का अखबार पढ़े बिना आप अच्‍छे पत्रकार नहीं हो सकते। एक पत्रकार को अपने एथिक्‍स और बिजनेस की आवश्‍यकता पर साथ साथ ध्‍यान देना होता है। अन्‍य संदर्भ में उन्‍होने यह भी कहा कि अँग्रेजी का कचरा हिंदी में अनुवाद कर हम अपनी दुनिया नहीं बदल स‍कते।</p>\n' +
+    '<p>बड़ी तस्‍वीरों के प्रयोग का तर्क देते श्री नकवी ने कहा कि फोटो अपने आप में बड़ी पत्रकारिता है और एक शब्‍द की भी बडी हे‍डिंग सकती है। प्रिंट मीडिया और टीवी की पत्रकारिता पर बोलते हुये उन्‍होंने कहा कि गंभीर पत्रकारिता का सुख प्रिंट में ही है, पर टीवी की गंभीरता अलग है उसे प्रिंट नहीं ला सकता। ग्‍यारह सांसदों को घूस लेते टीवी ही दिखला सकता है प्रिंट नहीं। पर अखबार के पास जैसी ताकत होती है वह टीवी के पास नहीं होती। अखबार एक बार में आपको तीन सौ के करीब खबरें दे सकता है, पर टीवी एक बार में एक ही खबर दे सकता है। वह जँची तो ठीक है नहीं तो दर्शक रिमोट का बटन दबाने को स्‍वतंत्र है। इसलिये प्रिंट के पास टीवी की तरह मजबूरी नहीं होती। हर मीडिया की अपनी सीमा होती है और अपना एडवांटेज होता है। टीवी को थोड़ा तमाशा थोड़ा नयनसुख चाहिए ही इसके लिये वह अभिशप्‍त है।</p>\n' +
+    '<p>स्टिंग ऑपरेशन पर बोलते हुये श्री नकवी ने कहा कि यह ऑपरेशन केवल जनहित में होना चाहिए। इसके अलावा वह दलाली है, ब्‍लैक मेलिंग है। इसे अन्तिम विकल्‍प के तौर पर लिया जाना चाहिए।</p>\n' +
+    '<p>भाषा को लेखन का महत्‍वपूर्ण हिस्‍सा बताते हुये श्री नकवी ने कहा कि भाषा आम जनता की भावनाओं के साथ फिजिकली भी कनेक्‍टेड होनी चाहिए। इसका अच्‍छा तरीका यह है कि देश दुनिया से जुडी किताबों का अध्‍ययन करें उनके विचारों को जानें।</p>\n' +
+    '<p>प्रधान संपादक जयकृष्‍ण सिंह राणा ने कहा कि सफलता के आकाँक्षियों को खुद के सर्वश्रेष्‍ठ प्रदर्शन का आदर्श लेकर चलना पड़ता है। अखबार में प्रकाशित हो रही सामग्री के बारे में लोगों की क्‍या राय बन रही है उससे खुद को जोड़ना होगा। सामाजिक चेतना को प्रभावित करने वाले बिंदुओं पर ध्‍यान देते हुये हमें अपना स्‍वमूल्‍याँकन और आत्‍मचिन्तन करते रहना होगा। उद्देश्‍य की परिपूर्ति के लिये जो निरन्तर प्रयासरत होंगे, सफलता का स्‍वाद वही ले पायेंगे।</p>\n' +
+    '<p>श्री राणा ने कहा कि किसी भी कार्य को करने के पूर्व आत्‍मचिंतन की आवश्‍यकता होती है। उसी के आधार पर आकलन करें, फिर योजना का क्रियान्‍वयन करें तभी सफलता प्राप्‍त हो सकती है।</p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'पत्रकारिता-में-कभी-परफेक',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'पत्रकारिता-में-कभी-परफेक',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 43361,
+      storyheading: 'अम्बेडकरवाद : विचारधारा और संघर्ष',
+      storysubheading: 'Ambedkarism Ideology and Struggle',
+      englishurl: 'literature',
+      redirectURL: 'Ambedkarism-Ideology-and-Struggle',
+      category_type: '1',
+      storyImage1: 'Ambedkarism-Ideology-and-Struggle-638596042326211862.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'अम्बेडकरवादी आंदोलन और इतिहास से जुड़ी हस्तियों से साक्षात्कार, अम्बेडकरवाद : विचारधारा और संघर्ष, अम्बेडकरवाद विचारधारा और संघर्ष,\r\n' +
+        '\r\n' +
+        'तमिलनाडु के द्रविड़ियन आंदोलन,\r\n' +
+        '\r\n' +
+        'Ambedkarism Ideology and Struggle,\r\n' +
+        '\r\n' +
+        'अम्बेडकरवादी आंदोलन पर किताब, \r\n' +
+        'विद्या भूषण रावत की किताब,\r\n' +
+        'अंबेडकरवाद: विचारधारा और संघर्ष,\r\n' +
+        'अंबेडकरवादी हस्तियाँ\r\n' +
+        'विद्या भूषण रावत की पुस्तक का विमोचन,\r\n' +
+        'अगोरा प्रकाशन,\r\n' +
+        'देहरादून साहित्यिक कार्यक्रम,\r\n' +
+        'अम्बेडकर के विचार,\r\n' +
+        'समाजिक न्याय और अंबेडकरवाद,\r\n' +
+        'अम्बेडकरी आंदोलन के साक्षात्कार,\r\n' +
+        'भारतीय समाज और अंबेडकरवाद,\r\n' +
+        'अंबेडकर और मार्क्स संवाद,\r\n' +
+        'सामाजिक और राजनीतिक कार्यकर्ता,',
+      category_name: 'शब्द',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29035,
+      storyheading: 'हिन्दू राष्ट्र का संकट माथे पर है और वामपंथी अंबेडकर की एक बार फिर हत्या करना चाहते हैं!',
+      storysubheading: 'the-crisis-of-the-hindu-nation-is-on-the-forehead-and-the-leftists-want-to-kill-ambedkar-once-again',
+      englishurl: 'opinion-english',
+      redirectURL: 'the-crisis-of-the-hindu-nation-is-on-the-forehead-and-the-leftists-want-to-kill-ambedkar-once-again',
+      category_type: '1',
+      storyImage1: 'GKT5UwA9nROuEb2pKTXC.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Crisis of Hindu nation, crisis-of-hindu-nation, debate on Ambedkar and the Left, debate-on-ambedkar-and-the-left, identity politics, identity-politics, अंबेडकर और वामपंथ पर बहस, anbeddkr-aur-vaampnth-pr-bhs, जातिप्रश्न और मार्क्सवाद, jaatiprshn-aur-maarksvaad, पहचान की राजनीति, phcaan-kii-raajniiti, हिन्दू राष्ट्र का संकट, hinduu-raassttr-kaa-snktt',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28879,
+      storyheading: 'रोहित वेमुला की आत्महत्यानुमा हत्या और समाज का दोहरापन',
+      storysubheading: 'रोहित-वेमुला-की-आत्महत्य-3',
+      englishurl: 'opinion-english',
+      redirectURL: 'रोहित-वेमुला-की-आत्महत्य-3',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: "Ambedkar Students Association, ambedkar-students-association, Dalit Student Organization, dalit-student-organization, Hyderabad Central University, hyderabad-central-university, Rohit Vemula's suicide note, rohit-vemulas-suicide-note, अम्बेडकर स्टूडेंटस एसोसिएशन, ambeddkr-sttuuddentts-esosieshn, दलित छात्र संगठन, dlit-chaatr-sngtthn, रोहित वेमुला का आत्महत्या पत्र, rohit-vemulaa-kaa-aatmhtyaa-ptr, हैदराबाद केंद्रीय विश्वविद्यालय, haidraabaad-kendriiy-vishvvidyaaly",
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28331,
+      storyheading: 'PANDIT JAWAHARLAL NEHRU, BEEF & HINDUTVA GANG',
+      storysubheading: 'pandit-jawaharlal-nehru-beef-hindutva-gang',
+      englishurl: 'opinion-english',
+      redirectURL: 'pandit-jawaharlal-nehru-beef-hindutva-gang',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'AMBEDKAR, ambedkar, BEEF, beef, Hindutva, hindutva, Jawaharlal Nehru, jawaharlal-nehru',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'शेष-नारायण-सिंह',
+  category_type: 1,
+  storyID: 6155,
+  authorID: 6,
+  author_enname: 'sheshji009',
+  author_image: 'DefaultImageHastakshep.jpg',
+  storydate: 'Mar 28 2023  7:18AM',
+  storyheading: 'जाति के विनाश के बाद ही मिलेगी सामाजिक और आर्थिक आज़ादी',
+  storysubheading: 'the-destruction-of-the-institution-of-caste-is-the-basic-foundation-of-dr-ambedkars-thinking-and-philosophy',
+  storysynopsis: "स्तंभ |  हस्तक्षेप 2023 : जाति के विनाश : Dr Ambedkar's philosophical thinking is clearly reflected in the Constitution of India. The destruction of the institution of caste is the basic foundation of Dr Ambedkar's thinking and philosophy.",
+  fullstory: `<h2><strong>The destruction of the institution of caste is the basic foundation of Dr Ambedkar's thinking and philosophy.</strong></h2><p><strong>अप्रैल का महीना</strong> <strong>(Month of April)</strong> डॉ. बी. आर. आंबेडकर के जन्म का महीना है। 14 अप्रैल 1891 के दिन उनका जन्म हुआ था। इस अवसर पर उनकी राजनीति की बुनियादी समझ (Basic understanding of Dr B R Ambedkar's politics) को एक बाद फिर से समझने की ज़रूरत है। जाति की संस्था का विनाश उनकी सोच और दर्शन का बुनियादी आधार है।</p><h3><strong>Dr Ambedkar's philosophical thinking is clearly reflected in the Constitution of India.</strong></h3><p>डॉ आंबेडकर भारतीय संविधान की ड्राफ्टिंग कमेटी के अध्यक्ष थे और संविधान के हर शब्द पर उनकी सोच का असर है। भारतीय संविधान सामाजिक बराबरी का लक्ष्य हासिल करने का एक महत्वपूर्ण दस्तावेज़ है और उस पर डॉ. आंबेडकर की दार्शनिक सोच का साफ़ असर दिखता है। लेकिन अजीब विडम्बना है कि भारत में लोकसभा के लिए आम चुनाव अकसर अप्रैल के महीने में ही पड़ते हैं और इस महीने में उनकी राजनीतिक विचारधारा की धज्जियां उड़ाई जाती हैं। उन्होंने जाति के विनाश की बात की थी लेकिन चुनावों के दौरान सारी जोड़ गाँठ जाति के इर्द गिर्द ही मंडराती रहती है। जातियों के आधार पर ही वोटों की बात की जाती है।</p><p>महात्मा गांधी के समकालीन रहे डॉ आंबेडकर ने अपने दर्शन की बुनियादी सोच का आधार जाति प्रथा के विनाश को माना था। उनको विश्वास था कि जब तक जाति का विनाश नहीं होगा, तब तक न तो राजनीतिक सुधार लाया जा सकता है और न ही आर्थिक सुधार लाया जा सकता है।</p><p><strong>जाति के विनाश के सिद्धांत</strong> को प्रतिपादित करने वाली उनकी किताब, <strong>The Annihilation of caste</strong> , ने हर तरह की राजनीतिक सोच को प्रभावित किया। है।</p><p>आज भारत की सभी राजनीतिक पार्टियां डॉ. अंबेडकर के नाम की रट लगाती हैं लेकिन उनकी बुनियादी सोच से बहुत बड़ी संख्या में लोग अनभिज्ञ हैं।</p><p><strong>Dr. Ambedkar gave an international perspective to Jyotiba Phule's campaign against Brahminism</strong></p><p>सच्चाई यह है कि पश्चिम और दक्षिण भारत में सामाजिक परिवर्तन के जो भी आन्दोलन चले हैं उसमें इस किताब का बड़ा योगदान है। जो काम महाराष्ट्र में उन्नीसवीं सदी में महात्मा ज्योति राव फुले ने शुरू किया था। उनके बाद के क्रांतिकारी सोच के नेताओं ने उनसे बहुत कुछ सीखा। डॉ आंबेडकर ने महात्मा फुले की शिक्षा संबंधी सोच को <strong>परिवर्तन की राजनीति</strong> के केंद्र में रख कर काम किया और आने वाली नस्लों को जाति के विनाश के रूप में एक ऐसा मन्त्र दिया जो सही मायनों में परिवर्तन का वाहक बनेगा।</p><p><strong>डॉ अंबेडकर ने ब्राह्मणवाद के खिलाफ शुरू किये गए ज्योतिबा फुले के अभियान को एक अंतरराष्ट्रीय परिप्रेक्ष्य दिया</strong>।</p><p><strong>The Annihilation of caste</strong> में डॉ. अंबेडकर ने बहुत ही साफ शब्दों में कह दिया है कि जब तक <strong>जाति प्रथा का विनाश</strong> नहीं हो जाता समता, न्याय और भाईचारे की शासन व्यवस्था नहीं कायम हो सकती।</p><p>जाहिर है कि जाति व्यवस्था का विनाश हर उस आदमी का लक्ष्य होना चाहिए जो अंबेडकर के दर्शन में विश्वास रखता हो।</p><p>अंबेडकर के जीवन काल में किसी ने नहीं सोचा होगा कि उनके दर्शन को आधार बनाकर राजनीतिक सत्ता हासिल की जा सकती है। लेकिन उत्तर प्रदेश में उनकी सोच का दावा करने वाली राजनीतिक पार्टी की सरकार बनी और आज मायावती के नेतृत्व में बहुजन समाज पार्टी एक ऐसी पार्टी है जिससे सभी राजनीतिक दल गठबन्धन करना चाहते हैं।</p><p>मायावती और उनके राजनीतिक गुरु कांशीराम ने अपनी राजनीति के विकास के लिए अंबेडकर का सहारा लिया और सत्ता के केंद्र तक पहुंचे। इस बात की पड़ताल करना दिलचस्प होगा कि अंबेडकर के नाम पर सत्ता हासिल करने वाली मायावती ने उनके सबसे प्रिय सिद्धांत को आगे बढ़ाने के लिया क्या कोई क़दम भी उठाया। क्या उत्तर प्रदेश की मुख्यमंत्री के रूप में उन्होंने ऐसे कोई नियम कानून बनाए जिसके चलते जाति संस्था का विनाश हो सके?</p><p>उत्तर प्रदेश की पूर्व मुख्यमंत्री मायावती की राजनीति पर नज़र डालने से प्रथम दृष्टा ही समझ में आ जाता है कि उन्होंने जाति प्रथा के विनाश के लिए कोई काम नहीं किया है। इसके विपरीत वे जातियों के आधार पर पहचान बनाए रखने की पक्षधर बनी रहीं। दलित जाति को अपने हर सांचे में फिट रखने के लिए तो उन्होंने छोड़ ही दिया है अन्य जातियों को भी उनकी जाति सीमाओं में बांधे रखने के लिए बड़े पैमाने पर अभियान चला रही हैं। जब वे मुख्यमंत्री थीं तो हर जाति की भाईचारा कमेटियाँ बना दी गई थीं और उन कमेटियों को मायावती की पार्टी का कोई बड़ा नेता संभालता था।</p><p>डॉक्टर साहब ने साफ कहा था कि जब तक जातियों के बाहर शादी ब्याह की स्थितियां नहीं पैदा होती तब तक जाति का इस्पाती सांचा तोड़ा नहीं जा सकता। चार बार मुख्यमंत्री की कुर्सी पर विराजने वाली मायावती जी ने एक बार भी सरकारी स्तर पर ऐसी कोई पहल नहीं की जिसकी वजह से जाति प्रथा पर कोई मामूली सी भी चोट लग सके। जाहिर है जब तक समाज जाति के बंधन के बाहर नहीं निकलता आर्थिक विकास का लक्ष्य भी नहीं हासिल किया जा सकता।</p><p>मायावती जब मुख्यमंत्री थीं तो उनकी सरकार के कई मंत्रियों को यह भी नहीं मालूम था कि <strong>अंबेडकर के मुख्य राजनीतिक विचार क्या हैं।</strong> उनकी सरकार के कुछ महत्वपूर्ण मंत्रियों से बातचीत करने का अवसर मिला था। उनमें से अधिकतर को डॉ. अंबेडकर के बारे में कुछ नहीं मालूम था। उनको यह भी नहीं मालूम था कि <strong>बाबा साहब की किताब का नाम क्या है</strong>। यह ठीक वैसा ही है जैसे कम्युनिस्ट पार्टी का कोई नेता मार्क्स के सिद्धांतों को न जानता हो, या दास कैपिटल नाम की किताब के बारे में जानकारी न रखता हो।</p><p>डॉ आंबेडकर की सबसे महत्वपूर्ण किताब The Annihilation of caste के बारे में यह जानना दिलचस्प होगा कि वह एक ऐसा भाषण है जिसको पढ़ने का मौका उन्हें नहीं मिला लाहौर के "जात पात तोड़क मंडल" की ओर से उनको मुख्य भाषण करने के लिए न्यौता मिला था। आयोजकों ने उनसे निवेदन किया कि अपने भाषण की लिखित प्रति भेज दें। जब डाक्टर साहब ने अपने प्रस्तावित भाषण को लिखकर भेजा तो ब्राह्मणों के प्रभुत्व वाले जात-पात तोड़क मंडल के कर्ता धर्ता, काफी बहस मुबाहिसे के बाद भी इतना क्रांतिकारी भाषण सुनने को तैयार नहीं हुए। शर्त लगा दी कि अगर भाषण में आयोजकों की मर्जी के हिसाब से बदलाव न किया गया तो भाषण हो नहीं पायेगा। डॉ अंबेडकर ने भाषण बदलने से मना कर दिया। और उस सामग्री को पुस्तक के रूप में छपवा दिया जो आज हमारी ऐतिहासिक धरोहर का हिस्सा है।</p><p>इस पुस्तक में <i><strong>जाति के विनाश की राजनीति</strong></i> <strong>(Politics of caste destruction)</strong> और दर्शन के बारे में गंभीर चिंतन भी है। इस देश का दुर्भाग्य है कि आर्थिक, सामाजिक और राजनीतिक विकास का इतना नायाब तरीका हमारे पास है, लेकिन उसका इस्तेमाल नहीं किया जा रहा है। डॉ. अंबेडकर के समर्थन का दम ठोंकने वाले लोग ही जाति प्रथा को बनाए रखने में रुचि रखते हैं और उसको बनाए रखने के लिए एड़ी चोटी का जोर लगा रहे हैं। जाति के विनाश के लिए डाक्टर अंबेडकर ने सबसे कारगर तरीका जो बताया था वह <strong>अंतरजातीय विवाह</strong> का था, लेकिन उसके लिए राजनीतिक स्तर पर कोई कोशिश नहीं की जा रही है, लोग स्वयं ही जाति के बाहर निकल कर शादी ब्याह कर रहे है, यह अलग बात है।</p><p>इस पुस्तक में अंबेडकर ने अपने आदर्शों का जिक्र किया है। उन्होंने कहा कि जातिवाद के विनाश के बाद जो स्थिति पैदा होगी उसमें स्वतंत्रता, बराबरी और भाईचारा होगा। एक आदर्श समाज के लिए अंबेडकर का यही सपना था। एक आदर्श समाज को गतिशील रहना चाहिए और बेहतरी के लिए होने वाले किसी भी परिवर्तन का हमेशा स्वागत करना चाहिए। एक आदर्श समाज में विचारों का आदान-प्रदान होता रहना चाहिए।</p><p>अंबेडकर का कहना था कि <strong>स्वतंत्रता की अवधारणा भी जाति प्रथा को नकारती है</strong> (The concept of freedom also denies the caste system)।</p><p>उनका कहना है कि जाति प्रथा को जारी रखने के पक्षधर लोग राजनीतिक आजादी की बात तो करते हैं लेकिन वे लोगों को अपना पेशा चुनने की आजादी नहीं देना चाहते। इस अधिकार को अंबेडकर की कृपा से ही संविधान के मौलिक अधिकारों में शुमार कर लिया गया है और आज इसकी मांग करना उतना अजीब नहीं लगेगा, लेकिन जब उन्होंने उनके दशक में यह बात कही थी तो उसका महत्व बहुत अधिक था।</p><p><strong>What is the most important issue in Ambedkar's ideal society?</strong></p><p>अंबेडकर के आदर्श समाज में सबसे महत्वपूर्ण मुद्दा है, बराबरी। ब्राह्मणों के आधिपत्य वाले समाज ने उनके इस विचार के कारण उन्हें बार-बार अपमानित किया। सच्चाई यह है कि सामाजिक बराबरी के इस मसीहा को जात पात तोड़क मंडल ने भाषण नहीं देने दिया लेकिन अंबेडकर ने अपने विचारों में कहीं भी ढील नहीं होने दी।</p><p>तकलीफ तब होती है जब उसके अनुयायियों और उनके दर्शन पर आधारित राजनीति करके सत्ता पाने वाले लोग भी उनकी विचारधारा को नजर अंदाज करते हैं।</p><p>सारी दुनिया के समाजशास्त्री मानते हैं कि जाति प्रथा भारत के आर्थिक, सामाजिक और राजनीतिक विकास में सबसे बड़ा रोड़ा है, और उनके विनाश के लिए अंबेडकर द्वारा सुझाया गया तरीका ही सबसे उपयोगी है।</p><p><span class="image-inline ck-widget" contenteditable="false"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/mFCAQ1oEax3bdYaZeSLF.jpg" alt="शेष नारायण सिंह शेष नारायण सिंह वरिष्ठ पत्रकार हैं। वह हस्तक्षेप के संरक्षक हैं। वह इतिहास के वैज्ञानिक विश्लेषण के एक्सपर्ट हैं। नये पत्रकार उन्हें पढ़ते हुये बहुत कुछ सीख सकते हैं।"></span> शेष नारायण सिंह<br><strong>शेष नारायण सिंह वरिष्ठ पत्रकार हैं। वह हस्तक्षेप के संरक्षक हैं। वह इतिहास के वैज्ञानिक विश्लेषण के एक्सपर्ट हैं। नये पत्रकार उन्हें पढ़ते हुये बहुत कुछ सीख सकते हैं।</strong></p><p>जब कांशी राम ने <strong>बहुजन समाज पार्टी</strong> का गठन किया था तो अंबेडकर के दर्शन शास्त्र को समझने वालों को उम्मीद थी कि जब अंबेडकरवादियों को सत्ता में भागीदारी मिलेगी तो सब कुछ बदल जाएगा, जाति प्रथा के विनाश के लिए ज़रूरी क़दम उठा लिए जाएंगें लेकिन ऐजाएंगे हुआ। पांच साल तक पूर्ण बहुमत वाली सत्ता का आनंद लेने वाली मायावती जाति संस्था को ख़त्म करना तो दूर उसको बनाए रखने और मज़बूत करने के लिए एड़ी चोटी का जोर लगा दिया। लगता है कि <strong>अंबेडकर जयंती</strong> <strong>(ambedkar jayanti)</strong> या उनके निर्वाण दिवस पर फूल चढ़ाते हुए फोटो खिंचवाने वाले लोगों के सहारे जाति प्रथा का विनाश नहीं किया जा सकता। वे चाहे नेता हों या अंबेडकर के नाम पर दलित लेखन का धंधा करने वाले लोग। जाति का विनाश करने के लिए उन्हीं लोगों को आगे आना होगा जो जाति प्रथा के शिकार हैं।</p><p>मीडिया में भी डॉ आंबेडकर के क्रांतिकारी विचारों को वह महत्व नहीं मिलता जो मिलना चाहिए। मैंने भी डॉ आंबेडकर के बारे में काफी कुछ पढ़ा और जाना है लेकिन अप्रैल के दूसरे हफ्ते और दिसंबर के पहले हफ्ते के अलावा मैं भी डॉ अंबेडकर जैसे श्रद्धेय मनीषी के बारे में कुछ नहीं लिखता।</p><p><strong>शेष नारायण सिंह</strong></p><figure class="media ck-widget" contenteditable="false"><div class="ck-media__wrapper" data-oembed-url="https://youtu.be/P4JYXsv7i_Y"><div style="position: relative; padding-bottom: 100%; height: 0; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/P4JYXsv7i_Y" style="position: absolute; width: 100%`... 794 more characters,
+  storyimage1: 'kPrOow0zAuf9WdFUdRlz.jpg',
+  videos: null,
+  tags: 'Ambedkar Jayanti, ambedkar-jayanti, Politics of caste destruction, politics-of-caste-destruction, The Annihilation of caste, the-annihilation-of-caste, अप्रैल का महीना, aprail-kaa-mhiinaa, अंबेडकर जयंती, anbeddkr-jyntii, जाति के विनाश के सिद्धांत, jaati-ke-vinaash-ke-siddhaant, जाति के विनाश की राजनीति, jaati-ke-vinaash-kii-raajniiti, बहुजन समाज पार्टी, bhujn-smaaj-paarttii',
+  redirectURL: 'the-destruction-of-the-institution-of-caste-is-the-basic-foundation-of-dr-ambedkars-thinking-and-philosophy',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Ambedkar Jayanti, ambedkar-jayanti, Politics of caste destruction, politics-of-caste-destruction, The Annihilation of caste, the-annihilation-of-caste, अप्रैल का महीना, aprail-kaa-mhiinaa, अंबेडकर जयंती, anbeddkr-jyntii, जाति के विनाश के सिद्धांत, jaati-ke-vinaash-ke-siddhaant, जाति के विनाश की राजनीति, jaati-ke-vinaash-kii-raajniiti, बहुजन समाज पार्टी, bhujn-smaaj-paarttii',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'the-destruction-of-the-institution-of-caste-is-the-basic-foundation-of-dr-ambedkars-thinking-and-philosophy',
+  createdDate: 'March 28, 2023, 07:18 AM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}

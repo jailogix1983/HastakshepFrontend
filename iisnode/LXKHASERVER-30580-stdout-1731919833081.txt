@@ -1,0 +1,939 @@
+data {
+  objrelatedstory: [
+    {
+      storyID: 33227,
+      storyheading: 'यूएन ने “रवांडा की सुरक्षा-यूके” क़ानून के हानिकारक प्रभाव और नतीजों की चेतावनी दी',
+      storysubheading: 'UN warns of harmful effects and consequences of UK Rwanda asylum law',
+      englishurl: 'news-2',
+      redirectURL: 'UN-warns-of-harmful-effects-and-consequences-of-UK-Rwanda-asylum-law',
+      category_type: '1',
+      storyImage1: 'UN-warns-of-harmful-effects-and-consequences-of-UK-Rwanda-asylum-law-638496463678784165.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '“रवांडा की सुरक्षा-यूके” क़ानून के हानिकारक प्रभाव',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 12891,
+      storyheading: 'इन देशों में कैंसर निदान का अर्थ है मौत की सजा',
+      storysubheading: 'in-east-africa-a-cancer-diagnosis-means-a-death-sentence',
+      englishurl: 'news-2',
+      redirectURL: 'in-east-africa-a-cancer-diagnosis-means-a-death-sentence',
+      category_type: '1',
+      storyImage1: '1LbBT9k9bFKyiCHDXK3u.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Cervical Cancer, cervical-cancer, colorectum cancers, colorectum-cancers, leading killer in women, leading-killer-in-women, leukaemia, leukaemia, oesophagus cancers, oesophagus-cancers, Prostate Cancer, prostate-cancer, एसोफैगस कैंसर, esophaigs-kainsr, कोलोरेक्टम कैंसर, kolorekttm-kainsr, ग्रीवा कैंसर, griivaa-kainsr, तंजानिया, tnjaaniyaa, प्रोस्टेट कैंसर, prosttett-kainsr, रवांडा, rvaanddaa, ल्यूकेमिया, lyuukemiyaa, स्तन कैंसर, stn-kainsr, सर्वाइकल कैंसर, srvaaikl-kainsr',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'Hastakshep-Desk',
+  category_type: 1,
+  storyID: 45386,
+  authorID: 4,
+  author_enname: 'HastakshepDesk',
+  author_image: '45eec1c3-5896-4ae3-b324-ead5877063ef_DefaultImageHastakshep.webp',
+  storydate: '2024-10-02 18:22:39',
+  storyheading: 'मारबर्ग वायरस बीमारी का प्रकोप: रवांडा में स्वास्थ्य संकट की पूरी जानकारी',
+  storysubheading: 'Marburg virus disease ',
+  storysynopsis: 'मारबर्ग वायरस लोगों के बीच कैसे फैलता है? मारबर्ग वायरस रोग के लिए ऊष्मायन अवधि क्या है? मारबर्ग वायरस रोग के लिए स्वास्थ्य उपाय क्या हैं?',
+  fullstory: '<p style="text-align: justify;"><strong><span style="font-size: large;">रवांडा में मारबर्ग वायरस बीमारी (Marburg virus disease &ndash; Rwanda MVD) के प्रकोप की पुष्टि की गई है, जिसमें 26 मामले और 8 मौतें शामिल हैं। जानें <a href="https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON537" target="_blank">WHO की स्वास्थ्य सलाह</a>, लक्षण, जोखिम मूल्यांकन, और प्रकोप को नियंत्रित करने के उपाय।</span></strong></p>\r\n' +
+    '<h2 style="text-align: justify;"><strong><span style="font-size: large;">मारबर्ग वायरस बीमारी : परिचय और लक्षण</span></strong></h2>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">नई दिल्ली, 02 अक्तूबर 2024. विश्व स्वास्थ्य संगठन (WHO) द्वारा प्रदत्त जानकारी पर आधारित यह ख़बर रवांडा में मारबर्ग वायरस रोग के प्रकोप का अवलोकन प्रदान करती है। यह महामारी विज्ञान, सार्वजनिक स्वास्थ्य प्रतिक्रिया, WHO जोखिम मूल्यांकन और प्रकोप को नियंत्रित करने के लिए WHO की सलाह पर केंद्रित है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">- MVD मारबर्ग वायरस के कारण होने वाली एक अत्यधिक विषैली बीमारी है, जो संक्रमित शारीरिक तरल पदार्थ या दूषित सतहों के संपर्क से फैलती है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">- रवांडा में प्रकोप सितंबर 2024 में शुरू हुआ, जिसमें स्वास्थ्य सेवा कर्मियों सहित 26 मामलों की पुष्टि हुई।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">- WHO ने प्रकोप के जोखिम को राष्ट्रीय स्तर पर बहुत अधिक, क्षेत्रीय स्तर पर उच्च और वैश्विक स्तर पर कम माना है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">- WHO प्रकोप को नियंत्रित करने के लिए केस आइसोलेशन, संपर्क ट्रेसिंग, संक्रमण की रोकथाम और नियंत्रण, और सामुदायिक सहभागिता जैसे उपायों की सिफारिश करता है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">बीती 27 सितंबर 2024 को, रवांडा के स्वास्थ्य मंत्रालय ने मारबर्ग वायरस बीमारी (MVD) की पुष्टि की। वर्तमान में रवांडा में 26 मामलों की पुष्टि हुई है, जिनमें से आठ की मृत्यु हो चुकी है।&nbsp;</span></p>\r\n' +
+    '<h3 style="text-align: justify;"><strong><span style="font-size: large;">मारबर्ग वायरस प्रकोप की शुरुआत</span></strong></h3>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">रवांडा के स्वास्थ्य मंत्रालय ने 27 सितंबर 2024 को मारबर्ग वायरस की पुष्टि की थी। रक्त के नमूनों की RT-PCR परीक्षण में सकारात्मक परिणाम मिले। 29 सितंबर 2024 तक, कुल 26 पुष्ट मामले रिपोर्ट हुए हैं, जिनमें से 8 की मृत्यु हो गई यानी मृत्यु दर 31% है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">प्रभावित क्षेत्र</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">रवांडा के 30 जिलों में से सात जिलों - गैसाबो, गाट्सिबो, कमोनी, किकुकिरो, नयागातारे, न्यारुगेन्जे और रुबावु में ये मामले सामने आए हैं। इनमें से 70% से अधिक मामले किगाली के दो स्वास्थ्य सुविधाओं से जुड़े हैं।&nbsp; मरीजों की देखभाल अस्पतालों में की जा रही है। यह पहली बार है जब रवांडा में एमवीडी की रिपोर्ट की गई है। रवांडा सरकार विश्व स्वास्थ्य संगठन और भागीदारों के सहयोग से प्रतिक्रिया का समन्वय कर रही है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">संपर्क ट्रेसिंग</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">300 संपर्कों की निगरानी की जा रही है। एक संपर्क ने अंतरराष्ट्रीय यात्रा की, लेकिन वे स्वस्थ रहे और कोई लक्षण नहीं दिखाए।</span></p>\r\n' +
+    '<h4 style="text-align: justify;"><strong><span style="font-size: large;">महामारी विज्ञान - मारबर्ग वायरस</span></strong></h4>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">मारबर्ग वायरस एक अत्यधिक संक्रामक रोग है, जो खतरनाक बुखार का कारण बनता है। यह रोग Rousettus चमगादड़ के निकट संपर्क से फैलता है, जो इस वायरस का वाहक होते हैं।&nbsp;</span></p>\r\n' +
+    '<h5 style="text-align: justify;"><span style="font-size: large;"><strong><span>मारबर्ग वायरस के&nbsp;</span>लक्षण</strong></span></h5>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">मारबर्ग वायरस संक्रमण के लक्षण अचानक शुरू होते हैं, जिनमें उच्च बुखार, गंभीर सिरदर्द, और गंभीर कमजोरी शामिल हैं। गंभीर दस्त, पेट दर्द, और मतली भी विकसित हो सकते हैं।&nbsp;तीसरे दिन गंभीर पानी जैसा दस्त, पेट में दर्द और ऐंठन, मतली और उल्टी शुरू हो सकती है। हालाँकि सभी मामलों में रक्तस्राव के लक्षण नहीं होते हैं, लेकिन गंभीर रक्तस्रावी लक्षण लक्षणों की शुरुआत से पाँच से सात दिनों के बीच दिखाई दे सकते हैं, और घातक मामलों में आमतौर पर किसी न किसी तरह का रक्तस्राव होता है, अक्सर कई क्षेत्रों से। घातक मामलों में, मृत्यु अक्सर लक्षण शुरू होने के आठ से नौ दिनों के बीच होती है, आमतौर पर गंभीर रक्त की हानि और सदमे से पहले</span></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">सार्वजनिक स्वास्थ्य प्रतिक्रिया</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">सरकार की तैयारी</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">रवांडा सरकार WHO और भागीदारों के सहयोग से प्रकोप की प्रतिक्रिया का समन्वय कर रही है।&nbsp;</span></p>\r\n' +
+    '<h6 style="text-align: justify;"><strong><span style="font-size: large;">मारबर्ग वायरस लोगों के बीच कैसे फैलता है?</span></strong></h6>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">मारबर्ग वायरस संक्रमित लोगों के रक्त, स्राव, अंगों या अन्य शारीरिक तरल पदार्थों के साथ सीधे संपर्क (टूटी हुई त्वचा या श्लेष्म झिल्ली के माध्यम से) और इन तरल पदार्थों से दूषित सतहों और सामग्रियों (जैसे बिस्तर, कपड़े) के माध्यम से लोगों के बीच फैलता है। स्वास्थ्य सेवा कर्मी पहले भी संदिग्ध या पुष्टि किए गए एमवीडी वाले रोगियों का इलाज करते समय संक्रमित हो चुके हैं। मृतक के शरीर के साथ सीधे संपर्क में आने वाले दफन समारोह भी मारबर्ग वायरस के संचरण में योगदान दे सकते हैं।</span></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">मारबर्ग वायरस रोग के लिए ऊष्मायन अवधि क्या है?</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">मारबर्ग वायरस रोग के लिए ऊष्मायन अवधि (incubation period for Marburg virus disease) दो से 21 दिनों के बीच है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">मारबर्ग वायरस रोग के लिए स्वास्थ्य उपाय क्या हैं?</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">मारबर्ग वायरस रोग (एमवीडी) के लिए स्वास्थ्य उपायों में शामिल हैं :</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>शीघ्र अलगाव और केस प्रबंधन :</strong> इसमें आगे प्रसार को रोकने के लिए संदिग्ध और पुष्टि किए गए मामलों को अलग करना शामिल है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>निगरानी</strong> : इसमें सक्रिय केस खोज, केस जांच और संपर्क ट्रेसिंग शामिल है ताकि उन व्यक्तियों की पहचान और निगरानी की जा सके जो वायरस के संपर्क में आए हों।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>इष्टतम प्रयोगशाला सेवा :</strong> यह संदिग्ध मामलों का समय पर और सटीक निदान सुनिश्चित करता है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>संक्रमण की रोकथाम और नियंत्रण (आईपीसी)</strong>: इसमें व्यक्तिगत सुरक्षा उपकरण (पीपीई) का उचित उपयोग, हाथ की स्वच्छता, पर्यावरण की सफाई और कीटाणुशोधन, और सुरक्षित अपशिष्ट प्रबंधन जैसे उपाय शामिल हैं।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>सुरक्षित और सम्मानजनक दफन</strong> : दफन समारोहों के दौरान संक्रमण को रोकने के लिए यह महत्वपूर्ण है।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>सामाजिक लामबंदी और सामुदायिक जुड़ाव</strong> : इसमें एमवीडी संक्रमण के जोखिम कारकों और सुरक्षात्मक उपायों के बारे में जागरूकता बढ़ाना शामिल है जो व्यक्ति अपना सकते हैं।</span></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">WHO का जोखिम आकलन</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">WHO के अनुसार, इस प्रकोप का राष्ट्रीय स्तर पर जोखिम "बहुत उच्च", क्षेत्रीय स्तर पर "उच्च", और वैश्विक स्तर पर "कम" है।&nbsp;</span></p>\r\n' +
+    '<p style="text-align: justify;"><strong><span style="font-size: large;">यात्रा सलाह</span></strong></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">WHO ने रवांडा के लिए यात्रा और व्यापार प्रतिबंधों का विरोध किया है।&nbsp;</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">मारबर्ग वायरस की इस महामारी का प्रबंधन कठिन है, लेकिन समय पर पहचान और उपचार से बचाव संभव है। स्वास्थ्य कर्मियों की सुरक्षा और सार्वजनिक जागरूकता में वृद्धि इस प्रकोप को नियंत्रित करने के लिए महत्वपूर्ण हैं।</span></p>',
+  storyimage1: 'Marburg-virus-disease-638634901590096521.jpg',
+  videos: '',
+  tags: 'रवांडा में मारबर्ग वायरस, मारबर्ग वायरस बीमारी : परिचय और लक्षण,मारबर्ग वायरस के लक्षण, मारबर्ग वायरस लोगों के बीच कैसे फैलता है, मारबर्ग वायरस रोग के लिए स्वास्थ्य उपाय,',
+  redirectURL: 'Marburg-virus-disease',
+  englishurl: 'health',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'रवांडा में मारबर्ग वायरस, मारबर्ग वायरस बीमारी : परिचय और लक्षण,मारबर्ग वायरस के लक्षण, मारबर्ग वायरस लोगों के बीच कैसे फैलता है, मारबर्ग वायरस रोग के लिए स्वास्थ्य उपाय,',
+  catname: 'स्वास्थ्य',
+  catID: 82,
+  canonicalUrl: 'Marburg-virus-disease',
+  createdDate: 'October 02, 2024, 06:22 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 39276,
+      storyheading: 'लोहिया का सच : हिन्दू बनाम हिन्दू',
+      storysubheading: 'Are Hindus the real enemies of Hindus',
+      englishurl: 'opinion',
+      redirectURL: 'Are-Hindus-the-real-enemies-of-Hindus',
+      category_type: '1',
+      storyImage1: 'Are-Hindus-the-real-enemies-of-Hindus-638539680603002523.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'हिन्दू बनाम हिन्दू, लोहिया का सच, हिंदू ही हिंदुओं के असली दुश्मन हैं',
+      category_name: 'हस्तक्षेप',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 30024,
+      storyheading: 'भगवान राम: दिव्य आत्मा से हिन्दू राष्ट्रवाद के नायक',
+      storysubheading: 'Lord Ram became a symbol of fear for the first time in history',
+      englishurl: 'column',
+      redirectURL: 'Lord-Ram-became-a-symbol-of-fear-for-the-first-time-in-history',
+      category_type: '1',
+      storyImage1: '8a0993ce-a700-4417-82a8-beaf0587e2ba_Lord Ram became a symbol of fear for the first time in history.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'राम,हिन्दू राष्ट्रवाद, हिन्दू, राष्ट्रवाद,अयोध्या,बिहार,',
+      category_name: 'स्तंभ',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29927,
+      storyheading: 'पूर्वी पाकिस्तान से विस्थापितों की कहानी : सौ-सवा सौ लाशों का प्रतिदिन महीनों किया सामूहिक दाह संस्कार- डॉ. सुनील हाल्दार',
+      storysubheading: 'interview-of-dr-sunil-haldar-story-of-displaced-from-east-pakistan',
+      englishurl: 'national',
+      redirectURL: 'interview-of-dr-sunil-haldar-story-of-displaced-from-east-pakistan',
+      category_type: '1',
+      storyImage1: 'gF5K1mIhy5J7NV4kD4Lz.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Bengali refugees, bengali-refugees, Dr. Sunil Haldar, dr-sunil-haldar, Hindu Bengali Refugees, hindu-bengali-refugees, उद्वास्तु समस्या, udvaastu-smsyaa, डॉ. सुनील हाल्दार, ddon-suniil-haaldaar, पूर्वी पाकिस्तान से विस्थापितों की कहानी, puurvii-paakistaan-se-visthaapiton-kii-khaanii, हिन्दू बंगाली शरणार्थियों, hinduu-bngaalii-shrnnaarthiyon, हिरण, hirnn',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29867,
+      storyheading: 'महात्मा गांधी का पुनर्पाठ : क्या आपको पता है गांधी का धर्म क्या था?',
+      storysubheading: 'rereading-of-mahatma-gandhi-do-you-know-what-was-gandhis-religion',
+      englishurl: 'aapki najar',
+      redirectURL: 'rereading-of-mahatma-gandhi-do-you-know-what-was-gandhis-religion',
+      category_type: '1',
+      storyImage1: 'E0DsiTvhOt1D7qwT2Rpf.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'जगदीश्वर चतुर्वेदी, jgdiishvr-cturvedii, महात्मा गांधी, mhaatmaa-gaandhii, सनातनी हिन्दू, snaatnii-hinduu, हिन्दू धर्म की शिक्षा, hinduu-dhrm-kii-shikssaa',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 28848,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Jan 13 2021  6:30PM',
+  storyheading: 'वे छद्म हिन्दू हैं',
+  storysubheading: 'pseudo-hindu',
+  storysynopsis: 'वे छद्म हिन्दू हैं',
+  fullstory: '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong>वर्तमान में हिंदुओं को एक ही compartment में रखने की प्रक्रिया चल रही है। विविधता को गायब किया जा रहा है। यदि आप जय श्री राम न कहेंगे, तो आप हिन्दू नहीं हैं? छद्म हिन्दू पर अनिल सोडानी की एक रचना ...</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>हिन्दू</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मैं हिन्दू हूँ...</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>कर्म में , पूजा में</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>साकार और निराकार में,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>विधि में, विधान में,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>राम में, कृष्ण में,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>कार्तिक में, गणेश में,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>दुर्गा में, सीता में,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>गीता और रामायण में</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>वेदों और वर्णों में,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पुनर्जन्म और स्वर्ग-नरक में</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>और बहुत कुछ में...</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>विश्वास करता हूँ...</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मेरा धर्म मुझे इसकी</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इज़ाज़त देता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मैं हिन्दू हूँ...</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पूजा में नहीं, वेदों में नहीं</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>किसी मूर्ति में नहीं,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>भगवान में भी नहीं,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>स्वर्ग और नरक में नहीं</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पुनर्जन्म में नहीं</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>विश्वास करता हूँ...</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मेरा धर्म मुझे इसकी</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इज़ाज़त देता है.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>जगत सत्य और</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>ब्रह्म मिथ्या मानने की</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इज़ाज़त भी देता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यह हिन्दू धर्म</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>एक काफिला है</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>हर सोच के व्यक्ति</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>एक साथ चल सकते</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>बिन किसी टकराव</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>बिन किसी द्वेष के।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>जो हमें धकेले,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उनकी बनाई संकरी गली में,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>वे या तो हिन्दू का</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अर्थ नहीं जानते</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>या वे छद्म हिन्दू हैं</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>या हिन्दू धर्म का</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उपयोग कर</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>वशीकरण का</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>खेल खेलते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"fontSize":"large"} --></p>\n' +
+    '<p class="has-large-font-size"><strong>-अनिल सोडानी</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:html --><br />\n' +
+    '<iframe src="https://www.youtube.com/embed/2anzqDwXQuQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="853" height="480" frameborder="0"></iframe><br />\n' +
+    '<!-- /wp:html --></p>\n' +
+    '<p><!-- wp:jetpack/related-posts {"displayThumbnails":true,"postsToShow":5} /--></p>\n',
+  storyimage1: 'a0qlydmLcttef7tzg8Uf.jpg',
+  videos: null,
+  tags: 'हिन्दू, hinduu',
+  redirectURL: 'pseudo-hindu',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'हिन्दू, hinduu',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'pseudo-hindu',
+  createdDate: 'January 13, 2021, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 49437,
+      storyheading: 'कॉप29: द्वीपीय देशों के साथ जलवायु न्याय की लड़ाई में यूएन महासचिव का आह्वान',
+      storysubheading: 'UN Secretary General calls on island nations to fight for climate justice',
+      englishurl: 'Global-Warming',
+      redirectURL: 'UN-Secretary-General-calls-on-island-nations-to-fight-for-climate-justice',
+      category_type: '1',
+      storyImage1: 'UN-Secretary-General-calls-on-island-nations-to-fight-for-climate-justice-638671655744328072.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'कॉप29 सम्मेलन 2024 और लघु द्वीपीय विकासशील देश,\r\n' +
+        'द्वीपीय देशों का जलवायु न्याय,\r\n' +
+        'यूएन महासचिव एंतोनियो गुटेरेश ग्लोबल वार्मिंग प्रभाव पर,\r\n' +
+        'जलवायु परिवर्तन और अन्याय,',
+      category_name: 'ग्लोबल वार्मिंग',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 49436,
+      storyheading: 'कॉप29: उर्जा परिवर्तन में न्याय का आह्वान - निर्धन समुदायों और पर्यावरण की रक्षा के लिए उठी आवाज़',
+      storysubheading: 'In process of changing energy sources greed that crushes poor must be avoided',
+      englishurl: 'climate change',
+      redirectURL: 'In-process-of-changing-energy-sources-greed-that-crushes-poor-must-be-avoided',
+      category_type: '1',
+      storyImage1: 'how-to-runIn-process-of-changing-energy-sources-greed-that-crushes-poor-must-be-avoided-638671365504486608.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'कॉप29: उर्जा परिवर्तन में न्याय का आह्वान,कॉप29 सम्मेलन 2024,\r\n' +
+        'न्यायपूर्ण ऊर्जा परिवर्तन,\r\n' +
+        'संयुक्त राष्ट्र महासचिव का संदेश,\r\n' +
+        'ऊर्जा खनिज निष्कर्षण,\r\n' +
+        'निर्धन समुदायों का सशक्तिकरण,\r\n' +
+        'नवीकरणीय ऊर्जा निवेश,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 49435,
+      storyheading: 'COP29 में हानि व क्षति कोष के लिए वित्तीय संकल्प का आह्वान : संयुक्त राष्ट्र महासचिव की अपील',
+      storysubheading: 'Call for financial resolution for loss and damage fund at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'Call-for-financial-resolution-for-loss-and-damage-fund-at-COP29',
+      category_type: '1',
+      storyImage1: 'Call-for-financial-resolution-for-loss-and-damage-fund-at-COP29-638670795895080150.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 सम्मेलन में हानि व क्षति कोष में वित्तीय योगदान, COP29 में जलवायु हानि और क्षति कोष का उद्देश्य,\r\n' +
+        'विकासशील देशों के लिए जलवायु वित्तीय सहायता कैसे काम करती है,\r\n' +
+        'जलवायु परिवर्तन से प्रभावित देशों के लिए यूएन का वित्त पोषण प्रस्ताव,\r\n' +
+        'यूएन महासचिव एंतोनियो गुटेरेश का जलवायु परिवर्तन पर सन्देश,\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29985,
+      storyheading: 'प्रियंका गांधी का निर्देश 3 जनवरी से 20 दिन प्रवास पर रहेंगे सभी पदाधिकारी',
+      storysubheading: 'priyanka-gandhis-instructions-all-officials-will-stay-on-20-days-stay-from-3rd-january',
+      englishurl: 'national',
+      redirectURL: 'priyanka-gandhis-instructions-all-officials-will-stay-on-20-days-stay-from-3rd-january',
+      category_type: '1',
+      storyImage1: 'lKKw2hWoSZyACr66GqUR.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'कांग्रेस महासचिव प्रियंका गांधी, kaangres-mhaasciv-priynkaa-gaandhii, कांग्रेस, kaangres',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'संयुक्त-राष्ट्र-समाचार',
+  category_type: 1,
+  storyID: 50437,
+  authorID: 47,
+  author_enname: 'UN News',
+  author_image: 'f5bd9bc0-4320-4024-9ab7-5893f36989a7_UNinHindi.jpg',
+  storydate: '2024-11-15 19:52:50',
+  storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+  storysubheading: 'Rapid action is needed to address global climate crisis',
+  storysynopsis: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन, 2050 तक नैट-शून्य लक्ष्य, जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका, COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ, नैट-शून्य उत्सर्जन लक्ष्य 2050, ग्रीनहाउस गैस उत्सर्जन कटौती COP29,',
+  fullstory: '<h2 style="text-align: justify;"><strong style="font-size: large;">नैट-शून्य उत्सर्जन लक्ष्य तक पहुँचने के लिए संयुक्त प्रयासों की आवश्यकता</strong></h2>\r\n' +
+    '<h3 style="text-align: justify;"><span style="font-size: large;"><strong>यूएन महासचिव गुटेरेस का आह्वान: अब और अधिक कदम उठाने का समय</strong></span></h3>\r\n' +
+    '<h4 style="text-align: justify;"><span style="font-size: large;"><strong>COP29</strong><strong> में जलवायु परिवर्तन पर ग़ैर-सरकारी हितधारकों की भूमिका</strong></span></h4>\r\n' +
+    '<h5 style="text-align: justify;"><span style="font-size: large;"><strong>COP29</strong><strong> में ग्रीनहाउस गैस उत्सर्जन को नियंत्रित करने के लिए महत्वपूर्ण रणनीति</strong></span></h5>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>COP29</strong><strong> सम्मेलन में यूएन महासचिव एंटोनियो गुटेरेस ने जलवायु परिवर्तन पर त्वरित कार्रवाई की आवश्यकता पर जोर दिया। उन्होंने </strong><strong>2050</strong><strong> तक नैट-शून्य उत्सर्जन के लक्ष्य को हासिल करने के लिए तेज़ी से कदम बढ़ाने की बात की और ग़ैर-सरकारी पक्षों की भूमिका को महत्वपूर्ण बताया।</strong><strong>इस संबंध में पढ़ें <a href="https://news.un.org/hi/story/2024/11/1080846">संयुक्त राष्ट्र समाचार</a> की ख़बर </strong></span></p>\r\n' +
+    '<h2 style="text-align: justify;"><span style="font-size: large;"><strong>कॉप</strong><strong>29: </strong><strong>नैट-शून्य लक्ष्य पर पिछड़ने का नहीं</strong><strong>, </strong><strong>तेज़ी से क़दम बढ़ाने का समय</strong></span></h2>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने बाकू में कॉप29 जलवायु सम्मेलन के दौरान गुरूवार को ग़ैर-सरकारी हितधारकों के साथ मुलाक़ात की, और जलवायु कार्रवाई में शहरों, क्षेत्रों, व्यवसायों और वित्तीय संस्थाओं की महत्वपूर्ण भूमिका पर बल दिया. उन्होंने कहा कि 2050 तक नैट-शून्य उत्सर्जन के लक्ष्य तक पहुँचने के लिए सभी को आगे बढ़कर क़दम उठाने होंगे.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">यूएन प्रमुख ने कहा कि दुनिया को सुरक्षित मार्ग पर ले जाने के लिए विशाल स्तर पर वैश्विक प्रयास की आवश्यकता है. &ldquo;आप अग्रिम पंक्ति में हैं...उपभोक्ताओं, निवेशकों और नियामकों को यह समझने में मदद करते हुए कि विश्वसनीय नैट-शून्य की तस्वीर क्या होगी.&rdquo;</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">नैट-शून्य से तात्पर्य, ग्रीनहाउस गैस की कुल उत्सर्जित मात्रा और वातावरण से हटाई गई मात्रा के बीच सन्तुलन साधने से है.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">सूखे, बाढ़ और तूफ़ान जैसी चरम मौसम घटनाएँ, दुनिया के अनेक हिस्सों में मानवीय त्रासदी और आर्थिक विध्वंस की वजह बन रही है. इसके मद्देनज़र, वैश्विक तापमान में वृद्धि को 1.5 डिग्री सेल्सियस तक सीमित रखना ज़रूरी है, मगर उत्सर्जन में कटौती लाने के इरादे से ठोस क़दमों के लिए समय बीता जा रहा है.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">यूएन प्रमुख ने इसी उद्देश्य से गुरूवार को ग़ैर-सरकारी पक्षों के साथ एक उच्चस्तरीय बैठक का आयोजन किया ताकि उनके द्वारा अब तक की गई कार्रवाई व भावी रणनीतियों पर चर्चा की जा सके.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">महासचिव गुटेरेस ने मिस्र के शर्म-अल-शेख़ में कॉप27 जलवायु सम्मेलन के दौरान अहम सिफ़ारिशों के साथ एक रिपोर्ट जारी की थी, जिसमें ग़ैर-सरकारी संस्थाओं द्वारा उपाय अपनाए जाने की अपेक्षा है.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">&lsquo;Integrity Matters&rsquo; नामक इस रिपोर्ट में 10 सिफ़ारिशें पेश की गई हैं, जोकि नैट-शून्य उत्सर्जन संकल्पों को विश्वसनीय ढंग से हासिल करने और उनके लिए जवाबदेही तय किए जाने पर लक्षित हैं.</span></p>\r\n' +
+    '<h2 style="text-align: justify;"><span style="font-size: large;"><strong>सुरक्षित मार्ग की ओर</strong></span></h2>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">ये अनुशंसाएँ बताती हैं कि अपनी प्रगति के हर चरण में ग़ैर-सरकारी पक्षों को चन्द बातों का ख़याल रखना होगा ताकि जलवायु संकट से निपटने के लिए ज़रूरी नैट-शून्य लक्ष्यों की ओर बढ़ा जा सके.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">महासचिव गुटेरेस ने इन लक्ष्यों की दिशा में प्रयासों की अगुवाई करने के लिए प्रतिनिधियों का आभार प्रकट किया और कहा कि अब अन्य को इसका अनुसरण करना है.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">उन्होंने कहा कि अगले वर्ष कॉप30 सम्मेलन तक नई योजनाएँ तैयार की जानी होंगी, जिनमें वैश्विक तापमान वृद्धि को 1.5 डिग्री सेल्सियस तक सीमित रखने, 2050 तक नैट-शून्य लक्ष्य हासिल करने के लिए क़दम स्पष्ट किए गए हों.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">इसके लिए जीवाश्म ईंधनों के इस्तेमाल को चरणबद्ध ढंग से ख़त्म किया जाना, अपने हितों के लिए राजनैतिक लॉबीइंग पर नीतियों को उजागर करना, और वैल्यू चेन को कार्बन से मुक्त कराया जाना अहम है.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">यूएन प्रमुख ने ज़ोर देकर कहा कि यह समय तेज़ी से क़दम आगे बढ़ाने का है, ना कि पिछड़ जाने का. यह समय महत्वाकाँक्षा व पारदर्शिता का है, हरित दावों व लीपापोती का नहीं.</span></p>\r\n' +
+    '<h6 style="text-align: justify;"><span style="font-size: large;"><strong>समन्वित प्रयास</strong></span></h6>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">एंटोनियो गुटेरेस ने कहा कि स्वैच्छिक संकल्पों से आगे बढ़कर अब नियमों को अनिवार्य बनाया जाना होगा. &ldquo;मानवता का भविष्य दाँव पर लगा हुआ है. कार्रवाई का कोई विकल्प नहीं हो सकता है.&rdquo;</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">यूएन प्रमुख ने व्यवसायों, वित्तीय संस्थाओं, शहरों, क्षेत्रों व अन्य हितधारकों से आग्रह किया कि उन्हें सरकारों के साथ मिलकर अपनी राष्ट्रीय जलवायु कार्रवाई योजनाओं को तैयार करना होगा, जिन्हें फिर अगले वर्ष कॉप30 सम्मेलन में पेश किया जाना है.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">उनके अनुसार 1.5 डिग्री लक्ष्य के अनुरूप भविष्य साकार करने के लिए सरकारों को नीतियाँ व नियामन सम्बन्धी निरन्तरता प्रदान करनी होगी. और यह सुनिश्चित करना होगा कि अन्य पक्षों के कामकाज में समर्थन दिया जाए ना कि उनके कामकाज में जटिलताएँ पेश हों.</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">&lt;div class="infogram-embed" data-id="b1c3b0f5-0e46-40d4-b44d-79a3b5496b0b" data-type="interactive" data-title="Hindi"&gt;&lt;/div&gt;&lt;script&gt;!function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&amp;&amp;window[d].initialized)window[d].process&amp;&amp;window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");&lt;/script&gt;</span></p>',
+  storyimage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+  videos: '',
+  tags: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+    '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+    'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+    'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+    'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+    'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+    'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+    'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+  redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+  englishurl: 'climate change',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+    '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+    'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+    'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+    'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+    'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+    'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+    'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+  catname: 'जलवायु परिवर्तन',
+  catID: 49,
+  canonicalUrl: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+  createdDate: 'November 15, 2024, 07:52 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 43361,
+      storyheading: 'अम्बेडकरवाद : विचारधारा और संघर्ष',
+      storysubheading: 'Ambedkarism Ideology and Struggle',
+      englishurl: 'literature',
+      redirectURL: 'Ambedkarism-Ideology-and-Struggle',
+      category_type: '1',
+      storyImage1: 'Ambedkarism-Ideology-and-Struggle-638596042326211862.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'अम्बेडकरवादी आंदोलन और इतिहास से जुड़ी हस्तियों से साक्षात्कार, अम्बेडकरवाद : विचारधारा और संघर्ष, अम्बेडकरवाद विचारधारा और संघर्ष,\r\n' +
+        '\r\n' +
+        'तमिलनाडु के द्रविड़ियन आंदोलन,\r\n' +
+        '\r\n' +
+        'Ambedkarism Ideology and Struggle,\r\n' +
+        '\r\n' +
+        'अम्बेडकरवादी आंदोलन पर किताब, \r\n' +
+        'विद्या भूषण रावत की किताब,\r\n' +
+        'अंबेडकरवाद: विचारधारा और संघर्ष,\r\n' +
+        'अंबेडकरवादी हस्तियाँ\r\n' +
+        'विद्या भूषण रावत की पुस्तक का विमोचन,\r\n' +
+        'अगोरा प्रकाशन,\r\n' +
+        'देहरादून साहित्यिक कार्यक्रम,\r\n' +
+        'अम्बेडकर के विचार,\r\n' +
+        'समाजिक न्याय और अंबेडकरवाद,\r\n' +
+        'अम्बेडकरी आंदोलन के साक्षात्कार,\r\n' +
+        'भारतीय समाज और अंबेडकरवाद,\r\n' +
+        'अंबेडकर और मार्क्स संवाद,\r\n' +
+        'सामाजिक और राजनीतिक कार्यकर्ता,',
+      category_name: 'शब्द',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29035,
+      storyheading: 'हिन्दू राष्ट्र का संकट माथे पर है और वामपंथी अंबेडकर की एक बार फिर हत्या करना चाहते हैं!',
+      storysubheading: 'the-crisis-of-the-hindu-nation-is-on-the-forehead-and-the-leftists-want-to-kill-ambedkar-once-again',
+      englishurl: 'opinion-english',
+      redirectURL: 'the-crisis-of-the-hindu-nation-is-on-the-forehead-and-the-leftists-want-to-kill-ambedkar-once-again',
+      category_type: '1',
+      storyImage1: 'GKT5UwA9nROuEb2pKTXC.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Crisis of Hindu nation, crisis-of-hindu-nation, debate on Ambedkar and the Left, debate-on-ambedkar-and-the-left, identity politics, identity-politics, अंबेडकर और वामपंथ पर बहस, anbeddkr-aur-vaampnth-pr-bhs, जातिप्रश्न और मार्क्सवाद, jaatiprshn-aur-maarksvaad, पहचान की राजनीति, phcaan-kii-raajniiti, हिन्दू राष्ट्र का संकट, hinduu-raassttr-kaa-snktt',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28879,
+      storyheading: 'रोहित वेमुला की आत्महत्यानुमा हत्या और समाज का दोहरापन',
+      storysubheading: 'रोहित-वेमुला-की-आत्महत्य-3',
+      englishurl: 'opinion-english',
+      redirectURL: 'रोहित-वेमुला-की-आत्महत्य-3',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: "Ambedkar Students Association, ambedkar-students-association, Dalit Student Organization, dalit-student-organization, Hyderabad Central University, hyderabad-central-university, Rohit Vemula's suicide note, rohit-vemulas-suicide-note, अम्बेडकर स्टूडेंटस एसोसिएशन, ambeddkr-sttuuddentts-esosieshn, दलित छात्र संगठन, dlit-chaatr-sngtthn, रोहित वेमुला का आत्महत्या पत्र, rohit-vemulaa-kaa-aatmhtyaa-ptr, हैदराबाद केंद्रीय विश्वविद्यालय, haidraabaad-kendriiy-vishvvidyaaly",
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28331,
+      storyheading: 'PANDIT JAWAHARLAL NEHRU, BEEF & HINDUTVA GANG',
+      storysubheading: 'pandit-jawaharlal-nehru-beef-hindutva-gang',
+      englishurl: 'opinion-english',
+      redirectURL: 'pandit-jawaharlal-nehru-beef-hindutva-gang',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'AMBEDKAR, ambedkar, BEEF, beef, Hindutva, hindutva, Jawaharlal Nehru, jawaharlal-nehru',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'शेष-नारायण-सिंह',
+  category_type: 1,
+  storyID: 6155,
+  authorID: 6,
+  author_enname: 'sheshji009',
+  author_image: 'DefaultImageHastakshep.jpg',
+  storydate: 'Mar 28 2023  7:18AM',
+  storyheading: 'जाति के विनाश के बाद ही मिलेगी सामाजिक और आर्थिक आज़ादी',
+  storysubheading: 'the-destruction-of-the-institution-of-caste-is-the-basic-foundation-of-dr-ambedkars-thinking-and-philosophy',
+  storysynopsis: "स्तंभ |  हस्तक्षेप 2023 : जाति के विनाश : Dr Ambedkar's philosophical thinking is clearly reflected in the Constitution of India. The destruction of the institution of caste is the basic foundation of Dr Ambedkar's thinking and philosophy.",
+  fullstory: `<h2><strong>The destruction of the institution of caste is the basic foundation of Dr Ambedkar's thinking and philosophy.</strong></h2><p><strong>अप्रैल का महीना</strong> <strong>(Month of April)</strong> डॉ. बी. आर. आंबेडकर के जन्म का महीना है। 14 अप्रैल 1891 के दिन उनका जन्म हुआ था। इस अवसर पर उनकी राजनीति की बुनियादी समझ (Basic understanding of Dr B R Ambedkar's politics) को एक बाद फिर से समझने की ज़रूरत है। जाति की संस्था का विनाश उनकी सोच और दर्शन का बुनियादी आधार है।</p><h3><strong>Dr Ambedkar's philosophical thinking is clearly reflected in the Constitution of India.</strong></h3><p>डॉ आंबेडकर भारतीय संविधान की ड्राफ्टिंग कमेटी के अध्यक्ष थे और संविधान के हर शब्द पर उनकी सोच का असर है। भारतीय संविधान सामाजिक बराबरी का लक्ष्य हासिल करने का एक महत्वपूर्ण दस्तावेज़ है और उस पर डॉ. आंबेडकर की दार्शनिक सोच का साफ़ असर दिखता है। लेकिन अजीब विडम्बना है कि भारत में लोकसभा के लिए आम चुनाव अकसर अप्रैल के महीने में ही पड़ते हैं और इस महीने में उनकी राजनीतिक विचारधारा की धज्जियां उड़ाई जाती हैं। उन्होंने जाति के विनाश की बात की थी लेकिन चुनावों के दौरान सारी जोड़ गाँठ जाति के इर्द गिर्द ही मंडराती रहती है। जातियों के आधार पर ही वोटों की बात की जाती है।</p><p>महात्मा गांधी के समकालीन रहे डॉ आंबेडकर ने अपने दर्शन की बुनियादी सोच का आधार जाति प्रथा के विनाश को माना था। उनको विश्वास था कि जब तक जाति का विनाश नहीं होगा, तब तक न तो राजनीतिक सुधार लाया जा सकता है और न ही आर्थिक सुधार लाया जा सकता है।</p><p><strong>जाति के विनाश के सिद्धांत</strong> को प्रतिपादित करने वाली उनकी किताब, <strong>The Annihilation of caste</strong> , ने हर तरह की राजनीतिक सोच को प्रभावित किया। है।</p><p>आज भारत की सभी राजनीतिक पार्टियां डॉ. अंबेडकर के नाम की रट लगाती हैं लेकिन उनकी बुनियादी सोच से बहुत बड़ी संख्या में लोग अनभिज्ञ हैं।</p><p><strong>Dr. Ambedkar gave an international perspective to Jyotiba Phule's campaign against Brahminism</strong></p><p>सच्चाई यह है कि पश्चिम और दक्षिण भारत में सामाजिक परिवर्तन के जो भी आन्दोलन चले हैं उसमें इस किताब का बड़ा योगदान है। जो काम महाराष्ट्र में उन्नीसवीं सदी में महात्मा ज्योति राव फुले ने शुरू किया था। उनके बाद के क्रांतिकारी सोच के नेताओं ने उनसे बहुत कुछ सीखा। डॉ आंबेडकर ने महात्मा फुले की शिक्षा संबंधी सोच को <strong>परिवर्तन की राजनीति</strong> के केंद्र में रख कर काम किया और आने वाली नस्लों को जाति के विनाश के रूप में एक ऐसा मन्त्र दिया जो सही मायनों में परिवर्तन का वाहक बनेगा।</p><p><strong>डॉ अंबेडकर ने ब्राह्मणवाद के खिलाफ शुरू किये गए ज्योतिबा फुले के अभियान को एक अंतरराष्ट्रीय परिप्रेक्ष्य दिया</strong>।</p><p><strong>The Annihilation of caste</strong> में डॉ. अंबेडकर ने बहुत ही साफ शब्दों में कह दिया है कि जब तक <strong>जाति प्रथा का विनाश</strong> नहीं हो जाता समता, न्याय और भाईचारे की शासन व्यवस्था नहीं कायम हो सकती।</p><p>जाहिर है कि जाति व्यवस्था का विनाश हर उस आदमी का लक्ष्य होना चाहिए जो अंबेडकर के दर्शन में विश्वास रखता हो।</p><p>अंबेडकर के जीवन काल में किसी ने नहीं सोचा होगा कि उनके दर्शन को आधार बनाकर राजनीतिक सत्ता हासिल की जा सकती है। लेकिन उत्तर प्रदेश में उनकी सोच का दावा करने वाली राजनीतिक पार्टी की सरकार बनी और आज मायावती के नेतृत्व में बहुजन समाज पार्टी एक ऐसी पार्टी है जिससे सभी राजनीतिक दल गठबन्धन करना चाहते हैं।</p><p>मायावती और उनके राजनीतिक गुरु कांशीराम ने अपनी राजनीति के विकास के लिए अंबेडकर का सहारा लिया और सत्ता के केंद्र तक पहुंचे। इस बात की पड़ताल करना दिलचस्प होगा कि अंबेडकर के नाम पर सत्ता हासिल करने वाली मायावती ने उनके सबसे प्रिय सिद्धांत को आगे बढ़ाने के लिया क्या कोई क़दम भी उठाया। क्या उत्तर प्रदेश की मुख्यमंत्री के रूप में उन्होंने ऐसे कोई नियम कानून बनाए जिसके चलते जाति संस्था का विनाश हो सके?</p><p>उत्तर प्रदेश की पूर्व मुख्यमंत्री मायावती की राजनीति पर नज़र डालने से प्रथम दृष्टा ही समझ में आ जाता है कि उन्होंने जाति प्रथा के विनाश के लिए कोई काम नहीं किया है। इसके विपरीत वे जातियों के आधार पर पहचान बनाए रखने की पक्षधर बनी रहीं। दलित जाति को अपने हर सांचे में फिट रखने के लिए तो उन्होंने छोड़ ही दिया है अन्य जातियों को भी उनकी जाति सीमाओं में बांधे रखने के लिए बड़े पैमाने पर अभियान चला रही हैं। जब वे मुख्यमंत्री थीं तो हर जाति की भाईचारा कमेटियाँ बना दी गई थीं और उन कमेटियों को मायावती की पार्टी का कोई बड़ा नेता संभालता था।</p><p>डॉक्टर साहब ने साफ कहा था कि जब तक जातियों के बाहर शादी ब्याह की स्थितियां नहीं पैदा होती तब तक जाति का इस्पाती सांचा तोड़ा नहीं जा सकता। चार बार मुख्यमंत्री की कुर्सी पर विराजने वाली मायावती जी ने एक बार भी सरकारी स्तर पर ऐसी कोई पहल नहीं की जिसकी वजह से जाति प्रथा पर कोई मामूली सी भी चोट लग सके। जाहिर है जब तक समाज जाति के बंधन के बाहर नहीं निकलता आर्थिक विकास का लक्ष्य भी नहीं हासिल किया जा सकता।</p><p>मायावती जब मुख्यमंत्री थीं तो उनकी सरकार के कई मंत्रियों को यह भी नहीं मालूम था कि <strong>अंबेडकर के मुख्य राजनीतिक विचार क्या हैं।</strong> उनकी सरकार के कुछ महत्वपूर्ण मंत्रियों से बातचीत करने का अवसर मिला था। उनमें से अधिकतर को डॉ. अंबेडकर के बारे में कुछ नहीं मालूम था। उनको यह भी नहीं मालूम था कि <strong>बाबा साहब की किताब का नाम क्या है</strong>। यह ठीक वैसा ही है जैसे कम्युनिस्ट पार्टी का कोई नेता मार्क्स के सिद्धांतों को न जानता हो, या दास कैपिटल नाम की किताब के बारे में जानकारी न रखता हो।</p><p>डॉ आंबेडकर की सबसे महत्वपूर्ण किताब The Annihilation of caste के बारे में यह जानना दिलचस्प होगा कि वह एक ऐसा भाषण है जिसको पढ़ने का मौका उन्हें नहीं मिला लाहौर के "जात पात तोड़क मंडल" की ओर से उनको मुख्य भाषण करने के लिए न्यौता मिला था। आयोजकों ने उनसे निवेदन किया कि अपने भाषण की लिखित प्रति भेज दें। जब डाक्टर साहब ने अपने प्रस्तावित भाषण को लिखकर भेजा तो ब्राह्मणों के प्रभुत्व वाले जात-पात तोड़क मंडल के कर्ता धर्ता, काफी बहस मुबाहिसे के बाद भी इतना क्रांतिकारी भाषण सुनने को तैयार नहीं हुए। शर्त लगा दी कि अगर भाषण में आयोजकों की मर्जी के हिसाब से बदलाव न किया गया तो भाषण हो नहीं पायेगा। डॉ अंबेडकर ने भाषण बदलने से मना कर दिया। और उस सामग्री को पुस्तक के रूप में छपवा दिया जो आज हमारी ऐतिहासिक धरोहर का हिस्सा है।</p><p>इस पुस्तक में <i><strong>जाति के विनाश की राजनीति</strong></i> <strong>(Politics of caste destruction)</strong> और दर्शन के बारे में गंभीर चिंतन भी है। इस देश का दुर्भाग्य है कि आर्थिक, सामाजिक और राजनीतिक विकास का इतना नायाब तरीका हमारे पास है, लेकिन उसका इस्तेमाल नहीं किया जा रहा है। डॉ. अंबेडकर के समर्थन का दम ठोंकने वाले लोग ही जाति प्रथा को बनाए रखने में रुचि रखते हैं और उसको बनाए रखने के लिए एड़ी चोटी का जोर लगा रहे हैं। जाति के विनाश के लिए डाक्टर अंबेडकर ने सबसे कारगर तरीका जो बताया था वह <strong>अंतरजातीय विवाह</strong> का था, लेकिन उसके लिए राजनीतिक स्तर पर कोई कोशिश नहीं की जा रही है, लोग स्वयं ही जाति के बाहर निकल कर शादी ब्याह कर रहे है, यह अलग बात है।</p><p>इस पुस्तक में अंबेडकर ने अपने आदर्शों का जिक्र किया है। उन्होंने कहा कि जातिवाद के विनाश के बाद जो स्थिति पैदा होगी उसमें स्वतंत्रता, बराबरी और भाईचारा होगा। एक आदर्श समाज के लिए अंबेडकर का यही सपना था। एक आदर्श समाज को गतिशील रहना चाहिए और बेहतरी के लिए होने वाले किसी भी परिवर्तन का हमेशा स्वागत करना चाहिए। एक आदर्श समाज में विचारों का आदान-प्रदान होता रहना चाहिए।</p><p>अंबेडकर का कहना था कि <strong>स्वतंत्रता की अवधारणा भी जाति प्रथा को नकारती है</strong> (The concept of freedom also denies the caste system)।</p><p>उनका कहना है कि जाति प्रथा को जारी रखने के पक्षधर लोग राजनीतिक आजादी की बात तो करते हैं लेकिन वे लोगों को अपना पेशा चुनने की आजादी नहीं देना चाहते। इस अधिकार को अंबेडकर की कृपा से ही संविधान के मौलिक अधिकारों में शुमार कर लिया गया है और आज इसकी मांग करना उतना अजीब नहीं लगेगा, लेकिन जब उन्होंने उनके दशक में यह बात कही थी तो उसका महत्व बहुत अधिक था।</p><p><strong>What is the most important issue in Ambedkar's ideal society?</strong></p><p>अंबेडकर के आदर्श समाज में सबसे महत्वपूर्ण मुद्दा है, बराबरी। ब्राह्मणों के आधिपत्य वाले समाज ने उनके इस विचार के कारण उन्हें बार-बार अपमानित किया। सच्चाई यह है कि सामाजिक बराबरी के इस मसीहा को जात पात तोड़क मंडल ने भाषण नहीं देने दिया लेकिन अंबेडकर ने अपने विचारों में कहीं भी ढील नहीं होने दी।</p><p>तकलीफ तब होती है जब उसके अनुयायियों और उनके दर्शन पर आधारित राजनीति करके सत्ता पाने वाले लोग भी उनकी विचारधारा को नजर अंदाज करते हैं।</p><p>सारी दुनिया के समाजशास्त्री मानते हैं कि जाति प्रथा भारत के आर्थिक, सामाजिक और राजनीतिक विकास में सबसे बड़ा रोड़ा है, और उनके विनाश के लिए अंबेडकर द्वारा सुझाया गया तरीका ही सबसे उपयोगी है।</p><p><span class="image-inline ck-widget" contenteditable="false"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/mFCAQ1oEax3bdYaZeSLF.jpg" alt="शेष नारायण सिंह शेष नारायण सिंह वरिष्ठ पत्रकार हैं। वह हस्तक्षेप के संरक्षक हैं। वह इतिहास के वैज्ञानिक विश्लेषण के एक्सपर्ट हैं। नये पत्रकार उन्हें पढ़ते हुये बहुत कुछ सीख सकते हैं।"></span> शेष नारायण सिंह<br><strong>शेष नारायण सिंह वरिष्ठ पत्रकार हैं। वह हस्तक्षेप के संरक्षक हैं। वह इतिहास के वैज्ञानिक विश्लेषण के एक्सपर्ट हैं। नये पत्रकार उन्हें पढ़ते हुये बहुत कुछ सीख सकते हैं।</strong></p><p>जब कांशी राम ने <strong>बहुजन समाज पार्टी</strong> का गठन किया था तो अंबेडकर के दर्शन शास्त्र को समझने वालों को उम्मीद थी कि जब अंबेडकरवादियों को सत्ता में भागीदारी मिलेगी तो सब कुछ बदल जाएगा, जाति प्रथा के विनाश के लिए ज़रूरी क़दम उठा लिए जाएंगें लेकिन ऐजाएंगे हुआ। पांच साल तक पूर्ण बहुमत वाली सत्ता का आनंद लेने वाली मायावती जाति संस्था को ख़त्म करना तो दूर उसको बनाए रखने और मज़बूत करने के लिए एड़ी चोटी का जोर लगा दिया। लगता है कि <strong>अंबेडकर जयंती</strong> <strong>(ambedkar jayanti)</strong> या उनके निर्वाण दिवस पर फूल चढ़ाते हुए फोटो खिंचवाने वाले लोगों के सहारे जाति प्रथा का विनाश नहीं किया जा सकता। वे चाहे नेता हों या अंबेडकर के नाम पर दलित लेखन का धंधा करने वाले लोग। जाति का विनाश करने के लिए उन्हीं लोगों को आगे आना होगा जो जाति प्रथा के शिकार हैं।</p><p>मीडिया में भी डॉ आंबेडकर के क्रांतिकारी विचारों को वह महत्व नहीं मिलता जो मिलना चाहिए। मैंने भी डॉ आंबेडकर के बारे में काफी कुछ पढ़ा और जाना है लेकिन अप्रैल के दूसरे हफ्ते और दिसंबर के पहले हफ्ते के अलावा मैं भी डॉ अंबेडकर जैसे श्रद्धेय मनीषी के बारे में कुछ नहीं लिखता।</p><p><strong>शेष नारायण सिंह</strong></p><figure class="media ck-widget" contenteditable="false"><div class="ck-media__wrapper" data-oembed-url="https://youtu.be/P4JYXsv7i_Y"><div style="position: relative; padding-bottom: 100%; height: 0; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/P4JYXsv7i_Y" style="position: absolute; width: 100%`... 794 more characters,
+  storyimage1: 'kPrOow0zAuf9WdFUdRlz.jpg',
+  videos: null,
+  tags: 'Ambedkar Jayanti, ambedkar-jayanti, Politics of caste destruction, politics-of-caste-destruction, The Annihilation of caste, the-annihilation-of-caste, अप्रैल का महीना, aprail-kaa-mhiinaa, अंबेडकर जयंती, anbeddkr-jyntii, जाति के विनाश के सिद्धांत, jaati-ke-vinaash-ke-siddhaant, जाति के विनाश की राजनीति, jaati-ke-vinaash-kii-raajniiti, बहुजन समाज पार्टी, bhujn-smaaj-paarttii',
+  redirectURL: 'the-destruction-of-the-institution-of-caste-is-the-basic-foundation-of-dr-ambedkars-thinking-and-philosophy',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Ambedkar Jayanti, ambedkar-jayanti, Politics of caste destruction, politics-of-caste-destruction, The Annihilation of caste, the-annihilation-of-caste, अप्रैल का महीना, aprail-kaa-mhiinaa, अंबेडकर जयंती, anbeddkr-jyntii, जाति के विनाश के सिद्धांत, jaati-ke-vinaash-ke-siddhaant, जाति के विनाश की राजनीति, jaati-ke-vinaash-kii-raajniiti, बहुजन समाज पार्टी, bhujn-smaaj-paarttii',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'the-destruction-of-the-institution-of-caste-is-the-basic-foundation-of-dr-ambedkars-thinking-and-philosophy',
+  createdDate: 'March 28, 2023, 07:18 AM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 11017,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'अरे ! अभी से प्रकृति का तांडव ?',
+  storysubheading: 'अरे-अभी-से-प्रकृति-का-तांड',
+  storysynopsis: 'अरे ! अभी से प्रकृति का तांडव ?',
+  fullstory: '<p> महेश जोशी</p>\n' +
+    '<p>इस बार पहाड़ में प्रकृति का एक नया रूप देखने को मिल रहा है। इस साल जंगलों में धधकती आग के बदले ओलावृष्टि व विनाशकारी आँधी- तूफान की खबरें प्रमुख हैं। वैसे अप्रेल-मई में ओलावृष्टि या अंधड़ असामान्य नहीं हैं। यह ‘चल वसन्त’ कहलाता है। लेकिन गर्मी बढ़ने के साथ ऐसी घटनायें कम होती चली जाती हैं। इस बार आधा जून बीत जाने के बाद भी ऐसा लगातार हो रहा है और गर्मी का अनुभव तक नहीं हो पा रहा है। लोक आशंकित हैं कि कहीं यह आगामी मानसून की कीमत पर तो नहीं हो रहा है ? कहीं चौमास में सूखा तो नहीं पड़ने जा रहा है ? इन घटनाओं की एक और विशेषता यह है कि सम्पूर्ण हिमालय में एक साथ न होकर अलग-अलग समय में वर्षा, ओलावृष्टि और अंधड़ का वेग देखने को मिल रहा है। यह जलवायु में आ रहे खतरनाक बदलाव की ओर संकेत है। प्रशासन के स्तर पर इन प्राकृतिक प्रकोपों से निपटने की तैयारियाँ दूर-दूर तक नजर नहीं आ रही हैं।</p>\n' +
+    '<p>पिछले दिनों हुए विनाश में कई जानें गईं व कई घायल हुए। सैकड़ों हरे-वृक्ष टूट गये, कई मकान घ्वस्त हो गये, टीन शैड व झुग्गी-झोपडि़याँ उड़ या नष्ट हो गई। रबी की फसल के साथ ही शाक-भाजी व फल-फूलों को भी नुकसान पहुँचा। जमीन दरकने-धँसने व मलवे से पट जाने से लोगों को अपने घर छोड़ने पड़े। तराई-भाबर में कच्चे आवासों व टीन शैडों की छत उड़ने, जगह-जगह पेड़ों के टूटने से विद्युत आपूर्ति ठप होने, कीचड़ भरे नालों के उफनने से जनजीवन प्रभावित होने की खबरें हैं। आम व लीची के फलों को काफी नुकसान पहुँचा। 25 मई की रात हल्द्वानी में तेज आँधी-तूफान के साथ हुई बारिश से रामपुर रोड पर टांडा जंगल में कई हरे पेड़ धराशायी हो गये। बरेली रोड व नैनीताल हाईवे पर पेड़ों के टूट कर हाई टेंशन लाईन पर गिरने से विद्युत आपूर्ति ठप हो गई। जगह-जगह नाले उफनने लगे और सारा कीचड़ सड़कों पर फैल गया। रामनगर, कालाढूँगी, कोटाबाग, लालकुआ, गौलापार आदि क्षेत्रों में फलों व खेती को नुकसान पहुँचा। रामनगर में विशालकाय पेड़ों के हाईवे पर गिरने से आवाजाही ठप हो गई। गदरपुर में मुख्य मार्ग पर ओलों की सफेद चादर बिछ गई। कई दुकानों के टिन शेड, होर्डिंग आदि उखड़ कर तहस-नहस हो गये।</p>\n' +
+    '<p>26 मई की रात तेज अंधड़ से काशीपुर में बिजली के सीमेंट वाले 200 तथा स्टील के 80 पोल टूट गये। विद्युत सप्लाई ठप हो गई। इससे विद्युत विभाग को 50 लाख से अधिक का नुकसान हुआ। अकेले सिद्धार्थ डुपलैक्स बोर्ड को 35 लाख की क्षति होने की खबर है। जसपुर में मकान ढहे और आम की फसल बरबाद हो गई। रामनगर में काशीपुर-बुवाखाल राजमार्ग पर जगह-जगह पेड़ गिरने व मलवा आ जाने से यातायात अवरुद्ध हो गया। अंधड़ से गिरी टहनियों की चपेट में आने से कई लोग घायल हुए। दिनेशपुर के राधाकांतपुर, श्रीरामपुर, उदयनगर, चन्दन नगर में झोपडि़यों व कच्चे मकानों को नुकसान पहुँचा। 29 मई के अंधड़ से बाजपुर के अतिरिक्त बरहैनी, फौजी कॉलोनी, केलाखेड़ा में अनेक विद्युत पोल गिरे और 20 गाँवों की विद्युत आपूर्ति ठप हो गई। धान की फसल को नुकसान पहुँचा।</p>\n' +
+    '<p>28 मई की रात ओखलकांडा ब्लॉक में सिमलकन्या गाँव के भेटीडियारखोली तोक में आधे घंटे की मूसलाधार बारिश से अढ़ाई एकड़ उपजाऊ जमीन और दर्जनों फलदार वृक्ष बह गये। अनेक मकानों में दरारें आ गईं। तोक के निचले हिस्से में बह रही लधियागाड़ का जल स्तर अचानक बड़ जाने से आसपास की खेती को नुकसान पहुँचा। 2 जून की प्रातः तहसील कोस्या कुटौली के कूल चोपड़ा में बिजली गिरने से दो लोग घायल हो गये। दो जानवर भी मरे। बिनसर वन्यजीव विहार से लगे गाँवों-सुनोली के भनारीगैर, तिलधार, रेसाल, दलाड़, भेटूली, अयारपानी, गौनाप, कटघरा आदि में खेती व घरों को नुकसान पहुँचा। धौलादेवी में मकड़ाऊ, ध्याड़ी व बसौली बैंड के पास सड़क में मलबा आ जाने के कारण घंटों यातायात बाधित रहा। छनकाना गाँव में एक मकान ध्वस्त हो गया और एक बकरी दब गई। बचतोला गाँव में भी घरों में मलवा भरा। आरा व रज्यूड़ा की पेयजल लाईन पूरी तरह क्षतिग्रस्त हो गई। उधर आरा सल्पड़ मोटर मार्ग क्षतिग्रस्त होने से उसका मलवा दन्या बाजार में घुस गया। जिला चम्पावत के बाराकोट के संतोला गाँव के प्रकाश तिवारी मकान ध्वस्त हो जाने से बेघर हो गये। पुनियाल में पूरन गिरी गोस्वामी का मकान ढहा। बाराकोट में बिजली गिरने से विद्युत ट्रांसफॉर्मर फुँक गया। नौमाना और बैंड़ाओड़ गाँव में मनेरगा के तहत किया गया कार्य तबाह हो गया। सिंगदा गाँव में पेयजल लाईन ध्वस्त होने व नौमाना में पानी के नोले में मलुवा भर जाने से पेयजल संकट बन गया। घाट से ऊपर मुख्य सड़क धँस गई। 19 मई की प्रातः आये अंधड़ में काली मंदिर, पुलिस चैकी, टनकपुर का टीन शेड उड़़ गया। कई दुकानों की छतें उड़ र्गइं और पेयजल लाईन टूट गई। पाटी विकासखंड के ग्राम परेवा में बिजली गिरने से पुजारी जगत गोस्वामी व खीमानन्द बिनवाल की मौत हो गई।</p>\n' +
+    '<p>11 जून को बादल फटने से जौलजीवी-मुन्स्यारी मोटर मार्ग पर धारचूला के छोरीबगड़ में चार मकान ध्वस्त हो गये और सड़क रौखड़ हो गईं। कैलास मानसरोवर यात्रा मार्ग में सड़के धँसने, पहाड़ खिसकने व हिमपात होने से यात्री परेशान हैं। पंचाचूली बेस कैम्प में नव निर्मित भवन की छत उड़ गई। कुमाऊँ मंडल विकास निगम के उर्थिंग स्थित भवन व दुग्तू के खाद्यान्न गोदाम की छत उड़ गई। सुरजन सिंह के पर्यटक आवास गृह की दीवारें क्षतिग्रस्त हो गई। बिजली गिरने से जिला मुख्यालय के निकट बीसाबजेड़ गाँव के मोहन सिंह घोटा का मकान ध्वस्त हो गया। धारचूला-तवाघाट मार्ग आयेदिन बाधित हो रहा है। ओलावृष्टि से फसल व बागवानी को काफी नुकसान हुआ है। 27 मई की रात चैरपाल क्षेत्र में उफनते गाड़-गधेरों से चैरपाल, सुगड़ी व धनेला गाँवों में सैकड़ों नाली भूमि दरक गई और धान की रोपाई बरबाद को गई। कई घरों में मलवा भर गया। पाभैं और जाखनी उप्रेती में भी जमीन दरकने की सूचना है। हाई स्कूल भूलीगाँव के कम्प्यूटर कक्ष में मलवा घुसने से सारी सामग्री खराब हो गई। गंगोलीहाट-पिथौरागढ़ सड़क मार्ग पनार से लेकर भूलीगाँव तक जगह-जगह मलवे से पट गया। यहाँ मार्ग को चैड़ा करने के लिये किये जा रहे कटान के मलवे से भी दिक्कत बढ़ गई है। गंगोलीहाट से 15 किमी दूर क्वीनाड़ा (जरमाल गाँव) में पहाड़ी खिसकने से अनेक मकानों में मलवा भर गया। जरमालगाँव, भंडारीगाँव व कनारा में काफी कृषि भूमि तबाह हो गई।</p>\n' +
+    '<p>बागेश्वर जिले में बोराचक-झारकोट गाँव को जोड़ने वाला झूला पुल बह गया। दो बैल बह गये। तीख, डौला, खाती, बाछम, आदि गाँवों में फसल चैपट हो गई। शम्भू नदी के अचानक उफान में आने से पैदल पुल व मवेशी बह गये। लाहुर घाटी तथा गोमती घाटी क्षेत्र में 28 मई को मलवा घरों व खेतों में घुस गया। नामिक, कीमू व गोगीना गाँवों का आपसी संपर्क टूट गया। तेज अंधड़ से चीराबगड़ तथा काभड़ी गाँव मकानों की छतें उड़ र्गइं। रामगंगा में पैदल पुल बह गया। अनर्सा के पास पेड़ गिरने से विद्युत आपूर्ति ठप हो गई। 11 जून को बाछम के भटन तोक स्थित स्कूल के दो कमरे ध्वस्त हो गये।</p>\n' +
+    '<p>देहरादून में बिजली के दर्जनों पोल उखड़ गये। कई इलाकों में दो दिन तक बिजली गुल रही व कई इलाकों में पेयजल संकट हो गया। 21 मई की रात ऋषिकेश-बद्रीनाथ हाईवे पर बिरही के पास चट्टान टूट कर सड़क पर आने से पाँच सौ मीटर सड़क मलवे से भर गई और दोनों ओर सैकड़ों यात्री फँस गये। देवप्रयाग के पास डांडा गाँव में गब्बादास की 22 वर्षीय पुत्री लक्ष्मी की मौत हो गई। थलीसैण ब्लॉक के ढाईज्यूली पट्टी में ग्राम कुचेली निवासी 13 वर्षीय वीरेन्द्र सिंह बरसाती नाले में बह गया। शलैन गाँव में बिजली गिरने से दस वर्षीय सुमन की मौत हो गई। पौड़ी की कण्डारस्यूँ पट्टी में आवासीय भवनं और कृषि भूमि क्षतिग्रस्त हो गये। जशोधरपुर क्षेत्र में विद्युत ट्रांसफॅर्मर में आग लग गई। उत्तरकाशी में आँधी से गिरे पेड़ों की चपेट में आकर दर्जनभर लोग घायल हुए। उत्तरकाशी जिला मुख्यालय से 14 किमी. दूर संगम चट्टी में 1 जून की रात हुए भूस्खलन में असीगंगा लघु जल विद्युत परियोजना में कार्यरत दो मजदूर मलवे में दब कर मर गये। गंगोत्री-यमुनोत्री मार्ग बाधित होने से कई बार सेकड़ों यात्री फँसे रहे। तांबाखाणी में मलुवा आने से गंगोत्री राजमार्ग अवरुद्ध हो गया। टिहरी के घनशाली विकासखंड में 28 मई की रात बौरगाँव के ऊपर हुए भूस्खलन से 600 नाली कृषि भूमि तबाह हो गई। पाईप लाईन, 20 चैकडेम, व 50 मीटर सुरक्षा दीवार क्षतिग्रस्त हो गये। थाती-बूढ़ाकेदार के कोटी गाँव में गुनाली गधेरा उफनने से कई पशु मलवे में दब गये।</p>\n' +
+    '<p>बीते वर्ष बरसात में उत्तराखंड में अभूतपूर्व तबाही हुई थी। 200 से अधिक लोगों ने तो जानें गँवाई। अब तक राष्ट्रीय राजमार्गों की तक मरम्मत नहीं हो पायी है। दूर-दराज का पुरसाहाल कौन है ? आपदा मद में आये पाँच सौ करोड़ से अधिक धनराशि का क्या हुआ, कोई नहीं जानता। ऐसे में नागरिकों को स्वयं ही आने वाली बरसात के लिये चाक-चौकस रहना होगा।<br />\n' +
+    'साभार - नैनीताल समाचार</p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'अरे-अभी-से-प्रकृति-का-तांड',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'अरे-अभी-से-प्रकृति-का-तांड',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data { error: 'Failed to fetch data' }
+data { error: 'Failed to fetch data' }
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 13691,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'नोटबंदी- मोदी ने खुद को जेल से बचाने के लिये भारत की अर्थव्यवस्था को ध्वस्त कर दिया',
+  storysubheading: 'नोटबंदी-मोदी-ने-खुद-को-जेल',
+  storysynopsis: 'नोटबंदी- मोदी ने खुद को जेल से बचाने के लिये भारत की अर्थव्यवस्था को ध्वस्त कर दिया',
+  fullstory: '<p>मोदी ने खुद को जेल से बचाने के लिये भारत की अर्थव्यवस्था को ध्वस्त कर दिया<br />\n' +
+    'हिमांशु कुमार</p>\n' +
+    '<p>8 नवम्बर सुबह ग्यारह बजे प्रशान्त भूषण ने नरेन्द्र मोदी द्वारा 55 करोड़ रुपये रिश्वत लेने का मामला मुख्य सतर्कता आयुक्त नई दिल्ली के कार्यालय में जांच के लिये जमा किया।<br />\n' +
+    'दोपहर तक सरकार मे हड़कंप मच गया।<br />\n' +
+    'इस खबर को दबाने और देश में मोदी को काला धन के खिलाफ युद्ध का सबसे महान योद्धा के रूप में पेश करने का फैसला हुआ।<br />\n' +
+    'दोपहर तीन बजे प्रधानमंत्री कार्यालय में मोदी का नोटबन्दी का भाषण रिकार्ड हुआ।<br />\n' +
+    'शाम को रिजर्व बैंक का आफिस बन्द होने से 5 मिनिट पहले नोटबन्दी का प्रस्ताव ज़बरदस्ती मंगवाया गया।</p>\n' +
+    '<p>सात बजे कैबिनेट की मीटिंग में मंत्रियों को इस फैसले की सूचना दी गई, किसी से राय नहीं मांगी गई।<br />\n' +
+    'रात आठ बजे मोदी का पहले से रिकार्डेड भाषण फर्जी लाइव की पट्टी लगा कर चलाया गया, जिसका खुलासा दूरदर्शन के ही पत्रकार सत्येन्द्र मुरली ने प्रेस वार्ता में किया।<br />\n' +
+    'यह भी पढ़ें<br />\n' +
+    'मोदी ने खुद को जेल से बचाने के लिये भारत की अर्थव्यवस्था को ध्वस्त कर दिया और करोड़ों लोगों को दुख : और तकलीफ में झोंक दिया।<br />\n' +
+    'www.hastakshep.com/oldhindi/2016/11/24/note-ban-prime-ministers-message-the-night-of-november-8-live-recorded</p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'नोटबंदी-मोदी-ने-खुद-को-जेल',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'नोटबंदी-मोदी-ने-खुद-को-जेल',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 50436,
+      storyheading: 'विश्व भर में डायबिटीज़ के मामलों में खतरनाक उछाल, 1990 से 2022 तक चार गुना वृद्धि',
+      storysubheading: 'World Diabetes Day 2024',
+      englishurl: 'health',
+      redirectURL: 'World-Diabetes-Day-2024',
+      category_type: '1',
+      storyImage1: 'World-Diabetes-Day-2024-638672945608507632.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'World Diabetes Day 2024,निम्न- और मध्य-आय वाले देशों में डायबिटीज़,विश्व मधुमेह दिवस 2024,',
+      category_name: 'स्वास्थ्य',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29764,
+      storyheading: 'स्तन कैंसर से रजोनिवृत्ति महिलाओं में बढ़ जाता है हृदय रोग का खतरा',
+      storysubheading: 'breast-cancer-raises-heart-disease-risk',
+      englishurl: 'news-2',
+      redirectURL: 'breast-cancer-raises-heart-disease-risk',
+      category_type: '1',
+      storyImage1: '1LbBT9k9bFKyiCHDXK3u.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'atherosclerosis, atherosclerosis, Breast Cancer, breast-cancer, Diabetes, diabetes, heart disease, heart-disease, hypertriglyceridea, hypertriglyceridea, Metabolic syndrome, metabolic-syndrome, postmenopausal women, postmenopausal-women, एथेरोस्क्लेरोसिस, etherosklerosis, डायबिटीज, ddaaybittiij, पोस्टमेनोपॉज़ल महिलाएं, posttmenoponjl-mhilaaen, मेटाबॉलिक सिंड्रोम, mettaabonlik-sinddrom, स्तन कैंसर, stn-kainsr, हृदय रोग, hrdy-rog, हाइपरट्रिग्लिसराइडिया, haaiprttriglisraaiddiyaa',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29078,
+      storyheading: 'मधुमेह है तो ऐसे रखें दांतों का ख्याल',
+      storysubheading: 'if-you-have-diabetes-then-take-care-of-your-teeth',
+      englishurl: 'national',
+      redirectURL: 'if-you-have-diabetes-then-take-care-of-your-teeth',
+      category_type: '1',
+      storyImage1: 'IFBIGPhRe4YG7BH7XOYa.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'dark teeth in insulin, dark-teeth-in-insulin, dentist, dentist, diabetes mellitus problems, diabetes-mellitus-problems, fasting blood sugar test, fasting-blood-sugar-test, gingivitis, gingivitis, gonorrhea, gonorrhea, Tooth, tooth, ग्लूकोज, gluukoj, मधुमेह रोग विशेषज्ञ, mdhumeh-rog-vishessjny, मधुमेह, mdhumeh, रक्त ग्लूकोज, rkt-gluukoj',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28900,
+      storyheading: 'डायबिटीज क्या है? | What is Diabetes?',
+      storysubheading: 'डायबिटीज-क्या-है-what-is-diabetes',
+      englishurl: 'national',
+      redirectURL: 'डायबिटीज-क्या-है-what-is-diabetes',
+      category_type: '1',
+      storyImage1: 'HWqrDYG7xTAZ2EUcHAgp.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Diabetes Overview, diabetes-overview, Diabetes, diabetes, Health Information, health-information, What is Diabetes?, what-is-diabetes, मधुमेह क्या है ?, mdhumeh-kyaa-hai, मधुमेह, mdhumeh, स्वास्थ्य सूचना, svaasthy-suucnaa',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 28332,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Nov  5 2018  6:30PM',
+  storyheading: 'मधुमेह, हृदय रोग और स्ट्रोक के बीच क्या संबंध है?',
+  storysubheading: 'diabetes-heart-disease-and-stroke',
+  storysynopsis: 'मधुमेह, हृदय रोग और स्ट्रोक के बीच क्या संबंध है?',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong><a href="https://www.hastakshep.com/old/caution-in-exercise-in-diabetes/" target="_blank" rel="noreferrer noopener" title="यदि आप मधुमेह पीड़ित हैं और एक्सरसाइज़ कर रहे हैं तो बरतें ये सावधानी">मधुमेह</a>, हृदय रोग, और स्ट्रोक</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong><a href="https://www.hastakshep.com/old/world-diabetes-day-2018-impact-of-diabetes-on-the-family-is-theme-this-year/" target="_blank" rel="noreferrer noopener" title="मधुमेह लाइलाज नहीं, परिवार की भूमिका अहम : डॉ अमित छाबड़ा">Diabetes</a>, heart disease, and stroke</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong><a href="https://www.hastakshep.com/old/madhumeh-se-grast-aadhe-log-apanee-beemaaree-se-anajaan-kaheen-aap-bhee-unamen-to-nahin/" target="_blank" rel="noreferrer noopener" title="मधुमेह से ग्रस्त आधे लोग अपनी बीमारी से अनजान, कहीं आप भी उनमें तो नहीं !">मधुमेह</a></strong> होने का मतलब है कि आपको दिल की बीमारी होने की अधिक आशंका है और दिल का दौरा या स्ट्रोक की अधिक आशंका है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong><a href="https://www.hastakshep.com/old/new-hope-to-live-with-the-use-of-stem-cells-in-the-treatment-of-diabetes/" target="_blank" rel="noreferrer noopener" title="मधुमेह के इलाज में स्टेम सेल के प्रयोग से जगी नई उम्मीद">मधुमेह</a></strong> रोगियों में कुछ निश्चित स्थितियां, या जोखिम कारक होने की अधिक संभावना होती है, जो हृदय रोग या स्ट्रोक, उच्च रक्तचाप या उच्च कोलेस्ट्रॉल होने की संभावनाओं को बढ़ाती हैं। यदि आपको मधुमेह है, तो आप अपने रक्त ग्लूकोज, जिसे रक्त शर्करा भी कहते हैं, के प्रबंधन व रक्तचाप और कोलेस्ट्रॉल के प्रबंधन से अपने दिल और स्वास्थ्य की रक्षा कर सकते हैं। यदि आप धूम्रपान करते हैं, तो इसे रोकने के लिए डॉक्टरी सहायता प्राप्त करें।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":1} --></p>\n' +
+    '<h1><strong>मधुमेह, </strong><strong>हृदय रोग और स्ट्रोक के बीच क्या संबंध है?</strong></h1></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading --></p>\n' +
+    '<h2>What is the link between diabetes, heart disease, and stroke?</h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यू.एस. डिपार्टमेंट ऑफ हेल्थ एंड ह्यूमन सर्विसेज से संबद्ध नेशनल इंस्टीट्यूट ऑफ डायबिटीज़ एंड डायजेस्टिव एंड किडनी डिसीज़ की वेब साइट पर उपलब्ध  स्वास्थ्य जानकारी के मुताबिक समय के साथ-साथ मधुमेह के कारण रक्त शर्करा का उच्च स्तर आपकी रक्त वाहिनियों तथा उन नसों को नुकसान पहुंचा सकता है जो आपके दिल और रक्त वाहिकाओं को नियंत्रित करते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3>आपको जितना अधिक समय से मधुमेह होगा, दिल की बीमारियां होने का आशंका उतनी ही बढ़ती जाएगी।</h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मधुमेह रोगियों में, मधुमेह के बिना लोगों की तुलना में छोटी उम्र में हृदय रोग विकसित हो जाते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मधुमेह वाले वयस्कों में, मृत्यु के सबसे आम कारण दिल की बीमारी और स्ट्रोक हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मधुमेह वाले वयस्कों में, मृत्यु के सबसे आम कारण दिल की बीमारी और स्ट्रोक हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4>दिल की बीमारी या स्ट्रोक से मरने में वालों में मधुमेह पीड़ितों की संख्या गैर-मधुमेहपीड़ितों से दोगुना है।</h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>लेकिन अच्छी बात यह है कि आप अपने मधुमेह को प्रबंधित करने के लिए जो एहतियात बरतते हैं वह मधुमेह के साथ-साथ दिल की बीमारी या स्ट्रोक होने की संभावनाओं को कम करने में भी मदद करता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>( </strong><strong>नोट - यह समाचार किसी भी हालत में चिकित्सकीय परामर्श नहीं है। यह समाचारों में उपलब्ध सामग्री के अध्ययन के आधार पर जागरूकता के उद्देश्य से तैयार की गई रिपोर्ट मात्र है। आप इस समाचार के आधार पर कोई निर्णय कतई नहीं ले सकते। स्वयं डॉक्टर न बनें किसी योग्य चिकित्सक से सलाह लें।)</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>पढ़ें ये समाचार भी</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:jetpack/related-posts {"displayThumbnails":true,"postsToShow":4} /--></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>क्या यह ख़बर/ लेख आपको पसंद आया ? </strong><strong>कृपया कमेंट बॉक्स में कमेंट भी करें और शेयर भी करें ताकि ज्यादा लोगों तक बात पहुंचे</strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:html --></p>\n' +
+    '<div style="background: #eeeeee; border: 1px solid #cccccc; padding: 5px 10px;"><strong><a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg">कृपया हमारा यूट्यूब चैनल सब्सक्राइब करें</a></strong></div></p>\n' +
+    '<p><!-- /wp:html --></p>\n' +
+    '<p><!-- wp:html --><br />\n' +
+    '<iframe width="600" height="538" src="https://www.youtube.com/embed/JMQPhfMGX0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />\n' +
+    '<!-- /wp:html --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>Health Information,  <a href="https://www.hastakshep.com/old/diabetes-drugs-linked-to-heart-disease-risk-study/" data-type="post" data-id="20274" target="_blank" rel="noreferrer noopener">Diabetes</a>,  <a href="https://www.hastakshep.com/old/ada-launches-diabetes-food-hub-digital-recipe-platform-for-people-with-diabetes/" data-type="post" data-id="19236" target="_blank" rel="noreferrer noopener">Diabetes Overview</a>,  <a href="https://www.hastakshep.com/old/insulin-resistance/" data-type="post" data-id="19154" target="_blank" rel="noreferrer noopener">Preventing Diabetes Problems</a>, स्ट्रोक से मरने में वालों में मधुमेह पीड़ितों की संख्या, <a href="https://www.hastakshep.com/old/if-you-have-diabetes-how-to-reduce-the-risk-of-heart-attack-or-stroke/" data-type="post" data-id="19403" target="_blank" rel="noreferrer noopener">Diabetes Overview in Hindi</a>,</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n',
+  storyimage1: 'wopMESdlSWxLxTssKOkF.jpg',
+  videos: null,
+  tags: 'Diabetes, diabetes, heart disease, heart-disease, Stroke, stroke, कोलेस्ट्रॉल, kolesttronl, जानिए, jaanie, मधुमेह, mdhumeh, स्ट्रोक, sttrok, हृदय रोग, hrdy-rog',
+  redirectURL: 'diabetes-heart-disease-and-stroke',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Diabetes, diabetes, heart disease, heart-disease, Stroke, stroke, कोलेस्ट्रॉल, kolesttronl, जानिए, jaanie, मधुमेह, mdhumeh, स्ट्रोक, sttrok, हृदय रोग, hrdy-rog',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'diabetes-heart-disease-and-stroke',
+  createdDate: 'November 05, 2018, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}

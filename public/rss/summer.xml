@@ -1,0 +1,20 @@
+﻿<rss xmlns:atom='http://www.w3.org/2005/Atom' xmlns:custom='https://hastakshep.com/rss/custom' version='2.0'>
+<channel>
+<atom:link href='https://www.hastakshep.com/RSS-summer' rel='self' type='application/rss+xml'/>
+<title><![CDATA[None]]></title>
+<description><![CDATA[]]></description>
+<language>hi</language>
+<copyright>Copyright (c) 2016 hastakshep ! Inc. All rights reserved.</copyright>
+<link>https://www.hastakshep.com/</link>
+<ttl>30</ttl>
+<item>
+<title><![CDATA[नागरिकता के नाम पर देश के विभाजन पर उतारू भाजपा, देश सबका न कोई घुसपैठिया न कोई शरणार्थी]]></title>
+<link>https://www.hastakshep.com/bjp-launched-on-the-partition-of-the-country-in-the-name-of-citizenship/</link>
+<description><![CDATA[ नागरिकता के नाम पर देश के विभाजन पर उतारू भाजपा, देश सबका न कोई घुसपैठिया न कोई शरणार्थी]]></description>
+<pubDate>Tue, 01 Oct 2019 GMT</pubDate>
+<guid isPermaLink='false'>https://www.hastakshep.com/bjp-launched-on-the-partition-of-the-country-in-the-name-of-citizenship/</guid>
+<enclosure url="https://hastakshep.com/Admin/storyimage/DefaultImageHastakshep.jpg" length="125" type="image/jpeg" />
+</item>
+
+</channel>
+</rss>

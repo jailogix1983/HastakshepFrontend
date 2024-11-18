@@ -1,0 +1,1071 @@
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 3033,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Oct 19 2018  6:30PM',
+  storyheading: 'वायु प्रदूषण से हर साल मरते हैं सात मिलियन लोग',
+  storysubheading: '9-out-of-10-people-worldwide-breathe-polluted-air',
+  storysynopsis: 'वायु प्रदूषण से हर साल मरते हैं सात मिलियन लोग',
+  fullstory: '<p><!-- wp:paragraph --></p>\n' +
+    '<p><big><strong>वायु प्रदूषण से हर साल मरते हैं सात मिलियन लोग</strong></big></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>नई दिल्ली, 20 अक्तूबर। वायु प्रदूषण, हर किसी को प्रभावित करने वाली एक प्रमुख पर्यावरणीय समस्या है। विश्व स्वास्थ्य संगठन के एक दस्तावेज से पता चलता है कि वायु प्रदूषण से हर साल पूरी दुनिया में सात मिलियन लोग मरते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><span class="marker"><big><strong>कैसे होता है वायु प्रदूषण</strong></big></span></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>विश्व स्वास्थ्य संगठन के एक दस्तावेज के मुताबिक वायु प्रदूषण तब होता है जब पर्यावरण किसी भी रासायनिक, भौतिक या जैविक एजेंट द्वारा प्रदूषित होता है जो वायुमंडल की प्राकृतिक विशेषताओं को संशोधित करता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>घरेलू सामान जिनसे वायु प्रदूषण फालता है उनमें कैरोसिन स्टोव, तम्बाकू का धुआँ, मोटर वाहन का धुआँ, औद्योगिक सुविधाएं व जगलों की आग शामिल है।  </p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:image --></p>\n' +
+    '<figure class="wp-block-image"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/tmTAcirnlaXCqFmSpAQa.jpg" alt="WHO urban air quality database"/></figure></p>\n' +
+    '<p><!-- /wp:image --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong><span class="marker"><big>वायु प्रदूषण से बीमारियां</big></span></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><big><strong>Diseases from Air Pollution</strong></big></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>वायु प्रदूषण अस्थमा की उत्तेजना और विशेष रूप से बच्चों में श्वसन संक्रमण में वृद्धि के लिए ज़िम्मेदार है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>विश्व स्वास्थ्य संगठन के एक दस्तावेज के मुताबिक स्ट्रोक, पुराने श्वसन रोग और कैंसर सहित कार्डियोवैस्कुलर बीमारियों के कारण मस्तिष्क और मृत्यु दर में वृद्धि के लिए भी वायु प्रदूषण को भी जिम्मेदार ठहराया गया है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>ये तथ्य इंगित करते हैं कि वायु प्रदूषण अब दुनिया का सबसे बड़ा एकल पर्यावरणीय स्वास्थ्य जोखिम है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><span class="marker"><strong>WHO Global Ambient Air Quality Database (update 2018)</strong></span></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>डब्ल्यूएचओ ग्लोबल परिवेश वायु गुणवत्ता डेटाबेस (अद्यतन 2018) के मुताबिक  दुनिया के सभी देश वायु प्रदूषण से प्रभावित हैं, लेकिन कम आय वाले शहरों की आबादी वायु प्रदूषण से अधिक प्रभावित है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>डब्ल्यूएचओ के नवीनतम वायु गुणवत्ता डेटाबेस के मुताबिक, 100,000 से अधिक निवासियों वाले कम और मध्यम आय वाले देशों के 97% शहर डब्ल्यूएचओ वायु गुणवत्ता दिशानिर्देशों को पूरा नहीं करते हैं। जबकि 49% उच्च आय वाले देशों में भी इन गुणवत्ता मानकों का उपयोग नहीं होता।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><span class="marker"><strong><em>दुनिया में 10 में से 9 लोग अत्यधिक प्रदूषण वाली हवा में सांस लेते हैं</em></strong></span></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong><em>9 out of 10 people worldwide breathe polluted air</em></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>डब्ल्यूएचओ के नए आंकड़ों से पता चलता है कि दुनिया के कई हिस्सों में वायु प्रदूषण का स्तर खतरनाक रूप से ऊंचा रहता है और 10 में से 9 लोग प्रदूषण के उच्च स्तर वाली हवा में सांस लेते हैं। अद्यतन अनुमानों में परिवेश (बाहरी) और घरेलू वायु प्रदूषण के कारण हर साल 7 मिलियन लोगों की मौत होती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><span class="marker"><strong>सबसे गरीब ज्यादा शिकार होते हैं वायु प्रदूषण के</strong></span></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>WHO urban air quality database</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>डब्ल्यूएचओ के महानिदेशक डॉ टेड्रोस अधानोम गेबेरियसस कहते हैं, "वायु प्रदूषण हमें सभी को नुकसान पहुंचाता है, लेकिन सबसे गरीब और सबसे हाशिए वाले लोग इसके बोझ का शिकार होते हैं।"</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>वह कहते हैं,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:quote --></p>\n' +
+    '<blockquote class="wp-block-quote"><p>"यह अस्वीकार्य है कि 3 अरब से अधिक लोग - उनमें से अधिकतर महिलाएं और बच्चे हैं- अभी भी अपने घरों में प्रदूषण वाले स्टोव और ईंधन का उपयोग करने से घातक धुआं सांस में ले रहे हैं।"</p></p>\n' +
+    '</blockquote>\n' +
+    '<p><!-- /wp:quote --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><span class="marker"><strong>First Global Conference on Air Pollution and Health</strong></span></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस वर्ष डब्ल्यूएचओ वायु प्रदूषण और स्वास्थ्य पर पहला वैश्विक सम्मेलन आगामी 30 अक्टूबर से 1 नवंबर 2018 कोआयोजित करेगा ताकि सरकारों और भागीदारों को वायु गुणवत्ता में सुधार और जलवायु परिवर्तन में सुधार के वैश्विक प्रयासों में एक साथ लाया जा सके।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>संयुक्त राष्ट्र के अंतर सरकारी पैनल (आईपीसीसी) की जलवायु परिवर्तन पर हाल में जारी की गई नवीनतम रिपोर्ट ने चेतावनी दी है कि वैश्विक तापमान उम्मीद से अधिक तेज गति से बढ़ रहा है। कार्बन उत्सर्जन में समय रहते कटौती के लिए कदम नहीं उठाए जाते तो इसका विनाशकारी प्रभाव हो सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पेरिस समझौते की समीक्षा के लिए इस वर्ष दिसंबर में पोलैंड में दुनिया भर के नेता एकत्रित होंगे। ग्लोबल वार्मिंग के लिए वायु प्रदूषण भी एक जिम्मेदार कारक है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:advads/gblock {"itemID":"ad_24943"} /--></p>\n' +
+    '<p><!-- wp:html --></p>\n' +
+    '<div style="background: #eeeeee; border: 1px solid #cccccc; padding: 5px 10px;"><a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg"><strong>कृपया हमारा</strong></a> <a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg"><strong>यूट्यूब चैनल सब्सक्राइब करें</strong></a></div></p>\n' +
+    '<p><!-- /wp:html --></p>\n' +
+    '<p><!-- wp:core-embed/youtube {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/-xJWx_Iyi-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/-xJWx_Iyi-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:core-embed/youtube --></p>\n' +
+    '<p><!-- wp:jetpack/related-posts {"displayThumbnails":true} /--></p>\n' +
+    '<p><!-- wp:latest-posts /--></p>\n',
+  storyimage1: 'AELcalfR3GydZpxIXl66.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: '9-out-of-10-people-worldwide-breathe-polluted-air',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: '9-out-of-10-people-worldwide-breathe-polluted-air',
+  createdDate: 'October 19, 2018, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 27989,
+      storyheading: 'बंगला गद्य के जनक काली प्रसन्न सिंह',
+      storysubheading: 'kaliprasanna-singha-the-father-of-bengali-prose',
+      englishurl: 'aapki najar',
+      redirectURL: 'kaliprasanna-singha-the-father-of-bengali-prose',
+      category_type: '1',
+      storyImage1: 'GEQllKBYbrnYWCl8ZO1b.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Hutom Pyanchar Naksha, hutom-pyanchar-naksha, Kaliprasanna Singha, kaliprasanna-singha, काली प्रसन्ना सिंह, kaalii-prsnnaa-sinh, हुतम उल्लू डिजाइन, hutm-ulluu-ddijaain',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'Hastakshep-Desk',
+  category_type: 1,
+  storyID: 42327,
+  authorID: 4,
+  author_enname: 'HastakshepDesk',
+  author_image: '45eec1c3-5896-4ae3-b324-ead5877063ef_DefaultImageHastakshep.webp',
+  storydate: '2024-07-17 22:36:47',
+  storyheading: 'नाटक बेहतर जीवन और बेहतर मनुष्य बनना सिखाता है',
+  storysubheading: 'Participants learned acting with labor',
+  storysynopsis: 'प्रसन्ना की तीन-दिवसीय नाट्य कार्यशालाएँ संपन्न। इंदौर। नाटक बिना लाइट, माइक और बाक़ी तामझाम के भी हो सकता है लेकिन वो नाटक में काम करने वालों के आपसी सहयोग के बिना हो ही नहीं सकता।',
+  fullstory: '<h2 style="text-align: justify;" align="center"><strong><em>प्रसन्ना की तीन</em><em>-</em><em>दिवसीय नाट्य कार्यशालाएँ संपन्न</em></strong></h2>\r\n' +
+    '<h3><strong><em>श्रम के साथ अभिनय सीखा प्रतिभागियों ने</em></strong></h3>\r\n' +
+    '<p style="text-align: justify;">इंदौर।&nbsp;नाटक बिना लाइट, माइक और बाक़ी तामझाम के भी हो सकता है लेकिन वो नाटक में काम करने वालों के आपसी सहयोग के बिना हो ही नहीं सकता। अगर एक क़िरदार क़ातिल है और दूसरे की भूमिका मरने की है तो मंच पर दोनों में इतना सहयोग होना चाहिए कि दर्शकों को वो सच लगे जबकि वो सच नहीं है। नाटक सहयोग और मैत्री सिखाता है।&nbsp;नाटक इस अर्थ में बेहतर जीवन और बेहतर मनुष्य बनना सिखाता है।&nbsp;</p>\r\n' +
+    '<p style="text-align: justify;">भारतीय रंगमंच के किंवदंती कहे जाने वाले नाट्य निर्देशक और भारतीय जन नाट्य संघ (इप्टा) के राष्ट्रीय अध्यक्ष प्रसन्ना हेग्गोडु की तीन-दिवसीय दो नाट्य कार्यशालाएँ इंदौर में 7 जून से 10 जून 2024 तक संपन्न हुईं। चूँकि प्रसन्ना केवल एक नाटककार ही नहीं हैं, एक ज़मीनी काम करने वाले प्रयोगधर्मी ऐक्टिविस्ट भी हैं इसलिए उनसे दुनिया के बड़े नाटककारों के काम के बारे में जानने के साथ ही उनके गाँवों में किये गए सहकारिता के प्रयोगों को भी सुनना था। याही सोचकर जया मेहता ने एक कार्यशाला तीन दिन रोज़ शाम 5 बजे से 8 बजे तक करने की योजना बनायी जिसमें नाटक के सिद्धांत, जीवन से नाटक के जुड़ाव, श्रम के साथ नाटक के सम्बन्ध, दैत्य अर्थव्यवस्था और उसके बरअक्स मनुष्य की गरिमा को बहाल करने वाली जीवन व्यवस्था, उपभोक्तावाद के बरअक्स जरूरतें कम करने का जीवन दर्शन, सहकारिता आदि विषयों पर घंटों विचार-विमर्श सवाल-जवाब होते थे।</p>\r\n' +
+    '<p style="text-align: justify;">सुबह 8 बजे से 11 बजे तक चलने वाली कार्यशाला में प्रसन्ना ने अभिनय की तकनीकें, आवाज़ के उतार-चढ़ाव से भाव के निर्माण आदि बातें प्रतिभागियों को सिखायीं, लेकिन मेरे विचार से इन कार्यशालाओं में प्रतिभागियों ने तकनीक से ज़्यादा कुछ ज़रूरी जीवन मूल्य और कुछ ज़रूरी सवाल सीखे। कितने ही प्रतिभागियों के मन में यह सवाल शायद पहली बार ही उठा होगा कि जिस तरह की जीवन पद्धति हमने अपनायी हुई है, उसका नतीजा अगली पीढ़ी के लिए क्या होगा? कितने लोगों ने पहली बार ये सोचा होगा कि हम मशीनों के साथ ख़ुद कितने मशीनी होते जा रहे हैं? कितने ही लोगों को पहली बार ये फ़िक्र महसूस हुई होगी कि पर्यावरणीय बदलावों का असर कितना भयंकर हो सकता है या कितने ही लोगों ने प्रेम में अधिकार और अहंकार से ज़्यादा विनम्रता का महत्त्व सीखा होगा।&nbsp;इस मायने में यह नाट्य कार्यशाला सिर्फ़ नाट्य कार्यशाला नहीं थी, उससे बहुत ज़्यादा थी।</p>\r\n' +
+    `<p style="text-align: justify;">अभिनय की बारीकियाँ सिखाते हुए उन्होंने "मैं तुमसे प्यार करता हूँ" वाक्य को लगभग 50 प्रतिभागियों से बुलवाकर सुना। आख़िर में उन्होंने कहा कि यह वाक्य अहंकार के साथ "मैं"&nbsp;पर ज़ोर देकर कहा जाए तो वह प्यार को प्रदर्शित ही नहीं करेगा। प्यार में 'मैं' होगा तो सही लेकिन विनम्रता और प्रसन्नता से भरा हुआ। प्यार में प्यार और जिससे प्यार करते हैं, उसका महत्त्व ज़्यादा है, तभी वह वाक्य प्यार भरा वाक्य होगा अन्यथा खोखला होगा।&nbsp;एक यही बात अगर प्रतिभागियों ने ठीक से समझ ली हो तो वो कभी &lsquo;मेल सुप्रीमेसी&rsquo; को अपने व्यक्तित्व पर हावी नहीं होने देंगे।</p>\r\n` +
+    '<p style="text-align: justify;">एक सत्र में उन्होंने निराला की कविता "वह तोड़ती पत्थर" की पंक्तियों का विभिन्न प्रतिभागियों से पाठ करवाकर अर्थ की परतें पाठ के ज़रिये कैसे खुलतीं हैं, समझाया। एक सत्र में उन्होंने प्रतिभागियों से समूह बनाकर ऐसी निरर्थक भाषा में बात करने का अभ्यास करवाया जिसमें एक भी शब्द का कोई अर्थ न हो, हिंदी, अंग्रेजी या किसी भी भाषा का न हो (जिबरिश) और फिर भी जो सुनें, उन्हें लगे कि लोग आपस में कोई काम की बात कर रहे हैं।&nbsp;इस अभ्यास का मक़सद यह महसूस करवाना था कि भावनाओं को व्यक्त करने के लिए सदा भाषा और शब्द ही आवश्यक नहीं होते, बल्कि अनेक हाव-भाव द्वारा भी अपने आपको अभिव्यक्त किया जा सकता है। अनेक अभ्यासों के द्वारा उन्होंने प्रतिभागियों से जो करवाया, उससे आठ साल से सत्तर साल तक के सौ से ज़्यादा प्रतिभागियों ने अपने भीतर एक नये मनुष्य को पहचाना, उसका अहसास उन्हें हुआ।</p>\r\n' +
+    '<p style="text-align: justify;">विभिन्न सत्रों में उन्होंने दुनिया के पिछली सदी के महान नाटककार बेर्टोल्ट ब्रेष्ट (जर्मनी) से लेकर इब्राहिम अल्काजी और हबीब तनवीर तथा सफ़दर हाश्मी सहित अनेक नाटककारों की विशेषताओं की चर्चा की और उनसे जुड़े प्रसंग भी सुनाये जिससे माहौल दिलचस्प बना रहता था। एक और बहुत महत्त्वपूर्ण बात सहयोग और मैत्री के संबन्ध में उन्होंने यह कही कि फ़िल्म अभिनेता प्राण ने खलनायक की अनेक यादगार भूमिकाएँ कीं, अनेक बार अभिनेत्रियों की अस्मत लूटने वाले दृश्य भी किए लेकिन प्राण के साथ हर अभिनेत्री अपने आपको इतना सहज, सुरक्षित और शंकारहित महसूस करती थी क्योंकि प्राण अपने अभिनय के अलावा निजी ज़िंदगी में सभी महिला साथियों के साथ बहुत सम्मानजनक व्यवहार करते थे। तभी उन्हें अपने क़िरदार को निभाने के लिए उनकी महिला साथी सहयोग करती थीं। कलाकार को सभ्य, और उसके द्वारा निभाए गए पात्र की भूमिका सहज होना चाहिए।</p>\r\n' +
+    '<p style="text-align: justify;">एक सत्र में उन्होंने बहुत दिलचस्प तरह से संवादों में, या नाटक में &lsquo;बिंदी&rsquo; के प्रयोग को लेकर बात की। उन्होंने कहा कि बिंदी वो चीज है जो दिखती नहीं है लेकिन उसे निर्देशक और अभिनेताओं को देखना आना चाहिए तभी वो कुछ अलग कर सकते हैं। लगभग सभी प्रतिभागी बड़ी उलझन में कि ऐसी कैसी बिंदी है जो होती है पर दिखती नहीं है। खुद मेरे लिए ये बिंदी अत्यंत रहस्यमय होती जा रही थी लेकिन शायद प्रसन्ना का कहने का आशय ये था कि नाटक में और संवादों में ऐसी जगहें आती हैं जहाँ कलाकार या निर्देशक के पास कुछ अलग करने का मौका होता है बशर्ते वो उसे पहचान सके तो। बस वही बिंदी है। ऐसे मौकों को पहचानने का कोई प्रशिक्षण नहीं हो सकता लेकिन करने से वो आता जाता है।</p>\r\n' +
+    '<p style="text-align: justify;">उन्होंने कहा कि कलाकार को अभिनय के लिए दिए गए पात्र के अभिनय की प्रेरणा अपने अंदर से नहीं, बाहरी प्रतिक्रिया से मिलती है। नाटक क्रिया और प्रतिक्रिया, यानि एक्शन और रिएक्शन से चलता है। जब तक दूसरा क़िरदार आपके एक्शन पर रिएक्शन नहीं देगा, तब तक आपका एक्शन किसी काम का नहीं होगा। और आपने बहुत अच्छा एक्शन किया लेकिन रिएक्शन उतना अच्छा नहीं हुआ तो भी आपके एक्शन का वो असर नहीं पैदा होगा। उन्होंने अलग-अलग ढंग से अभिनय में शरीर के विभिन्न अंगों के इस्तेमाल का भी अभ्यास करवाया। उन्होंने कहा कि अभिनय केवल दिए गए संवादों से ही नहीं होता, कलाकार का शरीर और उसके अंग, विशेषकर आँखें भी बोलना चाहिए, लेकिन अच्छा अभिनय यही है कि जो जितना होना है, उतना ही हो, ज़्यादा हाथ-पैर और भाव-भंगिमाएँ बनाने से भी अभिनय को नुक़सान पहुँचता है। उन्होंने एनएसडी में अपने वरिष्ठ नसीरुद्दीन शाह, ओम पुरी, सुरेखा सीकरी, उत्तरा बावकर, अपने समकालीन राज बब्बर और अपने बाद के बैच के रघुबीर यादव के भी अनेक प्रसंग सुनाकर बताया कि वे लोग अपने क़िरदार में जान डालने के लिए कितनी मेहनत करते थे। एक सवाल उनसे यह किया गया कि नसीरुद्दीन शाह आपसे नाराज़ क्यों रहते हैं? प्रसन्ना ने कहा कि वे मेरे सीनियर भी हैं और बहुत अच्छे अभिनेता भी। उनके लिए मेरे मन में आदर है लेकिन एक बार ऐसा हुआ कि एनएसडी ने अपने दीक्षांत समारोह में, जो कि आठ-दस वर्षों में एक बार होता है, उसमें एनएसडी प्रशासन ने नसीरुद्दीन शाह को मुख्य अतिथि के तौर पर आमंत्रित किया। मैंने एनएसडी को पत्र लिखा कि एनएसडी को किसी ऐसे कलाकार को दीक्षांत समारोह का मुख्य अतिथि बनाना चाहिए था जो मुख्य रूप से नाटक और थिएटर से जुड़ा रहा हो न कि सिनेमा से। इस बात को इस तरह दुष्प्रचारित किया गया कि प्रसन्ना को नसीर के नाम पर ऐतराज है जबकि ऐसा हरगिज़ नहीं था।</p>\r\n' +
+    '<p style="text-align: justify;">9 जून को प्रतिभागियों से श्रमदान भी करवाया गया और प्रसन्ना के साथ-साथ इप्टा के राष्ट्रीय महासचिव और प्रसिद्ध नाट्य निर्देशक तनवीर अख़्तर (पटना) और हबीब तनवीर के नाटकों की प्रसिद्ध अभिनेत्री और गायिका पूनम तिवारी (छत्तीसगढ़) ने तीन फलदार और छायादार वृक्षों के पौधे गाँधी हॉल प्रांगण में रोपे। श्रमदान के बाद के सत्र में साफ़-सफ़ाई के महत्त्व को नाटक और अभिनय के साथ जोड़कर यह भी समझाया कि अगर स्टेज पर कूड़े की ज़रूरत है तो उसे वहाँ होना चाहिए वर्ना जिसकी ज़रूरत नहीं, ऐसी ख़ूबसूरत चीज़ भी कूड़े के समान है। प्रसन्ना ने कहा कि स्टेज पर किसी को थप्पड़ मारने का दृश्य करते हुए सही में थप्पड़ मारना या किसी भी तरह का&nbsp;ऐसा काम नहीं होना चाहिए जो दर्शकों को ख़राब लगे।&nbsp;</p>\r\n' +
+    '<p style="text-align: justify;">उन्होंने कहा कि हमारी नाट्य परंपरा कालिदास, भवभूति और भास की रही है। शहरी नाटक इंग्लिश नाटकों से प्रेरित हैं। गाँव के नाटकों से उनका कोई रिश्ता नहीं रहा है। हबीब तनवीर ने छत्तीसगढ़ के ग्रामीण जीवन और लोक कहानियों एवं नाटकों के माध्यम से भारतीय नाट्य परंपरा में ख़ूबसूरत विकास के अध्याय जोड़े हैं। हबीब साहब ने जन सामान्य से नायक तलाशे थे। हबीब तनवीर का थिएटर लोक कला या मनोरंजन मात्र नहीं था बल्कि उन्होंने आधुनिक समय को लोक के माध्यम से व्यक्त किया। उनके नाटक सामान्य लोगों में से बड़ी मानवीय चीज़ें निकाल कर लाते हैं। बड़ी चीजों की ओर भागना हमारी प्रवृत्ति है। थिएटर और समाज का भी यही सच है। छोटे-छोटे प्रयासों की सफलता स्थाई होती है। थिएटर भव्य स्टेज, रंग बिरंगी रोशनी पर नहीं, दर्शकों पर निर्भर होता है।&nbsp;</p>\r\n' +
+    '<p style="text-align: justify;">प्रसन्ना ने कहा कि एक्टर अपनी प्रस्तुति से निर्मित नहीं होता। वह निरंतर अभ्यास से ही विकसित हो सकता है। नाटक, कलाकार को बोलना सिखाता है। मोबाइल से कला नहीं सीखी जा सकती। जिस तरह देश किसी चुनाव से या सिर्फ़ सरकार से नहीं, बल्कि जन सामान्य के छोटे-छोटे प्रयासों से विकसित होता है, इसकी एक प्रक्रिया है। इसी तरह समाज हो अथवा नाटक उसे ऐसी ही प्रक्रिया के दौर से गुजरना होता है। अगर आप प्रोसेस पूरी नहीं होने देंगे तो अच्छा थिएटर कैसे तैयार होगा। उन्होंने कहा कि फ़िल्म हो अथवा नाटक, बिना रिहर्सल (अभ्यास) के अच्छे नहीं बन सकते। जापान के फ़िल्म निर्देशक अकीरा कुरोसावा और भारत के सत्यजीत राय कलाकारों से महीनों रिहर्सल करवाते थे, उसके बाद ही वे फ़िल्म शूट करते थे।&nbsp;</p>\r\n' +
+    '<p style="text-align: justify;">उन्होंने कहा कि आज हर कोई मुंबई में जाकर सीधे फ़िल्म स्टार बनना चाहता है, जबकि वहाँ कलाकारों का शोषण भी होता है। वर्तमान में शहर और गाँव में द्वंद्व चल रहा है। नगरीय व्यवस्था नौजवानों को महानगरों की ओर खींच रही है। फ़िल्मों में पैसा है तो थोड़ा पैसा कमाने जाइए लेकिन थोड़े दिन बाद वापस आकर अपने शहर में, गाँव में थिएटर कीजिये। फ़िल्मों का अर्थशास्त्र अनैतिक है। थिएटर अपने उत्पादन में भी सहकारिता से होता है और प्रदर्शन में भी, जबकि फ़िल्म में मेहनत तो सबकी होती है लेकिन मुनाफ़े का वितरण बहुत ग़ैर बराबरीपूर्ण होता है। और ज़्यादा थिएटर किये जाने की, और थिएटर के बारे में समाज का सोच और बेहतर किये जाने की ज़रूरत है। वर्तमान में केवल हिंदी ही नहीं, सभी भाषाओं का थिएटर संकट में है। वैचारिकी के संकट को देखते हुए कलाकारों को प्रतिबद्ध और जागरूक रहना ज़रूरी है। वर्तमान समय में संस्कृति और कला के सामने बड़ा संकट है। भाषा, संस्कृति, नागरिकता बोध सभी ख़तरे में हैं। बाज़ार और राजनीति के हावी हो जाने से आपसी संबंध और मित्रता खो-सी गई है।&nbsp;</p>\r\n' +
+    '<p style="text-align: justify;">उन्होंने कहा कि लोग संस्कृति को कला से कन्फ्यूज़ करते हैं। संस्क'... 5099 more characters,
+  storyimage1: 'Participants-learned-acting-with-labor-638568526074950312.webp',
+  videos: '',
+  tags: "प्रसन्ना की नाट्य कार्यशालाएँ, Prasanna's Drama workshops,",
+  redirectURL: 'Participants-learned-acting-with-labor',
+  englishurl: 'literature',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: "प्रसन्ना की नाट्य कार्यशालाएँ, Prasanna's Drama workshops,",
+  catname: 'शब्द',
+  catID: 87,
+  canonicalUrl: 'Participants-learned-acting-with-labor',
+  createdDate: 'July 17, 2024, 10:36 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 29078,
+      storyheading: 'मधुमेह है तो ऐसे रखें दांतों का ख्याल',
+      storysubheading: 'if-you-have-diabetes-then-take-care-of-your-teeth',
+      englishurl: 'national',
+      redirectURL: 'if-you-have-diabetes-then-take-care-of-your-teeth',
+      category_type: '1',
+      storyImage1: 'IFBIGPhRe4YG7BH7XOYa.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'dark teeth in insulin, dark-teeth-in-insulin, dentist, dentist, diabetes mellitus problems, diabetes-mellitus-problems, fasting blood sugar test, fasting-blood-sugar-test, gingivitis, gingivitis, gonorrhea, gonorrhea, Tooth, tooth, ग्लूकोज, gluukoj, मधुमेह रोग विशेषज्ञ, mdhumeh-rog-vishessjny, मधुमेह, mdhumeh, रक्त ग्लूकोज, rkt-gluukoj',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28123,
+      storyheading: 'Venus Crème Bar ‘Aapki Khoobsurti Unki Nazar Se: Season 2’ touches many a hearts in  Agra',
+      storysubheading: 'aapki-khoobsurti-unki-nazar-se',
+      englishurl: 'news-2',
+      redirectURL: 'aapki-khoobsurti-unki-nazar-se',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Tooth, tooth',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 25049,
+      storyheading: 'General Service Tax or Great Harassment Tax?',
+      storysubheading: 'general-service-tax-or-great-harassment-tax',
+      englishurl: 'news-2',
+      redirectURL: 'general-service-tax-or-great-harassment-tax',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Tooth, tooth',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 24807,
+      storyheading: 'CPI-M Condemns Arrest of Abul Hossain ! Demands His Immediate Release!',
+      storysubheading: 'cpi-m-condemns-arrest-of-abul-hossain-demands-his-immediate-release',
+      englishurl: 'news-2',
+      redirectURL: 'cpi-m-condemns-arrest-of-abul-hossain-demands-his-immediate-release',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Tooth, tooth',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 23734,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'Jivi mobiles launches Full View Smartphone range',
+  storysubheading: 'jivi-mobiles-launches-full-view-smartphone-range',
+  storysynopsis: 'Jivi mobiles launches Full View Smartphone range',
+  fullstory: '<h1><strong>Jivi mobiles launches Full View Smartphone range</strong></h1></p>\n' +
+    '<ul>\n' +
+    '<li><em>New “Xtreme Series” priced at Rs. 5000-7000</em></li>\n' +
+    '<li><em>Full view (18:9) smart phones set to disrupt the segment</em></li>\n' +
+    '<li><em>Face Detection, Fingerprint sensor and Dual rear camera among prime features</em></li>\n' +
+    '</ul>\n' +
+    '<p><strong>New Delhi, 19th Sept 2018: </strong>Jivi Mobiles, a leading homegrown feature phone maker, which is a known brand in the feature phone segment has today entered Smartphone segment by launching full view smart phone series. After establishing its dominance in the feature phone segment across India. Jivi Mobiles has launched <strong>XTREME Series</strong> which will have a full view (18:9) display, Finger print sensor and Dual rear camera among the special features. It is unprecedented that a smart phone in this range will have such high end features. Also, the phones will support face unlock feature too.</p></p>\n' +
+    '<p>Xtreme series comes with the tag line <strong>“Get more than you Xpect”</strong> which Jivi mobiles has judiciously justified and have loaded all those features such as Dual Camera, Face unlock and Finger Print sensor etc. into their phones that have not been introduced by any brand at this range.</p></p>\n' +
+    '<p>These pocket-friendly smart phones, with full view display, will cater to the aspiring buyers from urban and semi urban areas. Jivi’s Xtreme series has all the features that a smart phone user demands which are normally found in the upper segment phones only.</p></p>\n' +
+    '<p>Speaking about the new Xtreme series <strong>Mr. Harsh Vardhan, Marketing Head, Jivi Mobiles,</strong> said, “Within a short span of time, Jivi Mobiles has gained credibility in the market and built a strong network of sales and distribution across the country. Since this is an era of smart phone and with the easy access to technology people are looking to get exposed to smart phones.</p></p>\n' +
+    '<p>We have an extensive distribution and sales network which allows us to understand the nerves of Indian audience. Our fully developed R&D team has designed the phones after a lot of research and analysis of customers’ requirements. We have identified the need gap and are trying to fill it with this new range of budget smart phones.</p></p>\n' +
+    '<p>Our vision is to provide the best of quality coupled with the latest features and contemporary design at a price point which no one else is operating on. </p></p>\n' +
+    '<p>The price range of INR 5000-7000 is quite attractive and bound to disrupt the market. Moreover, it is also available with zero down payments.”</p></p>\n' +
+    '<p>“We are confident that the kind of quality, features and value for money that we have brought in will change the dynamics of the smart phone segment and each of our phones will disrupt the entire segment,” he added.</p></p>\n' +
+    '<p>In the Xtreme Series, the company has unveiled Xtreme Klick XT 84, Xtreme View XT 309 and Xtreme View Pro XT 309+ models. All these handsets support 4G Volte, these are dual SIM handsets.</p></p>\n' +
+    '<p><big><strong>The Xtreme Klick XT 84</strong></big></p></p>\n' +
+    '<p>XT84 comes with the Full view 18x9 display and has 5.3’’ screen size. The Phone is loaded with Dual rear camera and is powered by 2500 mAh battery. It comes with 1 GB RAM and 8 GB ROM. It also has a Face detection feature which enables the security unlock.</p></p>\n' +
+    '<p>It has a5 MP + CIF / 5 MP (<strong>Dual Camera</strong>) which takes good quality pictures and video calls. The phone supports Dual SIM, dual standby, Gravity / Proximity / Light –sensor, Bluetooth 4.0, OTG and AAC receiver. The phone will run on Android Go. This model is priced at <strong>INR 5299</strong></p></p>\n' +
+    '<p><big><strong>Xtreme View XT309</strong></big></p></p>\n' +
+    '<p>XT309 has a Full view IPS display with 2.5D glass and 5.3” Screen size. It also has an advanced Finger print sensor enables various functions such as security lock, music control, answering call, controlling alarm, App lock, clicking pictures etc. The phone is powered by 2700 mAh battey and loaded with 8GB ROM and 1GB RAM.</p></p>\n' +
+    '<p>The phone has 8 MP AF Primary camera and 5 MP AF Selfie camera which click amazing quality pictures. Dual SIM standby, Gravity / Proximity / Light –sensor, Bluetooth 4.0, BLE, GPS, FM, OTG and Finger sensor are among other features. The phone will also run on Android Go. The model is priced at <strong>INR 5599</strong>.</p></p>\n' +
+    '<p><big><strong>Xtreme View pro 309+</strong></big></p></p>\n' +
+    '<p>XT309+ is the upgraded version of XT309 with bigger battery, more memory and better camera. The phone is powered by 2700 mAh battery, is equipped with 16GB ROM and 2GB RAM. The screen size is 5.3” with 2.5D Glass.</p></p>\n' +
+    '<p>The phone has 13 MP AF Primary camera and 5 MP AF Selfie camera which click amazing pictures. Dual SIM standby, Gravity / Proximity / Light –sensor, Bluetooth 4.0, GPS, WI-FI 802.11 a/b/g/n, FM, OTG, Face Detection and Finger Sensor are among other features. The phone will also run on Android Go. The model is priced at <strong>INR 6799</strong>.</p></p>\n' +
+    '<p>All the three models will be available for purchase offline and online.</p></p>\n' +
+    '<p><big><strong><a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg">ज़रा हमारा</a></strong> <strong><a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg">यूट्यूब चैनल सब्सक्राइब करें</a></strong></big></p></p>\n' +
+    '<p><iframe width="600" height="493" src="https://www.youtube.com/embed/kPOZ07uQESE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p></p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: 'Tooth, tooth',
+  redirectURL: 'jivi-mobiles-launches-full-view-smartphone-range',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Tooth, tooth',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'jivi-mobiles-launches-full-view-smartphone-range',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 3499,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'खामोश ! अदालत जारी है, का सफलतापूर्वक मंचन',
+  storysubheading: 'khamosh-adalat-jari-hai',
+  storysynopsis: 'खामोश ! अदालत जारी है, का सफलतापूर्वक मंचन',
+  fullstory: '<p><strong>खामोश ! अदालत जारी है, का सफलतापूर्वक मंचन</strong></p></p>\n' +
+    '<p>    मराठी के सुप्रसिद्ध नाट्य लेखक विजय तेंदुलकर के नाटक शांतता ! कोर्ट चालू आहे का सरोजनी वर्मा द्वारा हिन्दी में अनूदित नाटक  “खामोश ! अदालत जारी है” का सफलतापूर्वक मंचन महात्मा गांधी अंतरराष्ट्रीय हिन्दी विश्वविद्यालय, वर्धा के ग़ालिब सभागार में संपन्न हुआ।</p></p>\n' +
+    '<p>सत्तर के दशक में लिखा गया यह नाटक अपने मुख्य पात्र बेणारे बाई द्वारा स्वतंत्र भारत में स्त्रियों के व्यक्तिगत स्वतंत्रता हेतु आवाज उठाती नज़र आती है। तथा यह संदेश देती है कि आज भी आधी आबादी आज़ादी की रोशनी नहीं देख पाई है।</p></p>\n' +
+    '<p>नाट्य प्रस्तुति में मुख्य भूमिकाएँ गुंजन सिंह, नितप्रिया प्रलय, शिल्पा भगत, अर्णव सिंह, प्रवीण कुमार, साकेत बिहारी, महिपाल तथा दीपक ने निभाई।</p></p>\n' +
+    '<p>रंगकर्मी भगवत प्रसाद पटेल ने संस्कृति मंत्रालय, भारत सरकार के सहयोग से इस नाटक का निर्देशन किया। सह निर्देशन आशीष कुमार तथा नितप्रिया प्रलय का था। प्रकाश संयोजन राजू बावने, ध्वनि संयोजन शिव कुमार, मंच सज्जा रामलखन तथा मुख एवं वस्त्र सज्जा नितप्रिय प्रलय ने किया।</p></p>\n' +
+    '<p><big><a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg"><strong>यूट्यूब चैनल सब्सक्राइब करें</strong></a></big></p></p>\n' +
+    '<p> </p></p>\n' +
+    '<p><iframe width="854" height="480" src="https://www.youtube.com/embed/BM17IlCED1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'khamosh-adalat-jari-hai',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'khamosh-adalat-jari-hai',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 1316,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Jun 27 2017  6:30PM',
+  storyheading: 'आसुस रिपब्लिक ऑफ गेमर्स ने ROG मास्टर्स 2017 इंडिया और APAC क्वालिफायर्स की घोषणा की',
+  storysubheading: 'asus-republic-of-gamers-rog-masters-2017-india',
+  storysynopsis: 'आसुस रिपब्लिक ऑफ गेमर्स ने ROG मास्टर्स 2017 इंडिया और APAC क्वालिफायर्स की घोषणा की',
+  fullstory: '<p><!-- wp:paragraph --></p>\n' +
+    '<p>नई दिल्ली, 28 जून 2017 : <strong>आसुस रिपब्लिक ऑफ गेमर्स</strong> ROG ने आज ROG Masters 2017 &भारत व दक्षिण एशिया क्वालिफायर्स की घोषणा की और फाइनल्स 19 अगस्त 2017 को द ललित बेंगलुरु में होंगे। इसके लिए रजिस्ट्रेशन आज से http://www.rog-masters.com पर शुरु होंगे। इसमें दो गेम होंगेः काउंटर स्ट्राइकः ग्लोबल ऑफेंसिव और डोटा2; यह टूर्नामेंट 4 महाद्वीपों में विभक्त किया गया है- एशिया प्रशांत, अमेरिकाज़, चीन और म्डम्। (यूरोप, द मिडल ईस्ट व अफ्रीका)। भारत, बांग्लादेश व श्रीलंका EMEA के तहत दक्षिण-एशिया ग्रुप में होंगे। इंडिया क्वालिफायर दो सैगमेंट में विभाजित है- ऑफलाइन इंडिया क्वालिफायर (Qualifier #1)  और इंडिया ओपन ऑनलाइन (Qualifier #2)।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>ऑफलाइन क्वालिफायर में 8 शहरों में कुल 16 कैफे होंगे तथा 8 जुलाई से 25 जुलाई तक ये कैफे टूर्नामेंट की मेजबानी करेंगे। इसके बाद इंडिया ऑनलाइन ओपन (Qualifier #2)  होगा जो 27 जुलाई 2017 से आरंभ होगा। दक्षिण-एशिया फिनाले बेंगलुरु में द ललित में 19-20 अगस्त को होगा जिसमें 10,00,000 रुपए का आकर्षक पुरस्कार होगा। टूर्नामेंट की कुल पुरस्कार राशि 3,20,00,000 रुपए होगी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>आसुस इंडिया</strong> के रीजनल हैड (दक्षिण एशिया) व कंट्री मैनेजर पीटर चांग ने कहा,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:image --></p>\n' +
+    '<figure class="wp-block-image"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/NZHxQZsoKc8a46U0BCgC.JPG" alt=""/></figure></p>\n' +
+    '<p><!-- /wp:image --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>’’हमारी हमेशा कोशिश रही है कि दुनिया भर के गेमर्स को नवीनतम हार्डवेयर मुहैया कराए जाएं और पिछले साल सबसे पहले त्व्ळ मास्टर्स के साथ हमने ईस्पोर्ट्स की दुनिया में आधिकारिक प्रवेश कर लिया। इसे जबरदस्त कामयाबी मिली और इस साल हम पांच महाद्वीपों के 30 देशों में पहुंच कर वैश्विक हो रहे हैं। यह पूरे भारत के गेमर्स के लिए एक मौका है अपनी क्षमता प्रदर्शित करने का और दुनिया सबसे बड़े वैश्विक ईस्पोर्ट्स में से एक का हिस्सा बनने का। हउत्साहित हैं कि भारत में ईस्पोर्ट्स और गेमिंग को आगे बढ़ाने में अहम योगदान कर रहे हैं।’’</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>></strong> इंडिया क्वालिफायर के प्रथम चरण में ऑफलाइन टूर्नामेंट 8 शहरों के 16 कैफे में होगा, कुल 8 टीमें होंगी जो शीर्ष स्थान पाने के लिए एक दूसरे से मुकाबला करेंगी, इसके बाद आगे दक्षिण-एशिया फाइनल्स होंगे। ये 16 कैफे मुंबई, पुणे, चेन्नई, बेंगलुरु, हैदराबाद, कोलकाता, भुवनेश्वर व दिल्ली में ऑफलाइन क्वालिफायर की मेजबानी करेंगे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>></strong> दूसरे चरण में इंडिया ऑनलाइन क्वालिफायर : 2 होगा, प्रति गेम तीन विजेता टीमें दक्षिण एशिया फाइनल्स में आगे बढ़ेंगी। यह एक ओपन क्वालिफायर होगा जिसमें पहले चरण के विजेताओं के अलावा शेष सभी टीमें भाग ले सकेंगी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>></strong> तीसरे चरण भारत से 4 टीमें, बांग्लादेश से एक टीम, श्रीलंका से एक टीम प्रति गेम दक्षिण एशिया फाइनल्स में मुकाबला करेंगी जो कि द ललित, बेंगलुरु में होगा। एक विजेता ।च्।ब् रीजनल क्वालिफायर्स में में आगे जाएगा, जिसका फिनाले बैंगकॉक में अक्टूबर 2017 में होगा। फिर हर क्षेत्र से एक विजेता टीम ग्रैंड फिनाले में जाएगी जो नवंबर 2017 में सिंगापुर में होगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>></strong> एक भारतीय टीम के पास क्वालिफाई करने व APAC फाइनल्स में जाने के कुल तीन मौके होंगे (इंडिया ऑफलाइन क्वालिफायर्स<em>#1 $</em> इंडिया ऑनलाइन क्वालिफायर<em>#2 $</em> APAC )</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>ROG मास्टर्स 2017 में दुनिया भर की 20 से अधिक शीर्ष पेशेवर टीमें खेलेंगी और इसमें 5,00,000 अमेरिकी डॉलर के पुरस्कार होंगे। डोटा2 और काउंटर-स्ट्राइकः ग्लोबल ऑफेंसिव (CS: GO) टूर्नामेंट पैमाने और महत्वाकांक्षा के मामले में काफी बढ़ चुके हैं और इस लगभग बेमिसाल पहुंच के साथ ROG मास्टर्स 2017 प्रतिस्पर्धा की प्रचंडता को बढ़ाने के लिए तैयार है और यह डोटा2 तथा CS: GO को आंधी-तूफान की तरह हर जगह पहुंचा देगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:core-embed/youtube {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/Amo3OXJVMWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/Amo3OXJVMWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '<figcaption><br><br></figcaption></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:core-embed/youtube --></p>\n' +
+    '<p><!-- wp:jetpack/related-posts {"displayThumbnails":true,"displayContext":true,"postsToShow":5} /--></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>(प्रेस रिलीज़)</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n',
+  storyimage1: 'UgVX03ZHH7FT4XPJuWmD.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'asus-republic-of-gamers-rog-masters-2017-india',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'asus-republic-of-gamers-rog-masters-2017-india',
+  createdDate: 'June 27, 2017, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 28952,
+      storyheading: 'सुषमा जी, युद्धोन्माद मुक्ति के लिए हिमालय का आपको धन्यवाद',
+      storysubheading: 'india-and-china-have-resolved-the-stand-off-at-the-ladakh-border-external-affairs-minister-sushma-swaraj',
+      englishurl: 'opinion-english',
+      redirectURL: 'india-and-china-have-resolved-the-stand-off-at-the-ladakh-border-external-affairs-minister-sushma-swaraj',
+      category_type: '1',
+      storyImage1: 'S4Aam0KGKxrLzTnpdoGb.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Foreign Minister, foreign-minister, free market economy, free-market-economy, Ladakh border, ladakh-border, Student Youth Movement, student-youth-movement, Sushma Swaraj, sushma-swaraj, छात्र युवा आंदोलन, chaatr-yuvaa-aandoln, मुक्त बाजार अर्थव्यवस्था, mukt-baajaar-arthvyvsthaa, विदेश मंत्री, videsh-mntrii, सुषमा स्वराज, sussmaa-svraaj',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 27988,
+      storyheading: 'उन्नाव कांड से लेकर चिन्मयानंद प्रकरण और उम्भा कांड तक योगी सरकार आततायियों के साथ खड़ी',
+      storysubheading: 'umbha-massacre-cpi-ml-raps-yogi-govt-for-a-local-courts-order-to-lodge-fir-against-victims-of-the-massacre',
+      englishurl: 'national',
+      redirectURL: 'umbha-massacre-cpi-ml-raps-yogi-govt-for-a-local-courts-order-to-lodge-fir-against-victims-of-the-massacre',
+      category_type: '1',
+      storyImage1: '4J6wK8bcA024kEIApXql.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'CPI-ML, cpi-ml, FIR against victims of the massacre, fir-against-victims-of-the-massacre, Umbha massacre of Sonbhadra, umbha-massacre-of-sonbhadra, Umbha massacre, umbha-massacre, उम्भा कांड, umbhaa-kaandd, सोनभद्र के उम्भा कांड, sonbhdr-ke-umbhaa-kaandd',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 26320,
+      storyheading: 'इस छात्र आंदोलन का केन्द्र शिक्षा-रोजगार के साथ लोकतांत्रिक अधिकारों का सवाल',
+      storysubheading: 'the-question-of-democratic-rights-along-with-education-and-employment-remains-at-the-center-of-this-movement',
+      englishurl: 'opinion-english',
+      redirectURL: 'the-question-of-democratic-rights-along-with-education-and-employment-remains-at-the-center-of-this-movement',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Right to employment for youth, right-to-employment-for-youth, Section 124A in The Indian Penal Code, section-124a-in-the-indian-penal-code, देशद्रोह की धारा 124 (ए), deshdroh-kii-dhaaraa-124-e, राइट टू एम्प्लॉयमेंट फॉर यूथ, raaitt-ttuu-emplonymentt-phonr-yuuth',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 25642,
+      storyheading: "सुबह की ताजा ख़बरें : डूबती अर्थव्यवस्था संभालने में फेल हुई 56 इंची सरकार ? सरकार की बाजार उधारी हुई 2.54 लाख करोड़, तो ह्युंडई मोटर ने 'नो प्रोडक्शन डेज' घोषित किए",
+      storysubheading: 'morning-headlines-18-august-2019',
+      englishurl: 'national',
+      redirectURL: 'morning-headlines-18-august-2019',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '56 इंच, 56-inc, aaj ki news, aaj-ki-news, breaking news in hindi, breaking-news-in-hindi, Business News, business-news, Foreign News, foreign-news, Indian High Commissioner in Colombo, indian-high-commissioner-in-colombo, Taranjit Singh Sandhu, taranjit-singh-sandhu, Top News, top-news, World Youth Chess Championship, world-youth-chess-championship, विश्व युवा शतरंज चैम्पियनशिप, vishv-yuvaa-shtrnj-caimpiynship',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'Hastakshep-Desk',
+  category_type: 1,
+  storyID: 40310,
+  authorID: 4,
+  author_enname: 'HastakshepDesk',
+  author_image: '45eec1c3-5896-4ae3-b324-ead5877063ef_DefaultImageHastakshep.webp',
+  storydate: '2024-07-03 23:00:43',
+  storyheading: 'बुलंदशहर में भीड़ हिंसा के शिकार युवकों को न्याय मिले : माले',
+  storysubheading: 'Youth victims of mob violence in Bulandshahr should get justice CPI ML',
+  storysynopsis: 'Youth victims of mob violence in Bulandshahr should get justice: CPI-ML. भाकपा (माले) ने बुलंदशहर में भीड़ हिंसा के शिकार दो भाइयों तंजीम और फैजान को न्याय दिलाने की मांग की है',
+  fullstory: '<h2>&nbsp;<strong>Youth victims of mob violence in Bulandshahr should get justice: CPI-ML</strong></h2>\r\n' +
+    '<p>लखनऊ, 3 जुलाई। भाकपा (माले) ने बुलंदशहर में भीड़ हिंसा के शिकार दो भाइयों तंजीम और फैजान को न्याय दिलाने की मांग की है। पार्टी ने पुलिस की कार्रवाई पर हैरत व्यक्त करते हुए कहा है कि पिटाई में शामिल आरोपियों पर कार्रवाई करने की जगह भीड़ हिंसा का शिकार हुए दोनों भाइयों के खिलाफ ही पुलिस ने मुकदमा दर्ज कर दिया।</p>\r\n' +
+    '<p>राज्य सचिव सुधाकर यादव ने बुधवार को जारी बयान में कहा कि योगी सरकार में भीड़ हत्या और भीड़ हिंसा की घटनाएं फिर सिर उठा रही हैं। अल्पसंख्यकों पर हमले बढ़ रहे हैं। सरकार इसे रोकने में विफल है। लोकसभा चुनाव बाद 18 जून को अलीगढ़ में फरीद उर्फ औरंगजेब की भीड़ हत्या (मोब लिंचिंग) हुई थी। बुलंदशहर की ताजा घटना ने दिखाया है कि पुलिस प्रशासन का संरक्षण किसे है। पीड़ित भाइयों पर दोहरा अन्याय हुआ है। सरकार उनका उचित इलाज कराए और उनके खिलाफ दर्ज मुकदमा रद्द हो। ऐसा करने वाले पुलिसकर्मियों के खिलाफ कार्रवाई हो। घटना की निष्पक्ष जांच कर असल दोषियों को सजा दी जाए।</p>\r\n' +
+    '<p>रिपोर्ट के अनुसार, 30 जून को दोनों भाई सामान वापस करने दुकान पर गए थे। दुकानदार के मना करने पर भाइयों ने विरोध किया। बहस के बाद जमा हुई भीड़ ने हिंसा की। बर्बर पिटाई का वीडियो भी सामने आया है।</p>\r\n' +
+    '<p></p>',
+  storyimage1: 'Youth-victims-of-mob-violence-in-Bulandshahr-should-get-justice-CPI-ML-638556444438015000.webp',
+  videos: '',
+  tags: 'Youth victims of mob violence in Bulandshahr, बुलंदशहर में भीड़ हिंसा ',
+  redirectURL: 'Youth-victims-of-mob-violence-in-Bulandshahr-should-get-justice-CPI-ML',
+  englishurl: 'UP News',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Youth victims of mob violence in Bulandshahr, बुलंदशहर में भीड़ हिंसा ',
+  catname: 'यूपी समाचार',
+  catID: 43,
+  canonicalUrl: 'Youth-victims-of-mob-violence-in-Bulandshahr-should-get-justice-CPI-ML',
+  createdDate: 'July 03, 2024, 11:00 PM',
+  updatedDate: null,
+  iframeContent: '&lt;iframe width="866" height="487" src="https://www.youtube.com/embed/EZHgLdOjBuk" title="Din bhar ki khabar | news of the day, Hindi news India | Rahul Bharat jodo nyay yatra | #hastakshep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;',
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 42330,
+      storyheading: 'फ़िलिस्तीन की मुक्ति का स्वप्न और स्वप्न को पूरा करने की ताक़त हैं ग़सान कनाफ़ानी का लेखन',
+      storysubheading: 'Biography of Ghassan Fayiz Kanafani in Hindi',
+      englishurl: 'news-2',
+      redirectURL: 'Biography-of-Ghassan-Fayiz-Kanafani-in-Hindi',
+      category_type: '1',
+      storyImage1: 'Biography-of-Ghassan-Fayiz-Kanafani-in-Hindi-638571881908342898.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: "ग़सान कनाफ़ानी का लेखन, ग़स्सान कनाफ़ानी का जीवन परिचय, Ghassan Fayiz Kanafani's biography in Hindi, ",
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 34240,
+      storyheading: 'मनुष्य मात्र की गरिमा के प्रवक्ता महान विचारक कार्ल मार्क्स',
+      storysubheading: 'A Brief Biography of Karl Marx in Hindi',
+      englishurl: 'business-and-economics',
+      redirectURL: 'A-Brief-Biography-of-Karl-Marx-in-Hindi',
+      category_type: '1',
+      storyImage1: 'A-Brief-Biography-of-Karl-Marx-in-Hindi-638504533691383271.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'कार्ल मार्क्स की जीवनी, Karl Marx Biography in Hindi, A Brief Biography of Karl Marx in Hindi',
+      category_name: 'व्यापार व अर्थशास्त्र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 33237,
+      storyheading: 'मधु लिमये : लोकतांत्रिक समाजवादी आंदोलन के करिश्माई नेता',
+      storysubheading: 'Madhu Limaye charismatic leader of the democratic socialist movement',
+      englishurl: 'opinion',
+      redirectURL: 'Madhu-Limaye-charismatic-leader-of-the-democratic-socialist-movement',
+      category_type: '1',
+      storyImage1: 'Madhu-Limaye-charismatic-leader-of-the-democratic-socialist-movement-638501102554784496.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'मधु लिमये की जीवनी Madhu Limaye Biography in Hindi',
+      category_name: 'हस्तक्षेप',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 30197,
+      storyheading: 'यह कवि का नहीं, चार कौओं का दिन है वाले भवानी प्रसाद मिश्र',
+      storysubheading: 'Biography of Bhavani Prasad Mishra in Hindi',
+      englishurl: 'literature',
+      redirectURL: 'Biography-of-Bhavani-Prasad-Mishra-in-Hindi',
+      category_type: '1',
+      storyImage1: 'Biography-of-Bhavani-Prasad-Mishra-in-Hindi-638473084105041117.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Biography of Bhavani Prasad Mishra in Hindi',
+      category_name: 'शब्द',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'देशबन्धु',
+  category_type: 1,
+  storyID: 43359,
+  authorID: 21,
+  author_enname: 'deshdel',
+  author_image: 'Deshbandhu.jpg',
+  storydate: '2024-08-17 21:55:13',
+  storyheading: 'गुलज़ार :जिंदगी से हैरान एक मैकेनिक जो बन गया महान गीतकार',
+  storysubheading: 'Gulzar biography in Hindi',
+  storysynopsis: 'Gulzar Biography in Hindi. गुलज़ार: एक मैकेनिक से बन गए महान गीतकार, जानें उनके जीवन की प्रेरणादायक कहानी',
+  fullstory: '<h2 style="text-align: justify;"><strong style="font-size: large;">गुलज़ार: एक मैकेनिक से बन गए महान गीतकार</strong><strong style="font-size: large;">, </strong><strong style="font-size: large;">जानें उनके जीवन की प्रेरणादायक कहानी</strong></h2>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>गुलज़ार</strong><strong>, </strong><strong>जिनका जन्म </strong><strong>18 </strong><strong>अगस्त </strong><strong>1934 </strong><strong>को पाकिस्तान के&nbsp;</strong><strong>पंजाब में हुआ</strong><strong>, </strong><strong>ने अपनी साहित्यिक और फिल्मी यात्रा से हर दिल को छू लिया। एक समय में गैराज में काम करने वाले गुलज़ार ने मुंबई आकर बॉलीवुड में अपनी गहरी छाप छोड़ी। इस लेख में जानें गुलज़ार की जीवन यात्रा कैसी रही</strong><strong>, </strong><strong>गुलज़ार के प्रसिद्ध गीत</strong><strong>, </strong><strong>और उनके नाम का मतलब</strong><strong>, </strong><strong>जो शब्दों की खुशबू से भरपूर है।</strong></span></p>\r\n' +
+    `<p style="text-align: justify;"><span style="font-size: large;">नई दिल्ली, 17 अगस्त (देशबन्धु)। 'दांत से रेशमी डोर कटती नहीं, दिल तो बच्चा है जी'... 90 साल की उम्र में भी ऐसी लाइन लिखने वाले गुलज़ार ही हो सकते हैं। जिनके हर गाने में रूमानी अहसास होता है। गुलज़ार को शब्दों का जादूगर भी कहा जाता है, जिनके लिखे गाने होठों के रास्ते न जाने कब दिल की गहराइयों में उतर जाते हैं, पता ही नहीं चल सकता।&nbsp;</span></p>\r\n` +
+    '<h3 style="text-align: justify;"><span style="font-size: large;"><strong>गुलज़ार का जन्म कहां हुआ </strong><strong>?</strong></span></h3>\r\n' +
+    `<p style="text-align: justify;"><span style="font-size: large;">18 अगस्त 1934 को पंजाब (अब पाकिस्तान) में झेलम जिले के दीना गांव में पैदा हुए गुलज़ार ने कभी नहीं सोचा था कि उन्हें किस्मत बंबई (अब मुंबई) लेकर आएगी। लेकिन, 'किस्मत का कनेक्शन' ऐसा रहा कि उन्होंने बॉलीवुड में बड़ा नाम कमाया। हॉलीवुड तक उनकी क़लम की गूंज सुनाई देती है। सफर में कई पड़ाव आए लेकिन जो हासिल किया वो लाजवाब रहा। तो आइए देखते हैं कैसी रही संपूरण सिंह कालरा से गुलज़ार बनने की जिंदगी।</span></p>\r\n` +
+    '<h4 style="text-align: justify;"><span style="font-size: large;"><strong>गुलज़ार की जीवनी</strong><strong> (Gulzar biography in Hindi)</strong></span></h4>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">मशहूर कवि, लेखक, गीतकार और स्क्रीन राइटर गुलज़ार किसी पहचान के मोहताज़ नहीं हैं। 1947 में बंटवारे के बाद गुलज़ार का परिवार भारत आ गया। परिवार ने अमृतसर में आशियाना बनाया।</span></p>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">गुलज़ार के पिता का नाम माखन सिंह कालरा और मां का नाम सुजान कौर था। गुलजार जब छोटे थे तभी उनकी मां दुनिया से रुखसत हो गईं। उनके हिस्से में पिता का प्यार भी नहीं आया। बचपन से लिखने-पढ़ने का शौक था तो संपूरण सिंह ने अपने खालीपन को शब्दों से भरना शुरू कर दिया। एक वक्त आया, जब गुलज़ार ने सपनों की नगरी मुंबई का रुख किया और वहीं के होकर रह गए।</span></p>\r\n' +
+    '<h5 style="text-align: justify;"><span style="font-size: large;"><strong>गुलज़ार के फिल्मी करियर की शुरुआत कैसे हुई </strong><strong>?</strong></span></h5>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">कई मीडिया रिपोर्ट्स में गुलज़ार के मुंबई में आने और संघर्षों का ज़िक्र है। कहा तो यहां तक जाता है कि मुंबई आने के बाद गुलज़ार ने गैराज में काम करना शुरू किया। खाली समय में कविताएं लिखने में जुट जाते थे। उनके फिल्मी करियर की शुरुआत 1961 में विमल रॉय के असिस्टेंट के रूप में हुई।</span></p>\r\n' +
+    `<p style="text-align: justify;"><span style="font-size: large;">गुलज़ार ने ऋषिकेश मुखर्जी और हेमंत कुमार के साथ भी काम किया था। इसी बीच उन्हें 'बंदिनी' फिल्म में गीत (लिरिक्स) लिखने का मौका मिला। इसके बाद गुलज़ार ने पीछे मुड़कर नहीं देखा।</span></p>\r\n` +
+    '<p style="text-align: justify;"><span style="font-size: large;"><strong>क्या आप जानते हैं सुप्रसिद्ध गीतकार गुलजार का असली नाम क्या है</strong><strong>?</strong></span></p>\r\n' +
+    `<p style="text-align: justify;"><span style="font-size: large;"><strong>संपूरण सिंह कालरा के गुलज़ार बनने की कहानी</strong> भी बेहद दिलचस्प है। फिल्मी दुनिया में कदम रखने से पहले संपूरण सिंह कालरा ने अपना नाम 'गुलज़ार दीनवी' कर लिया था। उनका परिवार दीना गांव (अब पाकिस्तान) से था। उन्होंने अपने नए नाम गुलज़ार में 'दीनवी' भी जोड़ लिया। वक्त गुज़रा तो उन्होंने अपने नाम से 'दीनवी' को विदाई दे दी और सिर्फ गुलज़ार होकर रह गए।</span></p>\r\n` +
+    '<h6 style="text-align: justify;"><span style="font-size: large;"><strong>गुलज़ार का क्या मतलब होता है</strong><strong>?</strong></span></h6>\r\n' +
+    '<p style="text-align: justify;"><span style="font-size: large;">गुलज़ार का मतलब होता है, जहां गुलाबों या फूलों (गुलों) का बगीचा हो। हकीकत में गुलज़ार ने अपने नाम के मतलब के लिहाज से हर गीत लिखे, जिसमें शब्दों की बेइंतहा खुशबू शामिल रहती है।</span></p>\r\n' +
+    `<p style="text-align: justify;"><span style="font-size: large;">निर्देशक बिमल रॉय के साथ काम करने के दौरान ही गुलज़ार की मुलाकात आरडी बर्मन से हुई। गुलज़ार ने गीत लिखने के साथ फिल्मों का निर्देशन भी किया। उन्होंने 'आंधी', 'किरदार', 'मौसम', 'नमकीन', 'लिबास', 'हूतूतू' जैसी फिल्मों का निर्देशन किया। छोटे पर्दे के लिए भी 'मिर्ज़ा गालिब' जैसे सीरियल का डायरेक्शन किया।</span></p>\r\n` +
+    `<p style="text-align: justify;"><span style="font-size: large;">गुलज़ार की 'माचिस' फिल्म ने दुनिया को दिखा दिया कि उन्हें शब्दों का जादूगर ऐसे ही नहीं कहा जाता! गुलज़ार को फिल्म फेयर, साहित्य अकादमी, पद्म भूषण, ग्रैमी, दादा साहब फाल्के से लेकर ऑस्कर अवॉर्ड तक मिल चुके हैं।</span></p>\r\n` +
+    `<p style="text-align: justify;"><span style="font-size: large;">अपने करियर में गुलज़ार ने कई गाने लिखे। जिनमें 'तुझसे नाराज़ नहीं ज़िंदगी', 'तेरे बिना ज़िंदगी से कोई शिक़वा तो नहीं', 'आने वाला पल जाने वाला है', 'मुसाफ़िर हूं यारो', 'हजार राहें', 'मेरा कुछ सामान', 'साथिया', 'जय हो', 'कजरारे-कजरारे' जैसे कई गाने शुमार हैं।</span></p>\r\n` +
+    '<p style="text-align: justify;"><span style="font-size: large;">गुलज़ार की निजी ज़िंदगी सफल नहीं मानी जा सकती है। उन्होंने 1973 में अभिनेत्री राखी से शादी की। लेकिन, दोनों का रिश्ता एक साल के भीतर टूट गया। दोनों अलग-अलग रहने लगे। लेकिन, आज तक एक-दूसरे को तलाक नहीं दिया। दोनों की एक बेटी है, जिनका नाम है मेघना गुलज़ार। मेघना अपने माता-पिता की तरह बॉलीवुड में बड़ा नाम हैं। मेघना डायरेक्टर हैं, जिनकी फिल्में खूब तारीफ बटोरती हैं। गुलज़ार इन्हें प्यार से बोस्की पुकारते हैं।</span></p>\r\n' +
+    `<p style="text-align: justify;"><span style="font-size: large;">गुलज़ार आज भी लिख रहे हैं। गीत, कविता, शेरो-शायरी, हर फन में गुलज़ार के शब्दों का सफर जारी है। जैसे गुलज़ार कहना चाहते हैं, '<strong>तुझसे नाराज नहीं जिंदगी</strong><strong>, </strong><strong>हैरान हूं मैं</strong><strong>, </strong><strong>तेरे मासूम सवालों से परेशान हूं मैं&hellip;।</strong>'</span></p>\r\n` +
+    '<p style="text-align: justify;"><span style="font-size: large;">&nbsp;</span></p>',
+  storyimage1: 'Gulzar-638595285131552000.webp',
+  videos: '',
+  tags: 'Gulzar biography in Hindi,गुलज़ार की जीवनी, गुलज़ार जीवनी, गुलज़ार की कहानी, गुलज़ार का जीवन, गुलज़ार के गीत, गुलज़ार की फिल्में, गुलज़ार की प्रेरणा, गुलज़ार का असली नाम, गुलज़ार और राखी, गुलज़ार का नाम का मतलब, गुलज़ार की उपलब्धियां, गुलज़ार की बेटी, मेघना गुलज़ार',
+  redirectURL: 'Gulzar-biography-in-Hindi',
+  englishurl: 'entertainment-and-bollywood',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Gulzar biography in Hindi,गुलज़ार की जीवनी, गुलज़ार जीवनी, गुलज़ार की कहानी, गुलज़ार का जीवन, गुलज़ार के गीत, गुलज़ार की फिल्में, गुलज़ार की प्रेरणा, गुलज़ार का असली नाम, गुलज़ार और राखी, गुलज़ार का नाम का मतलब, गुलज़ार की उपलब्धियां, गुलज़ार की बेटी, मेघना गुलज़ार',
+  catname: 'मनोरंजन',
+  catID: 86,
+  canonicalUrl: 'Gulzar-biography-in-Hindi',
+  createdDate: 'August 17, 2024, 09:55 PM',
+  updatedDate: 'August 17, 2024, 10:21 PM',
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 43360,
+      storyheading: 'अखिलेश यादव ने लेटरल एंट्री के खिलाफ शुरू किया विरोध अभियान',
+      storysubheading: 'Akhilesh Yadav blew the trumpet against lateral entry',
+      englishurl: 'news-2',
+      redirectURL: 'Akhilesh-Yadav-blew-the-trumpet-against-lateral-entry',
+      category_type: '1',
+      storyImage1: 'Akhilesh-Yadav-blew-the-trumpet-against-lateral-entry-638595851802017423.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'अखिलेश यादव लेटरल एंट्री पर, मोदी सरकार लेटरल एंट्री, यूपीएससी भर्ती लेटरल एंट्री, लेटरल एंट्री विरोध, समाजवादी पार्टी लेटरल एंट्री, सरकारी नौकरशाही, डोमेन एक्सपर्ट्स, सरकारी भर्ती विवाद',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29846,
+      storyheading: 'पूंजीवाद में बदल गया है अखिलेश यादव का समाजवाद',
+      storysubheading: 'akhilesh-yadavs-socialism-has-turned-into-capitalism',
+      englishurl: 'national',
+      redirectURL: 'akhilesh-yadavs-socialism-has-turned-into-capitalism',
+      category_type: '1',
+      storyImage1: 'Vqps6Wh1FNaDT0AB5lYu.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'अखिलेश यादव, akhilesh-yaadv, समाजवाद, smaajvaad, समाजवादी पार्टी, smaajvaadii-paarttii',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29336,
+      storyheading: 'भाजपा को मजबूत करने के लिए संघ के इशारे पर शूद्र राजनीति का झुनझुना बजा रहे हैं अखिलेश यादव',
+      storysubheading: 'to-strengthen-the-bjp-akhilesh-yadav-is-playing-the-tune-of-shudra-politics-at-the-behest-of-the-sangh',
+      englishurl: 'aapki najar',
+      redirectURL: 'to-strengthen-the-bjp-akhilesh-yadav-is-playing-the-tune-of-shudra-politics-at-the-behest-of-the-sangh',
+      category_type: '1',
+      storyImage1: 'x2zzTCx2S4OP8Dhz3DTC.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'अखिलेश यादव का संकट, akhilesh-yaadv-kaa-snktt, अखिलेश यादव, akhilesh-yaadv, समाजवादी पार्टी, smaajvaadii-paarttii',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28324,
+      storyheading: 'नेतृत्वविहीन हुई सपा कंपनी, सांसदों से अखिलेश यादव ने कहा जिस को जहां जाना हो जाये',
+      storysubheading: 'samajwadi-party-without-leadership',
+      englishurl: 'national',
+      redirectURL: 'samajwadi-party-without-leadership',
+      category_type: '1',
+      storyImage1: 'mLcpl40BrTPfFR8XHme1.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Akhilesh Yadav, akhilesh-yadav, Ram Gopal Yadav, ram-gopal-yadav, अखिलेश यादव, akhilesh-yaadv, रामगोपाल यादव, raamgopaal-yaadv, समाजवादी पार्टी के राष्ट्रीय अध्यक्ष, smaajvaadii-paarttii-ke-raassttriiy-adhykss',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'Guest-writer',
+  category_type: 1,
+  storyID: 6982,
+  authorID: 30,
+  author_enname: 'guest-writer',
+  author_image: 'Arun-Maheshwari.jpg',
+  storydate: 'Dec 26 2022  6:30PM',
+  storyheading: 'ओबीसी का आरक्षण नहीं बचा सकते अखिलेश यादव, भाजपा शातिराना ढंग से समाप्त कर रही ओबीसी आरक्षण',
+  storysubheading: 'akhilesh-yadav-cannot-save-obc-reservation-bjp-is-ending-obc-reservation-in-a-clever-way',
+  storysynopsis: 'क्या ओबीसी आरक्षण रद्द होने का योगी सरकार को कोई नुकसान होगा? भाजपा मंडल पॉलिटिक्स को मुर्दाघाट पहुंचाने के लिए बहुत ठंडे दिमाग से काम कर रही है. अखिलेश यादव ओबीसी का आरक्षण नहीं बचा सकते.',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>योगी आदित्यनाथ सरकार द्वारा उत्तर प्रदेश के नगर निकाय चुनाव में अन्य पिछड़ा वर्ग को जो आरक्षण दिया गया था उस अधिसूचना को इलाहाबाद उच्च न्यायालय ने रद्द कर दिया है. इस तरह से अन्य पिछड़ा वर्ग के लिए अब इस चुनाव में सीट शून्य हो गई है.</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अदालत ने अपने आदेश में जो लिखा है उसका कुल सार यह है कि योगी सरकार ने <strong><a href="https://www.hastakshep.com/ews-means-upper-caste-reservation-the-worlds-largest-ineligible-became-eligible-for-reservation/" data-type="post" data-id="29809" target="_blank" rel="noreferrer noopener">ओबीसी वर्ग को आरक्षण</a></strong> देने की बुनियादी शर्तों का पालन नहीं किया है और इसलिए <strong>नगर निकाय चुनाव में ओबीसी समुदाय को दिए गए आरक्षण</strong> को शून्य घोषित किया जाता है.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>एक तरह से योगी आदित्यनाथ सरकार ने ओबीसी को दिये गये आरक्षण के पक्ष में कोई मजबूत दलील नहीं दी और खुद को ओबीसी हितैषी दिखाते हुए भी ओबीसी समुदाय का भयानक नुकसान कर दिया.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    "<p>दरअसल योगी आदित्यनाथ सरकार जो काम खुद नहीं करना चाहती वह प्रकारान्तर से अदालत के माध्यम से उत्तर प्रदेश में करवा दे रही है. यहां भी यही 'खेल' किया गया है.</p></p>\n" +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>क्या ओबीसी आरक्षण रद्द होने का योगी सरकार को कोई नुकसान होगा</strong><strong>?</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अब अहम बुनियादी सवाल यह है कि उत्तर प्रदेश के राजनीतिक परिदृश्य में इस फैसले का राजनीतिक असर क्या होगा? क्या योगी सरकार को इस फैसले का कोई नुकसान होगा?</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    "<p>इसका जवाब 'हां' में तब होगा जब योगी सरकार के खिलाफ पिछड़े समुदाय की राजनीति करने वाले दल इस फैसले के खिलाफ सरकार को घेरने की कोशिश करें. सरकार को नए सिरे से ओबीसी आरक्षण जारी करने के लिए मजबूर करें.</p></p>\n" +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>यह काम फिलहाल <strong><a href="https://www.hastakshep.com/akhilesh-yadav-made-a-deal-with-the-muslims-of-rampur-in-exchange-for-mainpuri-shahnawaz-alam/" data-type="post" data-id="30572" target="_blank" rel="noreferrer noopener">अखिलेश यादव</a></strong> और <strong><a href="https://www.hastakshep.com/akhilesh-yadavs-socialism-has-turned-into-capitalism/" data-type="post" data-id="24329" target="_blank" rel="noreferrer noopener">ओमप्रकाश राजभर</a></strong> को करना चाहिए. लेकिन, मौजूदा सियासी हालात में उत्तर प्रदेश में इन दोनों दलों के लिए सड़क पर उतरने की हिम्मत कर पाना संभव नहीं है. काँग्रेस अभी भारत जोड़ो यात्रा में व्यस्त है, लेकिन इसके बावजूद उसने इस फैसले के खिलाफ अपना पक्ष रखा है.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मेरी समझ में <strong><a href="https://www.hastakshep.com/yogi-adityanaths-wings-are-not-being-clipped/" data-type="post" data-id="15783" target="_blank" rel="noreferrer noopener">योगी आदित्यनाथ</a></strong> को इस अदालती फैसले से कोई नुकसान नहीं होगा. आज जो अति पिछड़ी जातियां भाजपा के साथ खड़ी है उनके यहां कोई मजबूत मिडिल क्लास ही नहीं है. इसलिए वह चुनाव नहीं लड़ पाती हैं. फिर निकाय चुनाव में आरक्षण रहे या नहीं रहे उन्हें कोई फर्क नहीं पड़ता है. वह सिर्फ वोटर हैं. इससे आगे वह फिलहाल सोच पाने की स्थिति में नहीं है.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस समय प्रदेश में केवल पटेल (कुर्मी) और यादव ही एक मजबूत ओबीसी जातियाँ हैं, जो निकाय चुनाव मजबूती से लड़ सकती हैं. बाकी अति पिछड़ा ओबीसी पूरी तरह से सिर्फ और सिर्फ वोटर है.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस समय यादव और कुर्मी के बीच ओबीसी की झंडाबरदारी को लेकर बहुत भयानक शीत युद्ध चल रहा है. जिसे आप वर्चस्व की जंग समझ सकते हैं. यादव अखिलेश के साथ हैं और कुर्मी खुलकर भाजपा-संघ के साथ खड़े हैं.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अब यादवों को चिढ़ाने के लिए कुर्मी समुदाय इस फैसले के खिलाफ नहीं जाएगा. इसलिए फिलहाल योगी आदित्यनाथ सरकार को कोई नुकसान नहीं होगा. यादव सड़क पर तब उतरेगा जब अखिलेश यादव अपना नफा नुकसान किनारे रखकर सड़क पर उतरेंगे. ऐसा होने से रहा.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>मेरे कहने का मतलब यह है कि ओबीसी समुदाय की जो मजबूत जातियां हैं उनमें ही आपस में इतना विरोधाभास और अविश्वास है कि वह अपना यह आरक्षण बचाने के लिए ना तो एकजुट हो सकती हैं और ना ही इसे बचा सकती हैं.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>कुल मिलाकर भाजपा मंडल पॉलिटिक्स को मुर्दाघाट पहुंचाने के लिए बहुत ठंडे दिमाग से काम कर रही है. अखिलेश यादव ओबीसी का आरक्षण नहीं बचा सकते.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"textColor":"vivid-red","fontSize":"large"} --></p>\n' +
+    '<p class="has-vivid-red-color has-text-color has-large-font-size"><strong>हरे राम मिश्र</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>लेखक स्वतंत्र टिप्पणीकार हैं।</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:embed {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/SB9arJqHlzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/SB9arJqHlzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '<figcaption><strong>Bharat Jodo Yatra : राहुल गांधी ने बीजेपी की बोलती बंद कर दी | Breaking news | hastakshep</strong></figcaption></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:embed --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>Akhilesh Yadav cannot save OBC reservation, BJP is ending OBC reservation in a clever way</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n',
+  storyimage1: 'XSYWlsD0De72rKdsClEz.jpg',
+  videos: null,
+  tags: 'अखिलेश यादव, akhilesh-yaadv, ओमप्रकाश राजभर, omprkaash-raajbhr, योगी आदित्यनाथ, yogii-aaditynaath',
+  redirectURL: 'akhilesh-yadav-cannot-save-obc-reservation-bjp-is-ending-obc-reservation-in-a-clever-way',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'अखिलेश यादव, akhilesh-yaadv, ओमप्रकाश राजभर, omprkaash-raajbhr, योगी आदित्यनाथ, yogii-aaditynaath',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'akhilesh-yadav-cannot-save-obc-reservation-bjp-is-ending-obc-reservation-in-a-clever-way',
+  createdDate: 'December 26, 2022, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 28651,
+      storyheading: 'आपदा बना कारपोरेट लूट का अवसर : योजनाबद्ध नरसंहार है यह, मजदूरों के बाद आदिवासियों और शरणार्थियों, पहाड़ियों का नम्बर',
+      storysubheading: 'genocide-without-resistance',
+      englishurl: 'aapki najar',
+      redirectURL: 'genocide-without-resistance',
+      category_type: '1',
+      storyImage1: 'T7ywu5apHm27c8JKZg39.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Corporate Raj, corporate-raj, lockdown, lockdown, कॉरपोरेट राज, konrporett-raaj, दुर्घटनाएं, durghttnaaen, मासिक धर्म, maasik-dhrm, राष्ट्रवाद, raassttrvaad, लॉकडाउन, lonkddaaun',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28613,
+      storyheading: 'मेहनतकश जनता का कत्लेआम, पर केसरिया कारपोरेट राष्ट्र के एजंडे सबसे टॉप पर',
+      storysubheading: 'parliament-approval-for-labor-reforms',
+      englishurl: 'news-2',
+      redirectURL: 'parliament-approval-for-labor-reforms',
+      category_type: '1',
+      storyImage1: 'GKT5UwA9nROuEb2pKTXC.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Corporate lobbying, corporate-lobbying, Labor Law Amendment Bill 2014, labor-law-amendment-bill-2014, श्रम विधि संशोधन विधेयक 2014, shrm-vidhi-snshodhn-vidheyk-2014',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 26103,
+      storyheading: 'संघ परिवार ने स्वीकार कर लिया है कि सांस्कृतिक राष्ट्रवाद का कमल मोदी के नेतृत्व में भ्रष्ट और अश्लील पूंजीवाद के कीचड़ में खिलता है',
+      storysubheading: 'narendra-modi-investigating-eligibility',
+      englishurl: 'opinion-english',
+      redirectURL: 'narendra-modi-investigating-eligibility',
+      category_type: '1',
+      storyImage1: 'fUXBuDMss87vS2R7SnnH.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Bharatiya Janata Party, bharatiya-janata-party, BJP, bjp, Corporate houses, corporate-houses, Eligibility of Narendra Modi, eligibility-of-narendra-modi, Lok Sabha Elections 2019, lok-sabha-elections-2019, Narendra Modi, narendra-modi, RSS / BJP, rss-bjp, Team Modi, team-modi, नरेंद्र मोदी की पात्रता, nrendr-modii-kii-paatrtaa, नरेंद्र मोदी, nrendr-modii, नागपुर, naagpur, भारतीय जनता पार्टी, bhaartiiy-jntaa-paarttii, राष्ट्रवाद, raassttrvaad, लोकसभा चुनाव 2019, loksbhaa-cunaav-2019, विजय माल्या, vijy-maalyaa',
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 24023,
+      storyheading: 'कॉरपोरेट के सामने मोदी जी की सारी हेकड़ी ढीली हो गई, चाबुक सिर्फ गरीब पर',
+      storysubheading: 'income-tax-finishes-on-corporate',
+      englishurl: 'news-2',
+      redirectURL: 'income-tax-finishes-on-corporate',
+      category_type: '1',
+      storyImage1: 'AaiKJhkjNFDFjUzUkJXd.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Corporate, corporate, income tax, income-tax, आयकर, aaykr, कॉरपोरेट, konrporett',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 817,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Apr 11 2020  6:30PM',
+  storyheading: 'बैंक कॉर्पोरेट की ठगी की कीमत चुकाते गरीब खाताधारक',
+  storysubheading: 'poor-account-holders-paying-the-price-of-bank-corporate-fraud',
+  storysynopsis: 'बैंक कॉर्पोरेट की ठगी की कीमत चुकाते गरीब खाताधारक',
+  fullstory: '<h2>Poor account holders paying the price of bank corporate fraud</h2></p>\n' +
+    '<p><strong>NO BANK CHARGES:</strong> यह जमाकर्ताओं का पैसा है जो कि बैंक ऋण देने के लिए उपयोग करते हैं और उधारकर्ताओं से उन ऋणों पर ब्याज कमाते हैं। लेकिन अब बैंकों ने बैंक शुल्क के रूप में जमाकर्ताओं से ही शुल्क लेना शुरू कर दिया है।</p>\n' +
+    '<p> </p>\n' +
+    '<p><caption id="attachment_3325" align="alignleft" width="600"><img class="size-large wp-image-3325" src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/Qyw9nf7UCUFyY6lvtlyb.jpg" alt="Cartoon by K.P.Sasi No bank charges 3" width="600" height="433" /> <strong>Cartoon by K.P.Sasi</strong></caption></p>\n' +
+    '<p>बैंकों में जमा लोगों की बचत बैंकों की पूंजी का निर्माण करती है जो कि बैंक उधारकर्ताओं को देते हैं। बैंक उधारकर्ताओं को जारी किए गए ऋण पर ब्याज कमाते हैं। बैंक की व्यवस्था और संचालन मे होने वाले सभी खर्च इन कर्ज़ो पर लगे ब्याज अथवा जमकर्ताओं के पूंजी से आते हैं।</p>\n' +
+    '<p>बचत खाता जमाकर्ताओं को अपनी बचत पर ब्याज मिलता है, और उधारकर्ता बैंकों से लिए गए उधार धन पर ब्याज का भुगतान करते हैं। इन दो ब्याज दरों के बीच का अंतर बैंकों की आय का मुख्य स्रोत है। उधार एवं बचत (जो बैंक जमाकर्ताओं को देते हैं) पर ब्याज की दर के बीच का जो अंतर है, वह बहुत अधिक है। बैंक आमतौर पर अपने बचत खाताधारकों को 3% से 4% (समय के साथ लगातार कम होते ) का ब्याज देते हैं जबकि ऋणों पर 8% से 14% (कुछ मामलों में अधिक) के बीच चार्ज करते हैं। उधार और जमा राशि पर  लगे ब्याज दरों के बीच के अंतर से जो रकम बनती है उससे बैंकों ने हमेशा मुनाफा कमाया है।</p>\n' +
+    '<p>चूंकि, बैंक ऋण देने के लिए जमा की गई बचत राशि का उपयोग करते है, इसलिए बैंक बचत की जमा राशि के बगैर नहीं चल पाएंगे । लेकिन जब बैंकों ने कॉरपोरेट्स को दिये किए गए कर्ज़ो की वजह से नुकसान उठाना शुरू कर दिया क्योकि उन्हें ब्याज मिलना तो दूर, मूल राशि भी वापस मिलना कठिन हो गई, तब बैंकों ने इसकी भरपाई के लिए बचत खाताधारकों से बैंक खाता रखने और बैंकिंग सेवाओं का लाभ उठाने के नाम पे चार्ज के रूप मे उनको दंडित करना शुरू कर दिया । जमकर्ता शुल्क का भुगतान प्रत्येक बैंकिंग लेनदेन के लिए, यहा तक की न्यूनतम राशि न बनाए रखने के लिए भी कर रहे हैं । आम बैंकिंग सेवाएं जैसे कि नकद निकासी और बैंक शाखाओं और एटीएम पे नकद जमा, एसएमएस अलर्ट सेवा, डेबिट कार्ड का उपयोग, एटीएम से शेष राशि की पूछताछ आदि पर भी चार्ज लिया जा रहा हैं । इससे पहले बचत खाताधारकों के लिए ऐसी मूल सेवाओं पर कोई चार्ज नहीं था।</p>\n' +
+    '<p>इसलिए , बैंक खाते जो बैंकों को ऋण देने के लिए धन प्रदान करते हैं और लोगों के लिए अपना पैसा रखने का एक सुरक्षित विकल्प था, अब उन्ही लोगों से ज़्यादा से ज़्यादा मुनाफा कमाने का एक माध्यम बन गया है।</p>\n' +
+    '<p><strong>People with small savings are paying large amount to avail banking services, while people with big savings are being given all banking services for free.</strong></p>\n' +
+    '<p>इसके अतिरिक्त, बैंक अपने खातों में कम पैसे वाले ग्राहकों के साथ शोषण करते  हैं। छोटी बचत वाले लोग बैंकिंग सेवाओं का लाभ उठाने के लिए बड़ी राशि का भुगतान कर रहे हैं, जबकि बड़ी बचत वाले लोगों को सभी बैंकिंग सेवाएं मुफ्त में दी जा रही हैं।</p>\n' +
+    '<p>‘नो बैंक चार्जेस’ अभियान यह मांग करता है कि भारतीय रिज़र्व बैंक (RBI) और सरकार को कार्रवाई करनी चाहिए और कॉरपोरेट ऋणों से होने वाले नुकसान की भरपाई के लिए बैंकों द्वारा बचत खाताधारकों से लिए जा रहे शुल्क को तुरंत बंद करवाना चाहिए।</p>\n' +
+    '<p>बैंक शुल्क हटाने की मांग करने के लिए, अपने बैंक, भारतीय रिज़र्व बैंक और वित्त मंत्री को <a rel="nofollow" href="http://www.fanindia.net">www.fanindia.net</a>   द्वारा ईमेल भेजें</p>\n' +
+    '<p>‘नो बैंक चार्जेस’ अभियान से जुड़े</p>\n' +
+    '<p>इसके बारे में अधिक जानकारी के लिए, संपर्क करे <a rel="nofollow" href="http://www.fanindia.net">www.fanindia.net</a></p>\n' +
+    '<p><span style="color: #ff0000;"><strong>आशीष</strong> <strong>कजला</strong> <strong>एवं</strong> <strong>शिवानी</strong> <strong>द्विवेदी</strong></span></p>\n' +
+    '<p><iframe src="https://www.youtube.com/embed/33EIMtznnqM" width="946" height="532" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>\n',
+  storyimage1: 'VsnQFk7GOYoUuzKCbYGr.jpg',
+  videos: null,
+  tags: 'bank corporate fraud, bank-corporate-fraud, NO BANK CHARGES, no-bank-charges, Poochta Hai Bharat, poochta-hai-bharat, Poor account holders, poor-account-holders, गरीब खाताधारक, griib-khaataadhaark, पूछता है भारत, puuchtaa-hai-bhaart, बैंक कॉर्पोरेट की ठगी, baink-konrporett-kii-tthgii',
+  redirectURL: 'poor-account-holders-paying-the-price-of-bank-corporate-fraud',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'bank corporate fraud, bank-corporate-fraud, NO BANK CHARGES, no-bank-charges, Poochta Hai Bharat, poochta-hai-bharat, Poor account holders, poor-account-holders, गरीब खाताधारक, griib-khaataadhaark, पूछता है भारत, puuchtaa-hai-bhaart, बैंक कॉर्पोरेट की ठगी, baink-konrporett-kii-tthgii',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'poor-account-holders-paying-the-price-of-bank-corporate-fraud',
+  createdDate: 'April 11, 2020, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}

@@ -1,0 +1,740 @@
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 3988,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'Anganwadi Workers Win Retirement Benefits in Maharashtra',
+  storysubheading: 'anganwadi-workers-win-retirement-benefits-in-maharashtra',
+  storysynopsis: 'Anganwadi Workers Win Retirement Benefits in Maharashtra',
+  fullstory: '<p>6 February 2014, New Delhi: The New Trade Union Initiative congratulates the over 2 lakh members of the Maharashtra Rajya Anganwadi Kruti Samiti for their remarkable victorious struggle of a winning a retirement benefit of Rs.1 lakh and Rs.75,000 to be paid to Anganwadi Workers (AWWs) and Anganwadi Helpers (AWHs) respectively at the end of their service. The Government of Maharashtra made this announcement at the end of cabinet meeting yesterday. This was one of the major demands by the women workers working in Anganwadis who, following this announcement, called off their 31 day long strike and resumed work today. This is perhaps the longest and largest strike of women workers in our country. </p>\n' +
+    '<p>The government has also promised that their second major demand of an increase in their honorarium from the existing Rs. 4050 and Rs. 2000 to AWWs and AWHs respectively will be taken up in the next 15 days. Both these decisions are a major victory for Maharashtra’s Anganwadi workers.</p>\n' +
+    '<p>The 31 day long strike, which began on 6 January 2014 saw AWWs and AWHs across the state holding coordinated state - wide demonstrations at Zilla Parishad and taluka offices in districts along with a sit-in demonstration at Azad Maidan as well as outside the state secretariat in Mumbai.</p>\n' +
+    '<p>Maharashtra’s Anganwadi workers have been struggling for retirement benefits for over a decade. This victory is a tribute to their tenacity and their patience in agitating their demands.<br />\n' +
+    'This victory is an also an important landmark in the struggle of recognition of ‘honorary’ workers whose retirement, the right of every worker, has been ensured in some measure.</p>\n' +
+    '<p>Speaking at the massive rally at Azad Maidan, Mumbai, NTUI Vice President and the President of our affiliate the Maharashtra Rajya Anganwadi Karmachari Sangh said that ‘this victory was possible because of the united struggle of all the trade unions in the joint-action committee and the determination of the militant membership who did not once flinch in taking the meaning of an “indefinite strike” forward in both letter and spirit’. </p>\n' +
+    '<p>NTUI salutes the leaders of all the trade unions and their members in the joint-action committee, Maharashtra Rajya Anganwadi Kruti Samiti for their determination and sustained struggle. Your unity and determination will be a leading inspiration for all the women workers who are fighting for recognition as ‘workers’ across the country.</p>\n' +
+    '<p>With this the NTUI renews the call of its Third General Assembly ‘to build a nation-wide struggle against poverty wages of contract, casual, temporary and ‘honorarium’ workers, trainees and apprentices and all other forms of irregular workers; and … demands a Commission on Wages that advances the principal of the living wage and runs concurrently with the 7th Pay Commission and provides parity with appropriate levels of government employees in both wages and service conditions’. Furthermore, now that the 7th Pay Commission has been constituted, the NTUI calls upon it to examine and address the injustice of not just those employed by government but also those who work for government. </p>\n' +
+    '<p>Gautam Mody<br />\n' +
+    'General Secretary</p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'anganwadi-workers-win-retirement-benefits-in-maharashtra',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'anganwadi-workers-win-retirement-benefits-in-maharashtra',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 28879,
+      storyheading: 'रोहित वेमुला की आत्महत्यानुमा हत्या और समाज का दोहरापन',
+      storysubheading: 'रोहित-वेमुला-की-आत्महत्य-3',
+      englishurl: 'opinion-english',
+      redirectURL: 'रोहित-वेमुला-की-आत्महत्य-3',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: "Ambedkar Students Association, ambedkar-students-association, Dalit Student Organization, dalit-student-organization, Hyderabad Central University, hyderabad-central-university, Rohit Vemula's suicide note, rohit-vemulas-suicide-note, अम्बेडकर स्टूडेंटस एसोसिएशन, ambeddkr-sttuuddentts-esosieshn, दलित छात्र संगठन, dlit-chaatr-sngtthn, रोहित वेमुला का आत्महत्या पत्र, rohit-vemulaa-kaa-aatmhtyaa-ptr, हैदराबाद केंद्रीय विश्वविद्यालय, haidraabaad-kendriiy-vishvvidyaaly",
+      category_name: 'Opinion',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28222,
+      storyheading: 'कोरोना से लड़ने के नाम पर केंद्र सरकार और रेलवे द्वारा खिलवाड़ लगातार जारी',
+      storysubheading: 'continued-messing-by-the-central-government-and-railways-in-the-name-of-fighting-corona',
+      englishurl: 'national',
+      redirectURL: 'continued-messing-by-the-central-government-and-railways-in-the-name-of-fighting-corona',
+      category_type: '1',
+      storyImage1: 'e0hzfBvXv3bxSZiIUhi8.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Central government, central-government, fighting Corona, fighting-corona, Railways, railways, Shailesh Nitin Trivedi, shailesh-nitin-trivedi, डॉक्टरों की नियुक्ति के आदेश, ddonkttron-kii-niyukti-ke-aadesh, रेलवे द्वारा खिलवाड़, relve-dvaaraa-khilvaadddh, शैलेश नितिन त्रिवेदी, shailesh-nitin-trivedii',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 25651,
+      storyheading: 'आयकर रिटर्न फाइल करने की अंतिम तिथि एक महीना बढ़ी, अब 31 अगस्त 2018 तक फाइल कर सकते हैं',
+      storysubheading: 'cbdt-extends-due-date-for-filing-of-income-tax-returns',
+      englishurl: 'national',
+      redirectURL: 'cbdt-extends-due-date-for-filing-of-income-tax-returns',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Central Board of Direct Taxes (CBDT, central-board-of-direct-taxes-cbdt, आयकर रिटर्न फाइल करने की अंतिम तिथि, aaykr-rittrn-phaail-krne-kii-antim-tithi',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 25031,
+      storyheading: 'साफ हुआ आतंकवादी हमले होते नहीं, करवाए जाते हैं - रिहाई मंच',
+      storysubheading: 'pragya-thakur-hemant-karkare',
+      englishurl: 'national',
+      redirectURL: 'pragya-thakur-hemant-karkare',
+      category_type: '1',
+      storyImage1: 'DefaultImageHastakshep.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Hemant Karkare, hemant-karkare, Jaipur Central Jail, jaipur-central-jail, Pragya Thakur, pragya-thakur, Rihai Manch, rihai-manch, आतंकवादी हमले, aatnkvaadii-hmle, जयपुर सेंट्रल जेल, jypur-senttrl-jel, प्रज्ञा ठाकुर, prjnyaa-tthaakur, रिहाई मंच, rihaaii-mnc, हेमंत करकरे, hemnt-krkre',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 24027,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Oct 31 2018  6:30PM',
+  storyheading: 'सतर्कता जागरूकता सप्ताह : "भ्रष्टाचार मिटाओ - नया भारत बनाओ"',
+  storysubheading: 'vigilance-awareness-week',
+  storysynopsis: 'सतर्कता जागरूकता सप्ताह : "भ्रष्टाचार मिटाओ - नया भारत बनाओ"',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><span class="marker"><strong>सतर्कता जागरूकता सप्ताह | </strong></span><strong>Vigilance Awareness Week</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><a href="https://www.hastakshep.com/old/cbi-alok-verma/">केंद्रीय सतर्कता आयोग</a> हर वर्ष <a href="https://www.hastakshep.com/old/congress-targets-prime-minister-narendra-modi/">सतर्कता जागरूकता सप्ताह</a> मनाता है। इस वर्ष यह सप्ताह 29 अक्तूबर से 3 नवम्बर तक मनाया जा रहा है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><span class="marker"><strong>सतर्कता जागरूकता सप्ताह मनाने का उद्देश्य | </strong></span><strong>Objective to celebrate Vigilance Awareness Week</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><a href="https://www.hastakshep.com/old/gangwar-in-cbi/"><strong>सीवीसी</strong></a> के एक परिपत्र के मुताबिक प्रत्येक वर्ष सतर्कता जागरूकता सप्ताह का अनुपालन करना आयोग की बहुआयामी गतिविधियों का भाग है, जिसमें एक महत्वपूर्ण योजना यह है कि भ्रष्टाचार से संघर्ष करने तथा इसका निवारण करने हंतु सभी पणधारियों को सामूहिक रूप से भाग लेने के लिए प्रोत्साहित किया जाए तथा भ्रष्टाचार से उत्पन्न खतरों तथा इसके अस्तित्व, तथा इसकी गम्भीरता के संबंध में जन जागरूकता बढ़ाई जाए।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस वर्ष  सतर्कता जागरूकता सप्ताह <strong>"भ्रष्टाचार मिटाओ - नया भारत बनाओ" </strong>विषय पर मनाया जा रहा है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>भ्रष्टाचार क्या है | </strong><span class="marker"><strong>What is corruption</strong></span></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">सीवीसी के परिपत्र के अनुसार, फ्राधिकारी का दायित्व सौंपे गए किसी व्यक्ति द्वारा स्वयं के लिए या  किसी अन्य व्यक्ति के लिए लाभ प्राप्त करने हेतु बेईमान अथवा अनैतिक आचरण किए जाने को भ्रष्टाचार के रूप में  परिभाषित किया जा सकता है। यह एक वैश्विक प्रवृत्ति है, जो समाज के प्रत्येक स्तर को किसी न किसी रूप में प्रभावित कर रही है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><span class="marker"><strong>भ्रष्टाचार के खिलाफ जागरूकता क्यों जरूरी  | </strong></span><strong>Why Awareness Against Corruption Is Important</strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">भ्रष्टाचार, राजनीतिक विकास, लोकतंत्र, आर्थिक विकास, वातावरण, लोगों के स्वास्थ्य सहित अनेकों क्षेत्रों को दुर्बल बना देता है। अतः यह आवश्यक है कि जनता को सुग्राही बनाया जाए तथा भ्रष्टाचार को उखाड़ने के प्रयासों की दिशा में प्रेरित किया जाए।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><span class="marker"><strong>केन्द्रीय सतर्कता आयोग के बारे में जानकारी</strong></span></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">केन्द्रीय सतर्कता आयोग सरकारी भ्रष्टाचार को संबोधित करने के लिए बनाया गया एक शीर्ष भारतीय सरकारी निकाय है। इसकी स्थापना 1964 में हुई।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">सतर्कता के क्षेत्र में केन्द्रीय सरकारी एजेंसियों को सलाह तथा मार्गदर्शन देने हेतु, के संथानम की अध्यक्षता वाली भ्रष्टाचार निवारण समिति की सिफारिशों पर भारत सरकार ने फरवरी 1964 में केन्द्रीय सतर्कता आयोग की स्थापना की।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><a name="_Hlk527225156"></a><a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg"><strong>कृपया हमारा</strong></a> <a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg"><strong>यूट्यूब चैनल सब्सक्राइब करें</strong></a></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:core-embed/youtube {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/mttPpqHlbac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/mttPpqHlbac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:core-embed/youtube --></p>\n',
+  storyimage1: 'NlGf0FjITvEJLGln5qdd.jpg',
+  videos: null,
+  tags: 'Central Vigilance Commission, central-vigilance-commission',
+  redirectURL: 'vigilance-awareness-week',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Central Vigilance Commission, central-vigilance-commission',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'vigilance-awareness-week',
+  createdDate: 'October 31, 2018, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data { error: 'Failed to fetch data' }
+data { error: 'Failed to fetch data' }
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 4533,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Mar 22 2019  6:30PM',
+  storyheading: 'बड़े बेआबरु होकर नेपाली कूचे से निकली भारतीय बजरंगी ब्रिगेड',
+  storysubheading: 'बड़े-बेआबरु-होकर-नेपाली-क',
+  storysynopsis: 'बड़े बेआबरु होकर नेपाली कूचे से निकली भारतीय बजरंगी ब्रिगेड',
+  fullstory: '<p>बड़े बेआबरु होकर नेपाली कूचे से निकली भारतीय बजरंगी ब्रिगेड<br />\n' +
+    'फिर आने लगी सुनामी<br />\n' +
+    'प्रशांत महासागरसे बहुत दूर भी नहीं है हिंद महासागर<br />\n' +
+    'यह कायनात तुम्हारे हवाले साथियों<br />\n' +
+    'कि हर हाथ के मोबाइल को अब राष्ट्रीय झंडे में तब्दील करना है<br />\n' +
+    'जाति उन्मूलन के जरिये देश महादेश जोड़ना है<br />\n' +
+    'बड़े बेआबरु होकर नेपाल से लौटे कारपोरेटकेसरिया बजरंगी मीडिया के मुकाबले सारे देशभक्तों को मिलकर वैकल्पिक मीडिया खड़ा करना है<br />\n' +
+    'कल्कि अवतार को चीन का चेयरमैन बनाने की संघ परिवार की तैयारी<br />\n' +
+    'बाबासाहेब के बाद अब गौतम बुद्ध को आजमाने की बारी<br />\n' +
+    'नए सर्वेक्षण में खुलासा, हर चौथा भारतीय नागरिक होता है छुआछूत का शिकार<br />\n' +
+    'भारत में जातिवाद की जड़ें काफी गहरी हैं।<br />\n' +
+    'बड़ी बेआबरु होकर नेपाली कूचे से निकली भारतीय बजरंगी ब्रिगेड।<br />\n' +
+    'जिस देश में छुआछूत अब भी जारी है और जिस मनुस्मृति के तहत यह जाति व्यवस्था है, उसी को संविधान बनाये हुए भारत ही नहीं, नेपाल ही नहीं, समूची कायनात को हिंदू साम्राज्य में तब्दील करने के लिए, सोने की चिड़िया प्राकृतिक संसाधनों से समृद्ध भारत को बेचने का अबाध कारोबार चलाने के लिए वही संघ परिवार अंबेडकरी विरासत हजम करने की नाकाम कोशिश करने के बाद अब भारत को 2021 तक गैरनस्ली आबादी और विधर्मियों के सफाये के एजेंडे के तहत गौतम बुद्ध के संदेशों को पंचशील बेशर्मी से खत्म करने के बाद हिंदुत्व में समाहित करने लगा है।<br />\n' +
+    'नेपाल महाभूकंप के बाद भी अपने हिस्से के हिमालय और हिमालयी जनता की सेहत की कोई परवाह नहीं है इस केसरिया कारपोरेट वर्णवर्चस्वी सत्ता, जरखरीद गुलाम मिलियनर बिलियनर राजनीति और उसके फेंके टुकड़ों पर विदेशी पूंजी और विदेशी हितों की दलाली करने वाले कारपोरेट मीडिया, जनविरोधी अर्थशास्त्रियों और प्रकृति और पर्यावरण से कटे हुए भूगर्भ शास्त्रियों को।<br />\n' +
+    'किसी को टिहरी बांध, भागीरथी बाढ़, गढ़वाल भूकंप या हाल की सुनामी की याद नहीं आयी। भविष्यद्रष्टा अंध धृतराष्ट्र की तरह महाभारत के महाविनाश का आंखों देखा हाल चाहते हैं।<br />\n' +
+    'जन भावनाओं की कद्र इतनी, जनसुनवाई का आलम यह कि जल सत्याग्रह करने वालों को मृत्युगान सुनाना पड़े, कि इरोम शर्मिला को चौदह साल तक आमरण अनशन के बाद भी देश को फर्क न पड़े।<br />\n' +
+    'कि रोज-रोज किसानों की थोक आत्महत्याओं के बावजूद मंकी बातों की बहार हो कि सत्ता से निकलते ही सुधार देवता को आफसा असभ्य लगे और सत्ता से बाहर हो जाने का दर्द ऐसा कि विनिवेश ईश्वर, अंबेडकर विरोधी अरुण शौरी को संघ परिवार का हिंदुत्व एजेंडा से अर्थव्यवस्था खतरे में नजर आये।<br />\n' +
+    'और मीडिया को फोकस फिर वहीं विश्वास संकट भूंकप की तस्वीरें जो उतर चुकी है परदे से। अब सुनामी कार्निवाल की तैयारी है।<br />\n' +
+    'कृपया इस सुनामी पर नजर रखिये और गौर कीजिये कि अपने बवासीर का रेडियोएक्टिव इलाज कराने के लिए भारतीय समुद्र तटों और महानगरों के इर्द-गिर्द सीमेंट के जमगलमध्ये परमाणु रिएक्टरों की जो भारतमाला सजायी जा रही है, उसके नतीजे कितने भयंकर हो सकते हैं।<br />\n' +
+    'प्रकृति और पर्यावरण की खैर इस बलात्कारी पाशविक सत्ता को कोई परवाह है नहीं, लेकिन राजधानी नई दिल्ली के पास नरौरा के बाद मुंबई महानगर के पास जैतापुर एटमिक क्लस्टर, कोलकाता के पास हरिपुर और तमिलनाडु की घनी आबादी के मध्य कुड़नकुलम और कलपक्कम परमाणु संयंत्र सजाने के बाद परमाणु ऊर्जा का विकल्प बनाने वाली सत्ता के पास सुनामी का कोई जवाब भी नहीं है।<br />\n' +
+    'आतंकवादी हमलों को रोकने में वह नाकाम है और परमाणु सुरक्षा का आलम यह कि सुनंदा पुष्कर के शव में पोलोनियम 230 पाया गया, जो साल भर में किसी परमाणु बिजलीघर में सिर्फ दस ग्राम उपजता है।<br />\n' +
+    'अब संघ परिवार, मोदी को चीन का चेयरमैन भी बना सकता है और चीनी जनता के दिलों पर कैसे उनके जनविध्वंसी कारपोरेट केसरिया राजाकाज का जलवा है, मीडिया इसका बखान करने लगा है। जबकि आम जनता की बुनियादी मुद्दों पर कोई स्पेस होता नहीं है। किस्सों और पर्दाफाश के जलजले में जनसुनवाई होती नहीं है और जनमत आर्थिक सुधारों के पक्ष में बनाने के विशेषज्ञों का दरबार लगा रहता है चौबीसों घंटे। संघ परिवार बंगाल में दीदी के सहयोग से केशरियाकरण संपूर्ण करके भारत के संपूर्ण हिंदुत्व और संपूर्ण निजीकरण और संपूर्ण गुजरात एजंडे का विस्तार चीन तक करने का कोई अभियान चलायें तो अचरज नहीं होगा। मीडिया घनघोर, मूसलाधार हवा बांदने लगा है जिससे इस महादेश में कसरिया सुनामी बहा ले जाये सब कुछ।<br />\n' +
+    'गौरतलब है कि प्रधानमंत्री नरेंद्र मोदी 14-19 मई तक चीन, मंगोलिया और दक्षिण कोरिया की यात्रा पर रहेंगे। मंगलवार को विदेश मंत्रालय ने इसकी घोषणा कर दी। पिछले साल 26 मई को प्रधानमंत्री बनने के बाद से मोदी 15 देशों के दौरे कर चुके हैं। इस दौरान वे करीब 40 दिन विदेश में रहे। मोदी का पिछला दौरा फ्रांस, जर्मनी और कनाडा का था। देश में मोदी के 50 से ज्यादा दौरे हुए हैं। वे 12 बार महाराष्ट्र और आठ बार जम्मू-कश्मीर गए हैं। मोदी जिस रफ्तार से विदेश यात्रा कर रहे हैं, उससे लगता है कि वह मनमोहन सिंह को पीछे छोड़ते सबसे ज्‍यादा विदेश दौरा करने वाले प्रधानमंत्री बन जाएंगे।<br />\n' +
+    'मीडिया में उनके पूरब विजय का माहौल ऐसे बनाया जा रहा है। गौर करें,<br />\n' +
+    'अलकायदा की भारतीय उपमहाद्वीप शाखा द्वारा पोस्ट हुए ताजा वीडियो में पहली बार भारतीय पीएम नरेंद्र मोदी का नाम लेते हुए उन्हें खतरे के तौर पर हाईलाइट किया गया है।  यह वीडियो अलकायदा की मीडिया विंग अस-शबाब द्वारा ने पोस्ट किया है।  फ्रॉम फ्रांस टू बांग्लादेश: द डस्ट विल नेवर सेटल डाउन टाइटल वाले इस वीडियो में अलकायदा के भारतीय उपमहाद्वीप प्रमुख आसिम उमर की आवाज है।  आसिम ने पीएम नरेंद्र मोदी के नाम का जिक्र करते हुए कहा कि दुनियाभर में मुस्लिमों के खिलाफ युद्ध लड़ा जा रहा है और निर्णायक भूमिका निभाने का वक्त आ गया है।<br />\n' +
+    'फिर आने लगी सुनामी<br />\n' +
+    'प्रशांत महासागरसे बहुत दूर भी नहीं है हिंद महासागर<br />\n' +
+    'यह कायनात तुम्हारे हवाले साथियों<br />\n' +
+    'कि हर हाथ के मोबाइल को अब राष्ट्रीय झंडे में तब्दील करना है<br />\n' +
+    'जाति उन्मूलन के जरिये देश महादेश जोड़ना है<br />\n' +
+    'बड़े बेआबरु होकर नेपाल से लौटे कारपोरेट केसरिया बजरंगी मीडिया के मुकाबले सारे देशभक्तों को मिलकर वैकल्पिक मीडिया खड़ा करना है<br />\n' +
+    'कल्कि अवतार को चीन का चेयरमैन बनाने की संघ परिवार की तैयारी<br />\n' +
+    'बाबासाहेब के बाद अब गौतम बुद्ध को आजमाने की बारी<br />\n' +
+    'पलाश विश्वास</p>\n',
+  storyimage1: 'DefaultImageHastakshep.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'बड़े-बेआबरु-होकर-नेपाली-क',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'बड़े-बेआबरु-होकर-नेपाली-क',
+  createdDate: 'March 22, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 29837,
+      storyheading: 'शोध में आया सामने विटामिन-डी की कमी से बुजुर्गों को अवसाद का खतरा',
+      storysubheading: 'vitamin-d-deficiency-threatens-depression-to-elderly',
+      englishurl: 'national',
+      redirectURL: 'vitamin-d-deficiency-threatens-depression-to-elderly',
+      category_type: '1',
+      storyImage1: 'blvKvsjr2YAFWYBFlOQV.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Vitamin D, vitamin-d, अवसाद के उपचार, avsaad-ke-upcaar, अवसाद, avsaad, मंदी, mndii, विटामिन डी, vittaamin-ddii, विटामिन-डी की कमी, vittaamin-ddii-kii-kmii',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 27916,
+      storyheading: 'बालों और त्वचा के लिए एलोवेरा के फायदे',
+      storysubheading: 'benefits-of-aloe-vera-for-hair-and-skin',
+      englishurl: 'national',
+      redirectURL: 'benefits-of-aloe-vera-for-hair-and-skin',
+      category_type: '1',
+      storyImage1: 'MSBgMkswqBPkPuUNwcbp.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'aloe vera for hair, aloe-vera-for-hair, aloe vera for skin, aloe-vera-for-skin, aloe vera gel for face, aloe-vera-gel-for-face, Aloe vera gel, aloe-vera-gel, aloe vera juice, aloe-vera-juice, aloe vera, aloe-vera, Aloe vera’s immunity power, aloe-veras-immunity-power, Amino acids, amino-acids, benefits of Aloe vera, benefits-of-aloe-vera, best aloe vera gel, best-aloe-vera-gel, Vitamins in aloe vera, vitamins-in-aloe-vera, एमीनो एसिड, emiino-esidd, एलोवेरा फाइब्रोब्लास्ट, eloveraa-phaaibroblaastt, एलोवेरा में विटामिन, eloveraa-men-vittaamin, एलोवेरा, eloveraa, एलोविरा के लाभ, eloviraa-ke-laabh',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 25757,
+      storyheading: 'विटामिन डी की कमी का कोविड-19 से मौत का क्या है सम्बंध ?',
+      storysubheading: 'vitamin-d-deficiency-and-increasing-death-from-covid-19',
+      englishurl: 'national',
+      redirectURL: 'vitamin-d-deficiency-and-increasing-death-from-covid-19',
+      category_type: '1',
+      storyImage1: 'UzL74JeXnumbg0tFtHkq.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Covid 19 complication, covid-19-complication, death from Covid 19, death-from-covid-19, Latest research on Covid 19, latest-research-on-covid-19, North West University of America, north-west-university-of-america, vitamin D in the body, vitamin-d-in-the-body, अमेरिका के नॉर्थ वेस्ट यूनिवर्सिटी, amerikaa-ke-nonrth-vestt-yuunivrsittii, कोविड-१९ पर ताजा शोध, kovidd-19-pr-taajaa-shodh',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 18937,
+      storyheading: 'एलोवेरा जेल को पीना स्वास्थ्य के लिए अच्छा है, फिर भी नहीं पीना चाहिए जानिए क्यों',
+      storysubheading: 'drinking-aloe-vera-gel-is-good-for-health-yet-you-should-not-drink-it-know-why',
+      englishurl: 'national',
+      redirectURL: 'drinking-aloe-vera-gel-is-good-for-health-yet-you-should-not-drink-it-know-why',
+      category_type: '1',
+      storyImage1: 'MSBgMkswqBPkPuUNwcbp.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'aloe vera for hair, aloe-vera-for-hair, aloe vera for skin, aloe-vera-for-skin, aloe vera gel for face, aloe-vera-gel-for-face, Aloe vera gel, aloe-vera-gel, aloe vera juice, aloe-vera-juice, aloe vera, aloe-vera, Aloe vera’s immunity power, aloe-veras-immunity-power, benefits of Aloe vera, benefits-of-aloe-vera, best aloe vera gel, best-aloe-vera-gel, History of aloe vera, history-of-aloe-vera, Miracle drug, miracle-drug, Silent healer, silent-healer, Use of aloe vera, use-of-aloe-vera, Vitamins in aloe vera, vitamins-in-aloe-vera, एलोवेरा का इतिहास, eloveraa-kaa-itihaas, एलोवेरा में विटामिन, eloveraa-men-vittaamin, एलोवेरा, eloveraa, चमत्कारी औषधि, cmtkaarii-aussdhi, मूक मरहम लगाने वाला, muuk-mrhm-lgaane-vaalaa',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 14524,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Aug 29 2015  6:30PM',
+  storyheading: 'Vitamin D vital to fight bowel diseases',
+  storysubheading: 'vitamin-d-vital-to-fight-bowel-diseases',
+  storysynopsis: 'Vitamin D vital to fight bowel diseases',
+  fullstory: '<p><!-- wp:paragraph --></p>\n' +
+    '<p>New Delhi. Wider use of <strong>vitamin D-</strong> fortified foods could help fight a range of bowel diseases, including cancer, as people around the world avoid the harmful rays of the sun, according to a New Zealand research out.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>According to a report published in Chinese news agency Xinhua Public awareness of the risk of skin cancer from sunlight, also a major source of vitamin D meant that vitamin D from the diet was more important than ever.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading --></p>\n' +
+    '<h2>Gastrointestinal diseases becoming increasingly common worldwide</h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">"Gastrointestinal diseases such as colorectal cancer and inflammatory bowel disease are becoming increasingly common worldwide, including among children and adolescents," Auckland University cancer researcher Professor Lynn Ferguson said in a statement.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">"This is a substantial burden on healthcare and a changing vitamin D intake through reduced exposure to sunlight not compensated through diet, may play a key role in susceptibility to such disorders," she said.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3>However, too much vitamin D could have adverse effects so optimal intake levels of vitamin D for an individual could be assessed using personalized genetic and genomic information.</h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>Genomic technologies had revealed several hundred genes associated with vitamin D actions.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>"This would provide the very best disease prevention and remission," said Ferguson.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">"Across a range of gastrointestinal disorders there is also increasing evidence that the symptoms and longer-term consequences of several of these disorders could be benefited by either regular use of a vitamin D supplement, or consumption of vitamin D- enhanced foods," she said.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">Although few foods contain significant amounts of vitamin D, important sources in the diet could include fatty fish, such as salmon or tuna, fish liver oils and eggs.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4>Small amounts of vitamin D were also found in beef liver, cheese and other dairy products.</h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>"It has been claimed that it is almost impossible to obtain sufficient vitamin D from the diet alone, without supplementation, " she said.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>"In Australia for example, fortified margarine appears as a major dietary source of vitamin D, while fortified milk has become an important source of this nutrient, especially for young children," she said.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>"In the future, we could see the potential of expanding this approach to a form of routine genetic screening at birth, coupled with pre-emptive nutrition in individuals discovered to be at high risk of gastrointestinal disorders," she added.</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5>vitaminD #boweldisease #healthbenefits</h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:core-embed/youtube {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/lPeggAsAYnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/lPeggAsAYnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:core-embed/youtube --></p>\n',
+  storyimage1: 'b3iWBEgEqPuX6d9nbkct.jpg',
+  videos: null,
+  tags: 'Vitamin D, vitamin-d',
+  redirectURL: 'vitamin-d-vital-to-fight-bowel-diseases',
+  englishurl: 'english',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Vitamin D, vitamin-d',
+  catname: 'English',
+  catID: 26,
+  canonicalUrl: 'vitamin-d-vital-to-fight-bowel-diseases',
+  createdDate: 'August 29, 2015, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 17317,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Jul 22 2011  6:30PM',
+  storyheading: 'आप सादर आमंत्रित हैं ! अपने दोस्तों के साथ',
+  storysubheading: 'आप-सादर-आमंत्रित-है-अपने-द',
+  storysynopsis: 'आप सादर आमंत्रित हैं ! अपने दोस्तों के साथ',
+  fullstory: '<p>आज देश भर में खास कर उत्तर प्रदेश में... <a href="https://www.hastakshep.com/old/%e0%a4%9c%e0%a4%ac%e0%a4%b0%e0%a4%a8-%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a4%a3-%e0%a4%95%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%aa/"><strong>भूमि अधिग्रहण</strong></a>... किसानों का ज्वलंत सवाल बना हुआ है ! इसको देखते हुए और किसानों के साथ लड़ते हुए भाकपा माले दिनांक १ अगस्त २०११ को लखनऊ में... भूमि अधिग्रहण नहीं ,भूमि संरक्षण... विषय पर सेमिनार का आयोजन कर रही है !</p></p>\n' +
+    '<p>मुख्य वक्ता होंगे : - दीपंकर भट्टाचार्य महासचिव भाकपा माले .</p></p>\n' +
+    '<p>अन्य लोगो में प्रमुख होंगे : रामजी राय, प्रशांत शुक्ला,व् अन्य .</p></p>\n' +
+    '<p>स्थान :- लखनऊ प्रेस क्लब , तुलसी थियटर के बगल ,परिवर्तन चौक ,लखनऊ</p></p>\n' +
+    '<p>समय :-शाम ४.३० बजे से .</p></p>\n' +
+    '<h2>आप सादर आमंत्रित हैं ! अपने दोस्तों के साथ ,</h2></p>\n' +
+    '<p><strong>Bal Mukund Dhuria</strong></p></p>\n' +
+    '<p><!-- wp:html --><br />\n' +
+    '<iframe width="901" height="507" src="https://www.youtube.com/embed/piYNO-FOvQo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />\n' +
+    '<!-- /wp:html --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '</p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n',
+  storyimage1: 'bDXOWnj0xOxP4Oos4gMv.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'आप-सादर-आमंत्रित-है-अपने-द',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'आप-सादर-आमंत्रित-है-अपने-द',
+  createdDate: 'July 22, 2011, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 28575,
+      storyheading: 'राहुल ने कांग्रेसियों से कहा- ‘सिस्टम’ फ़ेल है, इसलिए सारे राजनैतिक काम छोड़कर सिर्फ़ जन सहायता करें',
+      storysubheading: 'rahul-told-congressmen-system-is-a-failure-so-leave-all-political-work-and-help-only-the-public',
+      englishurl: 'national',
+      redirectURL: 'rahul-told-congressmen-system-is-a-failure-so-leave-all-political-work-and-help-only-the-public',
+      category_type: '1',
+      storyImage1: '4A5hcICYQxEi9rkq69Ij.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'ऑक्सीजन की कमी, onksiijn-kii-kmii, कांग्रेस के पूर्व अध्यक्ष राहुल गांधी, kaangres-ke-puurv-adhykss-raahul-gaandhii, कोरोना की दूसरी लहर, koronaa-kii-duusrii-lhr, पूर्व कांग्रेस अध्यक्ष राहुल गांधी, puurv-kaangres-adhykss-raahul-gaandhii, राहुल गांधी का ट्वीट, raahul-gaandhii-kaa-ttviitt, राहुल गांधी, raahul-gaandhii',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 27787,
+      storyheading: 'वैक्सीन, ऑक्सीजन और दवाओं के साथ पीएम भी ग़ायब हैं : राहुल गांधी',
+      storysubheading: 'pm-is-missing-with-vaccine-oxygen-and-medicines-rahul-gandhi',
+      englishurl: 'national',
+      redirectURL: 'pm-is-missing-with-vaccine-oxygen-and-medicines-rahul-gandhi',
+      category_type: '1',
+      storyImage1: '4A5hcICYQxEi9rkq69Ij.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Corona virus In India, corona-virus-in-india, ऑक्सीजन, onksiijn, वैक्सीन, vaiksiin, सेंट्रल विस्टा, senttrl-visttaa',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 27034,
+      storyheading: 'राहुल गांधी उवाच : भारत में सिर्फ कोरोना संकट  नहीं, केंद्र सरकार की जन विरोधी नीतियां हैं',
+      storysubheading: 'rahul-gandhi-says-crisis-in-india-is-not-just-corona-but-anti-people-policies-of-central-government',
+      englishurl: 'national',
+      redirectURL: 'rahul-gandhi-says-crisis-in-india-is-not-just-corona-but-anti-people-policies-of-central-government',
+      category_type: '1',
+      storyImage1: '4A5hcICYQxEi9rkq69Ij.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Corona virus In India, corona-virus-in-india, ऑक्सीजन, onksiijn, कांग्रेस के पूर्व अध्यक्ष राहुल गांधी, kaangres-ke-puurv-adhykss-raahul-gaandhii, कोरोना का कहर, koronaa-kaa-khr, कोरोना काल, koronaa-kaal, कोरोना वायरस, koronaa-vaayrs, कोरोना संकट, koronaa-snktt, कोरोना, koronaa, कोरोनावायरस, koronaavaayrs, दिल्ली, dillii, पूर्व कांग्रेस अध्यक्ष राहुल गांधी, puurv-kaangres-adhykss-raahul-gaandhii, राहुल गांधी का ट्वीट, raahul-gaandhii-kaa-ttviitt, राहुल गांधी, raahul-gaandhii',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 26684,
+      storyheading: 'समाज और लोगों की चिंताओं को डॉक्टरों को पहचानना होगा',
+      storysubheading: 'doctors-have-to-recognize-the-concerns-of-society-and-people',
+      englishurl: 'aapki najar',
+      redirectURL: 'doctors-have-to-recognize-the-concerns-of-society-and-people',
+      category_type: '1',
+      storyImage1: 'HzovXuYPxjNRU3UENNgE.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'ऑक्सीजन की कमी, onksiijn-kii-kmii, ऑक्सीजन, onksiijn, कोविड-19, kovidd-19, गोरखपुर, gorkhpur',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'देशबन्धु',
+  category_type: 1,
+  storyID: 22580,
+  authorID: 21,
+  author_enname: 'deshdel',
+  author_image: 'Deshbandhu.jpg',
+  storydate: 'Apr 28 2023  2:45PM',
+  storyheading: 'जानिए हवा का वजन कितना है?',
+  storysubheading: 'how-much-air-weighs-in-hindi',
+  storysynopsis: 'तकनीक व विज्ञान | जलवायु विज्ञान | सामान्य ज्ञान/ जानकारी |  समाचार क्या हवा का वजन होता है? Does air weigh? क्या हवा में वजन है? हवा में कितना वजन होता है? ऊंचाई पर चढ़ाई करते समय हम हांफने क्यों लगते हैं?',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2 style="text-align: justify;"><span style="font-size: 18pt;"><strong>Know how much air weighs?</strong></span></h2>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- /wp:heading --></span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- wp:heading {"level":3} --></span></p>\n' +
+    '<h3 style="text-align: justify;"><span style="font-size: 18pt;"><strong>क्या हवा का वजन होता है</strong><strong>? Does air weigh? </strong><strong>क्या हवा में वजन है</strong><strong>? </strong><strong>हवा में कितना वजन होता है</strong><strong>?</strong></span></h3>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- /wp:heading --></span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- wp:paragraph {"align":"justify"} --></span></p>\n' +
+    '<p class="has-text-align-justify" style="text-align: justify;"><span style="font-size: 18pt;">समुद्र के पानी जितना विशाल हवा का भंडार  हमारी धरती पर भी फैला पड़ा है। औसत कद काठी के एक मनुष्य के कंधों पर तकरीबन <strong><em>एक टन वजन <a href="https://www.hastakshep.com/news-2-world-news-world-nature-conservation-day-in-the-last-century-we-have-d-cid4341287-htm/" target="_blank" rel="noreferrer noopener" data-type="post" data-id="644">हवा का दबाव </a>(one ton weight air pressure)</em></strong> पड़ता है, लेकिन हमें यह बोझ महसूस नहीं होता क्योंकि लगभग इतनी ही हवा हमारे आसपास से भी दबाव डालती रहती है और यह दबाव सभी तरफ से हम पर पड़ता है।</span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- /wp:paragraph --></span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- wp:heading {"level":4} --></span></p>\n' +
+    '<h4 style="text-align: justify;"><span style="font-size: 18pt;"><strong>ऊंचाई पर कम हो जाता है </strong><strong>हवा का दबाव</strong><strong> | </strong><strong>ऊंचाई पर चढ़ाई करते समय हम हांफने</strong><strong> </strong><strong>क्यों</strong><strong> लगते हैं</strong><strong>?</strong></span></h4>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- /wp:heading --></span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- wp:paragraph {"align":"justify"} --></span></p>\n' +
+    '<p class="has-text-align-justify" style="text-align: justify;"><span style="font-size: 18pt;">सामान्यत: समुद्र तल पर प्रति वर्ग इंच हवा का दबाव 14.7 पौंड रहता है। जैसे-जैसे <strong><em><a href="https://www.hastakshep.com/world-ocean-day-is-celebrated-worldwide-on-june-8/" target="_blank" rel="noreferrer noopener" data-type="post" data-id="4920">समुद्र तल से ऊंचाई </a>(height above sea level)</em></strong> की तरफ बढ़ते चलते हैं तो <strong><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A5%81%E0%A4%AE%E0%A4%82%E0%A4%A1%E0%A4%B2%E0%A5%80%E0%A4%AF_%E0%A4%A6%E0%A4%BE%E0%A4%AC" rel="nofollow">हवा का दबाव</a> (air pressure)</strong> तेजी से कम होता जाता है। जैसे 10 हजार फीट की ऊंचाई पर हवा का दबाव 10 पौंड प्रति वर्ग इंच रह जाता है। इसी तरह 29 हजार फीट की ऊंचाई (एवरेस्ट की ऊंचाई) पर यह दबाव केवल 4.5 पौंड प्रति वर्ग इंच रह जाता है। इसीलिए ऊंचाई पर चढ़ाई करते समय हम हांफने लगते हैं।</span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- /wp:paragraph --></span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- wp:heading {"level":5} --></span></p>\n' +
+    '<h5 style="text-align: justify;"><span style="font-size: 18pt;"><strong>पर्वतारोही अतिरिक्त ऑक्सीजन लेकर</strong><strong> </strong><strong>क्यों चलते हैं</strong><strong>? | Why do climbers carry extra oxygen?</strong></span></h5>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- /wp:heading --></span></p>\n' +
+    '<p style="text-align: justify;"><span style="font-size: 18pt;"><!-- wp:paragraph {"align":"justify"} --></span></p>\n' +
+    `<p class="has-text-align-justify" style="text-align: justify;"><span style="font-size: 18pt;">पर्वतारोही अपने साथ अतिरिक्त ऑक्सीजन लेकर चलते हैं क्योंकि <strong>ऊंचाई पर हवा का घनत्व</strong> कम हो जाता है और इस <strong>पतली हवा में ऑक्सीजन की मात्रा</strong> (amount of <a href="https://www.hastakshep.com/need-for-nationalization-of-health-services-article-by-vineet-tiwari-and-dr-maya-valecha/" target="_blank" rel="dofollow noopener">oxygen</a> in thin air) भी बहुत कम रह जाती है। हवा का कुल वजन सही-सही आंकना लगभग असंभव है बल्कि इसके आकलन की कल्पना भी नहीं की जा सकती। फिर भी अंदाज बताता है कि समुद्र तल पर 14.7 पौंड प्रति वर्ग इंच दबाव डालने वाली हवा कुल मिलाकर '5,000 मिलियन मिलियन टन' तक का दबाव डालती है।</span></p>\n` +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:jetpack/related-posts {"displayThumbnails":true,"postsToShow":4} /--></p>',
+  storyimage1: '7SCi1JHWbvK7LU1Y4zpc.jpg',
+  videos: null,
+  tags: 'ऑक्सीजन, onksiijn, समुद्र, smudr, हवा, hvaa',
+  redirectURL: 'how-much-air-weighs-in-hindi',
+  englishurl: 'news-2',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'ऑक्सीजन, onksiijn, समुद्र, smudr, हवा, hvaa',
+  catname: 'समाचार',
+  catID: 23,
+  canonicalUrl: 'how-much-air-weighs-in-hindi',
+  createdDate: 'April 28, 2023, 02:45 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}

@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Disallow: /*?*
+Disallow: /?*
+
+Sitemap: https://www.hastakshep.com/sitemap.xml
+Sitemap: https://www.hastakshep.com/newssitemap.xml
+Sitemap: https://www.hastakshep.com/sitemapVideo_2023.xml
+Sitemap: https://www.hastakshep.com/sitemapVideo_2024.xml
+Sitemap: https://www.hastakshep.com/sitemapImage_2023.xml
+Sitemap: https://www.hastakshep.com/sitemapImage_2024.xml

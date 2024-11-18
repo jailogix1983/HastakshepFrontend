@@ -1,0 +1,1027 @@
+data {
+  objrelatedstory: [
+    {
+      storyID: 33222,
+      storyheading: '2050 तक भारत की अर्थव्यवस्था पर जलवायु परिवर्तन का 22 फीसदी प्रतिकूल प्रभाव पड़ने का अनुमान',
+      storysubheading: 'Estimated to have 22 percent adverse impact of climate change on Indias economy by 2050',
+      englishurl: 'climate change',
+      redirectURL: 'Estimated-to-have-22-percent-adverse-impact-of-climate-change-on-Indias-economy-by-2050',
+      category_type: '1',
+      storyImage1: 'Estimated-to-have-22-percent-adverse-impact-of-climate-change-on-Indias-economy-by-2050-638494954863021654.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'भारत की अर्थव्यवस्था पर जलवायु परिवर्तन का प्रभाव',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 30002,
+      storyheading: "छत्तीसगढ़ : वेंटिलेटर पर अर्थव्यवस्था और जनता का 'राम नाम सत'",
+      storysubheading: 'Chhattisgarh Economy on ventilator and publics Ram Naam Sat',
+      englishurl: 'chhattisgarh news',
+      redirectURL: 'Chhattisgarh-Economy-on-ventilator-and-publics-Ram-Naam-Sat',
+      category_type: '1',
+      storyImage1: '955182a8-3455-4955-a293-a919411980e1_Chhattisgarh Economy on ventilator and publics Ram Naam Sat.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'छत्तीसगढ़, अर्थव्यवस्था, कॉरपोरेट,',
+      category_name: 'छत्तीसगढ़ समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29940,
+      storyheading: 'निजी क्षेत्र का महिमामंडन करना बंद करें, निजी क्षेत्र के बैंकों के राष्ट्रीयकरण का सही समय आ गया है ?',
+      storysubheading: 'stop-glorifying-the-private-sector-is-the-right-time-to-nationalize-private-sector-banks',
+      englishurl: 'aapki najar',
+      redirectURL: 'stop-glorifying-the-private-sector-is-the-right-time-to-nationalize-private-sector-banks',
+      category_type: '1',
+      storyImage1: 'SFLFIHyBWaGy9m9sMu8U.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'article on corona virus, article-on-corona-virus, Indian economy, indian-economy, Parliament, parliament, कोरोना वायरस, koronaa-vaayrs, कोरोनावायरस, koronaavaayrs, भारतीय अर्थव्यवस्था, bhaartiiy-arthvyvsthaa',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29339,
+      storyheading: 'उपवास पर अन्नदाता और छप्पन भोग पर सरकार',
+      storysubheading: 'todays-deshbandhu-editorial',
+      englishurl: 'uncategorized',
+      redirectURL: 'todays-deshbandhu-editorial',
+      category_type: '1',
+      storyImage1: '1TvZOHvmvtwGxFSnWOb8.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '2020 Corona Virus, 2020-corona-virus, new agricultural laws, new-agricultural-laws, अन्नदाता, anndaataa, किसान, kisaan, जाति व्यवस्था, jaati-vyvsthaa, तीनों नए कृषि कानूनों का विश्लेषण, tiinon-ne-krssi-kaanuunon-kaa-vishlessnn, देशबन्धु में संपादकीय आज, deshbndhu-men-snpaadkiiy-aaj, देशबन्धु, deshbndhu, नए कृषि कानून, ne-krssi-kaanuun, न्यूनतम समर्थन मूल्य, nyuuntm-smrthn-muuly, भारत, bhaart, राष्ट्रवाद, raassttrvaad',
+      category_name: 'Uncategorized',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'अरुण-माहेश्वरी',
+  category_type: 1,
+  storyID: 25243,
+  authorID: 29,
+  author_enname: 'arunms',
+  author_image: 'Arun-Maheshwari.jpg',
+  storydate: 'Apr 11 2021  6:30PM',
+  storyheading: 'डियर प्रशांत किशोर लड़ाई तो टीएमसी और वाम-कांग्रेस के बीच है',
+  storysubheading: 'prashant-kishores-assessment-of-bjp-in-bengal-seems-exaggerated',
+  storysynopsis: 'डियर प्रशांत किशोर लड़ाई तो टीएमसी और वाम-कांग्रेस के बीच है',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong><a href="https://www.hastakshep.com/attractive-leftist-propaganda-in-bengal/" data-type="post" data-id="12885" target="_blank" rel="noreferrer noopener">बंगाल</a> में भाजपा के बारे में <a href="https://www.hastakshep.com/steps-of-strategists-towards-hindu-rashtra/" data-type="post" data-id="2229" target="_blank" rel="noreferrer noopener">प्रशांत किशोर</a> का आकलन अतिशयोक्तिपूर्ण लगता है </strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    "<h3><strong>Prashant Kishore's assessment of BJP in Bengal seems exaggerated.</strong></h3></p>\n" +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">भाजपा को <strong><a href="https://www.hastakshep.com/importance-of-five-assembly-elections-for-modi-raj/" data-type="post" data-id="12146" target="_blank" rel="noreferrer noopener">2019 के लोकसभा चुनाव</a></strong> <strong>(2019 Lok Sabha Elections)</strong> में बंगाल में 40 प्रतिशत मत मिले थे। वह 2016 के विधान सभा चुनाव में भाजपा के 10.2 प्रतिशत मतों से एक लंबी छलांग थी। लेकिन <strong><a href="https://www.hastakshep.com/cutting-across-party-lines-house-panel-tells-govt-to-give-effect-to-1-of-3-farm-laws/" data-type="post" data-id="12940" target="_blank" rel="noreferrer noopener">टीएमसी</a></strong> के 43 प्रतिशत मत प्राय: स्थिर बने रहे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong><a href="https://www.hastakshep.com/editorial-in-deshbandhu-today-elections-in-present-day-politics/" data-type="post" data-id="12501" target="_blank" rel="noreferrer noopener">टीएमसी</a> के रणनीतिकार प्रशांत किशोर</strong> <strong>(TMC strategist Prashant Kishore)</strong> भाजपा के मतों में इस अभूतपूर्व वृद्धि के कारणों के अनुमान के तौर पर चार बातें गिनाते हैं। 1. मोदी की निजी लोकप्रियता, 2. भारी हिंदू-मुस्लिम ध्रुवीकरण, 3. बंगाली समाज में बांग्लादेशी शरणार्थियों का मतुआ समुदाय और 4. राज्य सरकार के ख़िलाफ़ व्यवस्था-विरोध की भावना।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>सब जानते हैं प्रशांत किशोर के अनुमान सच नहीं हैं</strong><strong></strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">प्रशांत किशोर के इन अनुमानों पर गहराई से गौर करें तो लगेगा कि 2019 में बंगाल का चुनाव <strong><a href="https://www.hastakshep.com/delhi-violence-congress-sitting-on-dharna-demands-resignation-of-home-minister-lok-sabha-adjourned-after-ruckus/" data-type="post" data-id="2205" target="_blank" rel="noreferrer noopener">लोक सभा</a></strong> के लिये चुनाव नहीं था, राज्य विधानसभा का चुनाव था। सब जानते हैं कि यह सच नहीं है। इसीलिए प्रशांत किशोर के कथन से इसी निष्कर्ष पर पहुँचा जा सकता है कि वे इन चारों कारणों को लोक सभा चुनाव के परिणाम के कारण के रूप में नहीं गिना रहे हैं, बल्कि वे कह रहे हैं कि इस बार के विधान सभा के चुनाव में भी भाजपा को यदि अपने उन 40 प्रतिशत मतों को बनाए रखना है तो वह उसे इन चार कारणों को अपने लिए भुनाना होगा। </p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">अर्थात्, 2019 में भाजपा को जो 40 प्रतिशत मत मिले थे, आज भी यदि उसे उतने ही या उससे अधिक मत मिलते हैं तो इसके पूर्वानुमान के लिए प्रशांत किशोर के पास कोई सुचिंतित ठोस सामाजिक-राजनीतिक तथ्य उपलब्ध नहीं है। उनका पूर्वानुमान भी कुछ उनकी कुछ पूर्व-धारणाओं पर ही टिका हुआ है; इस धारणा पर कि मोदी राज्य विधानसभा के चुनाव के लिए भी लोकप्रिय हैं, भाजपा में सांप्रदायिक ध्रुवीकरण की भारी शक्ति है, बंगाली हिंदू समाज की अनुसूचित जातियों और शरणार्थी समुदायों को राजनीतिक उद्देश्यों के लिए एक अलग समूह के रूप में भाजपा साध सकती है तथा भाजपा के पास बेइंतहा संसाधन हैं, जिन्हें झोंक कर वह अपने पक्ष में हवा बना सकती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>कहने का अर्थ यह है कि <strong>प्रशांत किशोर जो भी अनुमान लगा रहे हैं</strong><strong>, </strong><strong>वह सब बंगाल के समाज</strong><strong>, </strong><strong>यहाँ की राजनीति और भाजपा की क्षमताओं बारे में उनकी कुछ धारणाओं पर ही टिका हुआ है</strong><strong>, </strong><strong>किसी ठोस यथार्थ या अनुभव पर नहीं।</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>ठोस तथ्य तो यही है कि बंगाल की विधान सभा में अभी भाजपा की सिर्फ़ तीन सीटें हैं और उसे पिछले विधान सभा चुनाव में 10.2 प्रतिशत मत मिले थे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">इसी वजह जब प्रशांत किशोर भाजपा को अपने आकलन में उसकी ताक़त के अनुमानों के आधार पर अधिकतम 99 सीट तक देने की बात कहते हैं, तो हमें तो वह पूरी तरह से एक आधारहीन अटकलबाज़ी ही लगती है। वे अपने पूरे आकलन में बंगाल से वाम-कांग्रेस को पूरी तरह से हटा कर रखते हैं। अन्य राज्यों के हवाले से ही वे खुद इस तथ्य को स्वीकारते हैं कि लोकसभा चुनाव की तुलना में भाजपा के मत में औसत 12 प्रतिशत की गिरावट देखी गई है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>बंगाल में 2019 के एक लोक सभा चुनाव में वाम और कांग्रेस के भारी पतन से कोई यदि इस नतीजे पर पहुँचता है कि वे बंगाल के समाज से मिटा दिये गए हैं, तो हमारी दृष्टि में यही उसके नज़रिये की एक ऐसी बुनियादी त्रुटि है जो उसके पूरे आकलन को ही हंसी का विषय बना देने का कारक बन सकती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>In Bengal, the Left-Congress is not just a political force, but a much larger social force.</strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>बंगाल में वाम-कांग्रेस सिर्फ़ एक राजनीतिक ताक़त नहीं</strong><strong>, </strong><strong>बल्कि उससे बहुत बड़ी सामाजिक शक्ति है</strong>। बंगाल के समाज में सांप्रदायिक सौहार्द और हिंदू समाज में जातिवाद का न्यूनतम प्रभाव तथा बांग्लादेश से आने वाले शरणार्थियों के प्रति सामाजिक-राजनीतिक परिवेश को तैयार करने में बंगाल के नवजागरण और वाम-कांग्रेस की जो भूमिका रही है, वह बंगाल के समाज में टीएमसी सहित वाम-कांग्रेस के स्थान को समझने के लिए बेहद महत्वपूर्ण है। वे बंगाली समाज की जातीय चेतना में रचे-बसे हुए हैं और बंगाली समाज में जब भी कोई सांप्रदायिक ध्रुवीकरण पर विचार करता है तो उसे इस जातीय चेतना के प्रभाव को भी अनिवार्य तौर पर ध्यान में रखना चाहिए। जितनी नग्नता और धृष्टता के साथ यहाँ सांप्रदायिक ध्रुवीकरण की कोशिश की जाएगी, उतनी ही दृढ़ता के साथ उसके प्रतिकार में बंगाल अपनी जातीय चेतना के साथ और ज़्यादा एकजुट रूप में उठ खड़ा होगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इसीलिए प्रशांत किशोर जिन ध्रुवीकरण और जातिवाद के पहलुओं को भाजपा की शक्ति का स्रोत मान कर लोक सभा चुनाव की संगति में ही उसकी सीटों में वृद्धि का जो अनुमान लगा रहे हैं, वे पहलू ही बंगाल में भाजपा की कमजोरी के सबसे बड़े स्रोत हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस बार के चुनाव की अब तक की परिघटना पर ही थोड़ी सी सूक्ष्मता से नज़र डालने पर ही जहां यह दिन के उजाले की तरह साफ़ होता जा रहा है कि भाजपा की तुलना में टीएमसी ने अपनी काफ़ी बढ़त बना ली है, वहीं कोई भी चुनाव के मैदान में संयुक्त मोर्चा की उपस्थिति से भी पूरी तरह से इंकार नहीं कर पा रहा है। ये दोनों पहलू ही बंगाली जातीयता के प्रबल उभार का संकेत दे रहे हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><strong>आज सच यह है कि भाजपा ज़्यादा से ज़्यादा बंगाल के हिंदी भाषी लोगों की पार्टी बन कर रह जा रही है। </strong></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>बांग्ला अख़बारों पर गहराई से नज़र डालने पर पता चल जाता है कि यहाँ का एक भी प्रमुख बांग्ला अख़बार, ‘आनंदबाजार पत्रिका’ हो या ‘वर्तमान’, ‘आजकल’, ‘संवाद प्रतिदिन’ या ‘एई समय’, एक भी अख़बार किसी मामले में भाजपा के नज़रिये की ताईद नहीं करता है। यह सब बंगाली जातीय चेतना का प्रमाण है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इसीलिए, हमारा मानना है कि प्रशांत कुमार भाजपा को 2019 में मिले मतों के आधार पर इस चुनाव में उसकी  शक्ति का जो आकलन कर रहे हैं, वह पूरी तरह से अतिशयोक्तिपूर्ण और निराधार है। उनका यह अनुमान निराधार और ग़लत साबित होगा। भाजपा आज की परिस्थितियों में क्रमश: तीसरे स्थान पर जा रही है। टीएमसी के बाद दूसरे स्थान पर वाम-कांग्रेस का रहना आश्चर्य की बात नहीं होगी और भाजपा 2016 के चुनाव परिणाम के आस-पास ही मंडराती दिख सकती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>-अरुण माहेश्वरी </strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:embed {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/BW28tKaMHRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/BW28tKaMHRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:embed --></p>\n' +
+    '<p><!-- wp:image {"id":161,"sizeSlug":"large","linkDestination":"none"} --></p>\n' +
+    '<figure class="wp-block-image size-large"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/nUn0eCzqrDK6IVaIk0DJ.jpg" alt="Arun Maheshwari - अरुण माहेश्वरी, लेखक सुप्रसिद्ध मार्क्सवादी आलोचक, सामाजिक-आर्थिक विषयों के टिप्पणीकार एवं पत्रकार हैं। छात्र जीवन से ही मार्क्सवादी राजनीति और साहित्य-आन्दोलन से जुड़ाव और सी.पी.आई.(एम.) के मुखपत्र ‘स्वाधीनता’ से सम्बद्ध। साहित्यिक पत्रिका ‘कलम’ का सम्पादन। जनवादी लेखक संघ के केन्द्रीय सचिव एवं पश्चिम बंगाल के राज्य सचिव। वह हस्तक्षेप के सम्मानित स्तंभकार हैं।" class="wp-image-161"/><br />\n' +
+    '<figcaption>Arun Maheshwari - अरुण माहेश्वरी, लेखक सुप्रसिद्ध मार्क्सवादी आलोचक, सामाजिक-आर्थिक विषयों के टिप्पणीकार एवं पत्रकार हैं। छात्र जीवन से ही मार्क्सवादी राजनीति और साहित्य-आन्दोलन से जुड़ाव और सी.पी.आई.(एम.) के मुखपत्र ‘स्वाधीनता’ से सम्बद्ध। साहित्यिक पत्रिका ‘कलम’ का सम्पादन। जनवादी लेखक संघ के केन'... 136 more characters,
+  storyimage1: 'rDLzQH8gZElEe0LGUTNh.jpg',
+  videos: null,
+  tags: 'जाति व्यवस्था, jaati-vyvsthaa, बंगाल के चुनाव, bngaal-ke-cunaav, बंगाल विधानसभा चुनाव, bngaal-vidhaansbhaa-cunaav, बंगाल, bngaal, भाजपा, bhaajpaa, लोकसभा चुनाव, loksbhaa-cunaav',
+  redirectURL: 'prashant-kishores-assessment-of-bjp-in-bengal-seems-exaggerated',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'जाति व्यवस्था, jaati-vyvsthaa, बंगाल के चुनाव, bngaal-ke-cunaav, बंगाल विधानसभा चुनाव, bngaal-vidhaansbhaa-cunaav, बंगाल, bngaal, भाजपा, bhaajpaa, लोकसभा चुनाव, loksbhaa-cunaav',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'prashant-kishores-assessment-of-bjp-in-bengal-seems-exaggerated',
+  createdDate: 'April 11, 2021, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 33239,
+      storyheading: 'कोरोना वैक्सीन के खेल का खुलासा',
+      storysubheading: 'Corona vaccine game revealed',
+      englishurl: 'column',
+      redirectURL: 'Corona-vaccine-game-revealed',
+      category_type: '1',
+      storyImage1: 'Corona-vaccine-game-revealed-638501661065958182.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'कोरोना वैक्सीन के खेल',
+      category_name: 'स्तंभ',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29940,
+      storyheading: 'निजी क्षेत्र का महिमामंडन करना बंद करें, निजी क्षेत्र के बैंकों के राष्ट्रीयकरण का सही समय आ गया है ?',
+      storysubheading: 'stop-glorifying-the-private-sector-is-the-right-time-to-nationalize-private-sector-banks',
+      englishurl: 'aapki najar',
+      redirectURL: 'stop-glorifying-the-private-sector-is-the-right-time-to-nationalize-private-sector-banks',
+      category_type: '1',
+      storyImage1: 'SFLFIHyBWaGy9m9sMu8U.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'article on corona virus, article-on-corona-virus, Indian economy, indian-economy, Parliament, parliament, कोरोना वायरस, koronaa-vaayrs, कोरोनावायरस, koronaavaayrs, भारतीय अर्थव्यवस्था, bhaartiiy-arthvyvsthaa',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29918,
+      storyheading: 'कोरोना समय में शराब की नदी : नोटबन्दी के बाद तालाबन्दी में जनता की औकात खुलकर सामने आ गई',
+      storysubheading: 'river-of-wine-in-corona-time',
+      englishurl: 'aapki najar',
+      redirectURL: 'river-of-wine-in-corona-time',
+      category_type: '1',
+      storyImage1: '2dF5XwdOSd5tDvxIOn7K.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'corona virus, corona-virus, lockdown, lockdown, public occupation, public-occupation, अल्कोहल, alkohl, कोरोना वायरस, koronaa-vaayrs, जनता की औकात, jntaa-kii-aukaat, जीवन रक्षक दवा, jiivn-rkssk-dvaa, मासिक धर्म, maasik-dhrm, लॉकडाउन, lonkddaaun',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29828,
+      storyheading: 'बहुत बड़ा है खेल, कोरोना वायरस का इस्तेमाल कुछ वैश्विक ताकतें दुनिया को अपनी मुठ्ठी में करने के लिए कर रही हैं !',
+      storysubheading: 'in-response-covid-19-and-it-monsters-new-trap-new-hunters-by-dr-pramod-ranjan',
+      englishurl: 'aapki najar',
+      redirectURL: 'in-response-covid-19-and-it-monsters-new-trap-new-hunters-by-dr-pramod-ranjan',
+      category_type: '1',
+      storyImage1: 'YoQrey4WhuaKZeEAun9c.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '2019-nCoV, 2019-ncov, 2020 Corona Virus, 2020-corona-virus, article on corona virus, article-on-corona-virus, Cororna virus, cororna-virus, Economic Times, economic-times, Fruit, fruit, Nutrition, nutrition, Pramod Ranjan, pramod-ranjan, Protein, protein, Up police, up-police, World Health Organization, world-health-organization, अनीता एम देसाई, aniitaa-em-desaaii, कोरोना वायरस पर लेख, koronaa-vaayrs-pr-lekh, कोरोना वायरस, koronaa-vaayrs, डब्ल्यूएचओ, ddblyuueco, विश्व स्वास्थ्य संगठन, vishv-svaasthy-sngtthn',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'देशबन्धु',
+  category_type: 1,
+  storyID: 6980,
+  authorID: 21,
+  author_enname: 'deshdel',
+  author_image: 'Deshbandhu.jpg',
+  storydate: 'Dec  2 2021  6:30PM',
+  storyheading: 'कोरोना की दूसरी लहर से बेहाल देश को अब ओमिक्रॉन का डर, पर पीएम का फोकस अब भी अपनी सरकार का प्रचार पर',
+  storysubheading: 'omicron-fears-now',
+  storysynopsis: 'कोरोना की दूसरी लहर से बेहाल देश को अब ओमिक्रॉन का डर, पर पीएम का फोकस अब भी अपनी सरकार का प्रचार पर',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>अब ओमिक्रॉन का डर (Omicron fears now)</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>देशबन्धु का संपादकीय</strong><strong></strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong><a href="https://www.hastakshep.com/second-wave-of-corona-and-healthcare-infrastructure-vijay-shankar-singh/" data-type="post" data-id="15901" target="_blank" rel="noreferrer noopener">कोरोना की दूसरी लहर</a></strong> से बेहाल, निढाल हो चुके देश को पिछले कुछ महीनों से राहत मिलती दिख रही है। <strong>कोरोना से संक्रमितों और मृतकों की गिनती</strong> <strong>(Counting of corona infected and dead)</strong> में कमी आ रही है, अस्पताल के बाहर लंबी कतारें नहीं हैं, न ही रोजाना <strong><em>ऑक्सीजन सिलेंडर की मांग को लेकर हाहाकार (Outcry over demand for oxygen cylinder)</em></strong> है। <strong><a href="https://www.hastakshep.com/new-wave-of-corona-infection-and-lockdown-concerns/" data-type="post" data-id="13451" target="_blank" rel="noreferrer noopener">देश में लॉकडाउन</a></strong> नहीं है, बहुत से कार्यालय, संस्थान खुल चुके हैं। लोगों की आवाजाही बढ़ गई है, सामाजिक, धार्मिक, सांस्कृतिक आयोजन हो रहे हैं। टीकाकरण भी हो ही रहा है। कुल मिलाकर जनजीवन पटरी पर लौट रहा है और इससे उम्मीद बंधी है कि अब देश को आर्थिक रूप से भी थोड़ा संभलने का मौका मिलेगा। लेकिन अब कोरोना के नए रूप ने एक बार फिर डर की दस्तक दे दी है। इस नए रूप का नाम है ओमिक्रान।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>ओमिक्रॉन </strong><strong>: </strong><strong>वेरिएंट ऑफ़ कंसर्न</strong><strong></strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    `<p class="has-text-align-justify">विश्व स्वास्थ्य संगठन ने इसे तकनीकी शब्दावली में <a rel="nofollow" href="https://www.hastakshepnews.com/know-everything-about-the-omicron-coronavirus-reported-from-south-africa/" target="_blank" rel="noreferrer noopener">'चिंता वाला वेरिएंट' (<strong>वेरिएंट ऑफ़ कंसर्न/</strong>वीओसी- <strong><em>variant of concern</em></strong>)</a> बताते हुए इसे 'ओमिक्रॉन' नाम दिया है। इस वेरिएंट के पहले मामले की जानकारी 24 नवंबर को दक्षिण अफ्रीका से मिली थी। इसके अलावा बोत्सवाना, बेल्जियम, हांगकांग और इज़रायल में भी इस वेरिएंट की पहचान हुई है।</p></p>\n` +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    `<p class="has-text-align-justify">इस वेरिएंट के सामने आने के बाद दुनिया के कई देशों ने दक्षिणी अफ्रीका से आने-जाने पर प्रतिबंध लगाने का फ़ैसला किया है। अमेरिका और ब्रिटेन के साथ-साथ यूरोपीय संघ के देशों और स्विट्ज़रलैंड ने भी कई दक्षिणी अफ्रीकी देशों से आने-जाने वाले विमानों पर अस्थायी रोक लगा दी है। जापान, ईरान, ब्राजील आदि देशों ने भी द.अफ्रीका से आने वाले यात्रियों के लिए नियम सख्त कर दिए हैं। हालांकि डब्ल्यूएचओ ने जल्दबाज़ी में यात्रा प्रतिबंध लगाने वाले देशों को चेतावनी देते हुए कहा है कि इन देशों को 'ख़तरों को देखकर वैज्ञानिक नज़रिया' अपनाना चाहिए।</p></p>\n` +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    `<p class="has-text-align-justify">दक्षिण अफ्रीका के स्वास्थ्य मंत्री जो फाहला ने कहा है कि उनके देश से आने-जाने वाले विमानों पर लगाए गए ये प्रतिबंध 'अनुचित' हैं। उन्होंने कहा कि आवाजाही पर लगाए गए ये प्रतिबंध डब्ल्यूएचओ द्वारा तय मानदंडों और मानकों के पूरी तरह खिलाफ़ हैं।</p></p>\n` +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>कोरोना के नए वेरिएंट मिलने की खबर से दुनिया भर के शेयर बाज़ारों में घबराहट (</strong><strong>Panic in the stock markets around the world due to the news of getting new variants of Corona</strong><strong>)</strong><strong></strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">वैसे <strong><em><a href="https://www.hastakshep.com/rich-countries-are-responsible-for-omicron-corona-virus-reported-from-south-africa/" data-type="post" data-id="18603" target="_blank" rel="noreferrer noopener">कोरोना के नए वेरिएंट मिलने की ख़बर (</a>News of getting new variants of Corona)</em></strong> से दुनिया भर के शेयर बाज़ारों में शुक्रवार को तेज़ गिरावट दर्ज की गई है। जब भी इस तरह की कोई आपात स्थिति बनती है तो उसका सीधा अर्थव्यवस्था पर पड़ता ही है और शेयर बाजार में तो लोगों की डर और मजबूरी का फायदा उठाकर ही लाभ कमाया जाता है। इसलिए ओमिक्रॉन पर डर का माहौल बनाने से पहले डब्ल्यूएचओ की वैज्ञानिक नजरिया वाली बात पर भी गौर करना चाहिए। इस साल की शुरुआत में बीटा वेरिएंट भी चिंता का कारण बना था क्योंकि ये प्रतिरक्षा तंत्र से बच निकलने में ज़्यादा माहिर था। लेकिन बाद में डेल्टा वेरिएंट पूरी दुनिया में फैल गया और बड़ी परेशानी का कारण बना। अब ओमिक्रॉन क्या असर डालता है, यह कुछ दिनों में पता चल ही जाएगा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><strong>दुनिया की बुनियादी व्यवस्था को ही हिलाकर रख दिया कोरोना ने</strong><strong></strong></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">कोरोना ने दुनिया की बुनियादी व्यवस्था और ढांचे को ही हिलाकर रख दिया है। मनुष्य सामाजिक प्राणी होते हुए भी समाज से कटकर रहने पर मजबूर कर दिया गया है। कोरोना काल में सावधानियों की आड़ में सरकारों को मनमाने फैसले लेने और निरंकुश शासन करने की छूट मिल गई। दुनिया को जान का डर बतलाकर न जाने कितने ऐसे फैसले ले लिए गए होंगे, जिनका प्रभाव हमारी भावी पीढ़ियों पर पड़ेगा। दमनकारी कानूनों के बेजा इस्तेमाल से लेकर दवाओं का मनचाहा प्रयोग इंसानी जीवन पर किया गया और इंसान जान बचाने की खातिर इन प्रयोगों के आगे नतमस्तक होता रहा।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong>भारत में लॉकडाउन</strong> <strong>(</strong><strong>Lockdown in India</strong><strong>)</strong> से लेकर ताली-थाली बजाने, दीए जलाने और टीकोत्सव मनाने जैसे काम सरकार ने किए। इसके बावजूद अकाल मौतों का दर्द आम जनता को सहना पड़ा। अब भी प्रधानमंत्री नरेन्द्र मोदी ने देशवासियों से अपील करते हुए कहा कि दुनिया में कोरोना के नए वेरिएंट को लेकर चिंता (Concerns about new variants of Corona) जताई जा रही है। ऐसे में हमें सावधान रहने की जरूरत है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong>संसद में नरेंद्र मोदी ने कहा</strong> <strong>(</strong><strong>Narendra Modi said in Parliament</strong><strong>)</strong> कि पिछले सत्र के बाद कोरोना की विकट स्थिति में भी देश ने 100 करोड़ से ज्यादा कोरोना टीके लगाए हैं। इस दिशा में हम और तेजी से आगे बढ़ रहे हैं। उन्होंने कहा कि कोरोना के नए वैरिएंट की खबरें हमें और सतर्क रहने को कहती हैं। मैं सभी लोगों और अपने संसद के साथियों से आग्रह करता हूं कि वे सतर्क रहें।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>प्रधानमंत्री का फोकस अब भी अपनी सरकार का प्रचार ही है</strong><strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">प्रधानमंत्री की इन बातों से समझा जा सकता है कि उनका फोकस अब भी अपनी सरकार का प्रचार ही है। वे कोरोना टीके लगाने का श्रेय लेना चाहते हैं, लेकिन <strong>ऑक्सीजन की कमी (lack of oxygen)</strong> और लचर स्वास्थ्य सुविधाओं पर जवाब नहीं देना चाहते। प्रधानमंत्री सतर्क रहने कह रहे हैं, जबकि अभी उ.प्र. समेत पांच राज्यों के चुनावों में वे चाहेंगे कि जहां कहीं उनकी रैली हो, लोगों की भीड़ उमड़े। प. बंगाल चुनाव में भी ऐसा ही हुआ था और उसके बाद देश ने कोरोना की दूसरी लहर देखी थी। अब फिर से चुनाव सिर पर हैं और ऐसे में जनता को ही अपने लिए सावधानी बरतनी होगी, क्योंकि सरकार की चिंता केवल शब्दों तक ही सीमित है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:embed {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/Hjla3shAd1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/Hjla3shAd1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:embed --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>देशबन्धु के संपादकीय का संपादित रूप साभार</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:jetpack/related-posts {"displayThumbnails":true,"postsToShow":4} /--></p>\n',
+  storyimage1: 'MRSUYccOW5eo0X35U9wD.jpg',
+  videos: null,
+  tags: 'कोरोना की दूसरी लहर, koronaa-kii-duusrii-lhr, कोरोना लॉकडाउन, koronaa-lonkddaaun, कोरोनावायरस लॉकडाउन, koronaavaayrs-lonkddaaun, लॉकडाउन, lonkddaaun',
+  redirectURL: 'omicron-fears-now',
+  englishurl: 'uncategorized',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'कोरोना की दूसरी लहर, koronaa-kii-duusrii-lhr, कोरोना लॉकडाउन, koronaa-lonkddaaun, कोरोनावायरस लॉकडाउन, koronaavaayrs-lonkddaaun, लॉकडाउन, lonkddaaun',
+  catname: 'Uncategorized',
+  catID: 77,
+  canonicalUrl: 'omicron-fears-now',
+  createdDate: 'December 02, 2021, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 51437,
+      storyheading: 'आज की दस बड़ी खबरें | 18 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '18 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '18-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'Khabar-AI-638675225221732415.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '18 November 2024 सुबह की बड़ी खबरें,18 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51436,
+      storyheading: 'भारत का COP29 शिखर सम्मेलन में जलवायु वित्त पर जोर, समान विचारधारा वाले विकासशील देशों का बयान',
+      storysubheading: 'India moves towards new climate finance goals at COP29',
+      englishurl: 'climate change',
+      redirectURL: 'India-moves-towards-new-climate-finance-goals-at-COP29',
+      category_type: '1',
+      storyImage1: 'India-moves-towards-new-climate-finance-goals-at-COP29-638673858354012444.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'COP29 में जलवायु वित्त के नए लक्ष्यों की दिशा में भारत का कदम, भारत COP29 जलवायु वित्त हस्तक्षेप, COP29 शिखर सम्मेलन में जलवायु वित्त पर भारत का बयान, समान विचारधारा वाले विकासशील देशों का COP29 में जलवायु वित्त बयान, COP29 2024 में भारत का जलवायु वित्त प्रस्ताव, COP29 जलवायु परिवर्तन और ग्लोबल साउथ की जरूरतें, भारत और विकासशील देशों का जलवायु वित्त पर आग्रह, भारत COP29 जलवायु कार्रवाई और वित्तीय सहयोग, भारत जलवायु परिवर्तन पर COP29 में पेरिस समझौते की पुष्टि, COP29 में जलवायु वित्त पर विकसित देशों की जिम्मेदारी,\r\n' +
+        '\r\n' +
+        '\r\n',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 51435,
+      storyheading: 'आज की दस बड़ी खबरें | 16 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: '16 November 2024 Big news of the morning',
+      englishurl: 'news-2',
+      redirectURL: '16-November-2024-Big-news-of-the-morning',
+      category_type: '1',
+      storyImage1: 'latest-news-of-the-day-638673519730490330.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '16 November 2024 सुबह की बड़ी खबरें, 16 November 2024 Big news of the morning,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 50437,
+      storyheading: 'COP29: वैश्विक जलवायु संकट के समाधान के लिए तेज़ी से कदम उठाने की आवश्यकता',
+      storysubheading: 'Rapid action is needed to address global climate crisis',
+      englishurl: 'climate change',
+      redirectURL: 'Rapid-action-is-needed-to-address-global-climate-crisis',
+      category_type: '1',
+      storyImage1: 'Rapid-action-is-needed-to-address-global-climate-crisis-638672971699949307.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूएन महासचिव एंटोनियो गुटेरेस जलवायु परिवर्तन,\r\n' +
+        '2050 तक नैट-शून्य लक्ष्य,\r\n' +
+        'जलवायु संकट समाधान में ग़ैर-सरकारी संगठन भूमिका,\r\n' +
+        'COP29 वैश्विक जलवायु परिवर्तन रणनीतियाँ,\r\n' +
+        'नैट-शून्य उत्सर्जन लक्ष्य 2050,\r\n' +
+        'ग्रीनहाउस गैस उत्सर्जन कटौती COP29,\r\n' +
+        'COP30 जलवायु सम्मेलन रणनीतियाँ,\r\n' +
+        'जलवायु परिवर्तन पर यूएन महासचिव की सिफ़ारिशें,',
+      category_name: 'जलवायु परिवर्तन',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 15577,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Nov 28 2019  6:30PM',
+  storyheading: 'पवित्र भाजपाई भ्रष्टाचार, एक लीटर दूध 80 छात्रों को परोस दिया',
+  storysubheading: 'पवित्र-भाजपाई-भ्रष्टाचार',
+  storysynopsis: 'पवित्र भाजपाई भ्रष्टाचार, एक लीटर दूध 80 छात्रों को परोस दिया',
+  fullstory: '<h2><strong>योगी सरकार के दावों की पोल खुली : माले</strong></h2></p>\n' +
+    '<p>लखनऊ, 29 नवंबर। <strong>भाकपा (माले)</strong> की राज्य इकाई ने कहा है कि <strong>मिड-डे-मील</strong> में मिर्जापुर में नमक-रोटी परोसे जाने (<strong>Salt-bread served at Mirzapur in mid-day-meal</strong>) के बाद <strong>सोनभद्र</strong> के एक स्कूल में एक लीटर दूध में पानी मिलाकर 80 छात्रों को परोसने की घटना (Incident of serving 80 students by mixing water in one liter of milk in a school in Sonbhadra) योगी सरकार के दावों की पोल खोलती है।</p>\n' +
+    "<p>पार्टी के राज्य सचिव सुधाकर यादव ने शुक्रवार को जारी बयान में कहा कि भ्रष्टाचार के प्रति 'जीरो टॉलरेंस' का ढिंढोरा पीटने वाली योगी सरकार के दावे हवा-हवाई हैं। स्कूली बच्चों के मिड-डे-मील में भ्रष्टाचार से लेकर कर्मचारियों का पीएफ घोटाला, होमगार्ड घोटाला, बुंदेलखंड में वृक्षारोपण घोटाला, गोवंश संरक्षण घोटाला जैसे कई उदाहरण इस बात के गवाह हैं कि इस सरकार में भ्रष्टाचार सर्वत्र पसरा हुआ है। लेकिन सरकार विज्ञापनबाजी में लगी है कि भ्रष्टाचार बर्दाश्त नहीं है। इससे बड़ा झूठ नहीं हो सकता।</p>\n" +
+    '<p><iframe src="https://www.youtube.com/embed/smrDSm81Twg" width="704" height="396" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>\n' +
+    '<p><strong>Yogi government stands exposed: CPI (ML)</strong></p>\n',
+  storyimage1: 't34PUhwhZKQ9M5ArVez8.jpg',
+  videos: null,
+  tags: '',
+  redirectURL: 'पवित्र-भाजपाई-भ्रष्टाचार',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: '',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'पवित्र-भाजपाई-भ्रष्टाचार',
+  createdDate: 'November 28, 2019, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 48426,
+      storyheading: 'भागलपुर दंगों के 35 साल: क्या 1989 के भागलपुर नरसंहार को भुला देना सही है?',
+      storysubheading: '35 years of Bhagalpur riots Should Bhagalpur massacre of 1989 be forgotten',
+      englishurl: 'opinion',
+      redirectURL: '35-years-of-Bhagalpur-riots-Should-Bhagalpur-massacre-of-1989-be-forgotten',
+      category_type: '1',
+      storyImage1: '35-years-of-Bhagalpur-riots-638662586330875497.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'भागलपुर दंगों के 35 साल,1989 के भागलपुर नरसंहार, 1989 सांप्रदायिक दंगे भागलपुर का इतिहास, 1989 Bhagalpur riots impact on Indian society,communal violence history in India,Bhagalpur massacre 1989 historical analysis,impact of Bhagalpur riots on Hindu-Muslim relations in India,Bhagalpur communal riots survivors stories,how Bhagalpur massacre shaped communal tensions in India,role of Dr. Suresh Khairnar in Bhagalpur riot awareness,long-term consequences of 1989 Bhagalpur riots on local communities,role of the media in communal riots in India,Hindu-Muslim relations after Bhagalpur massacre 1989, Bhagalpur riots forgotten tragedy of Indian history,analyzing government response to Bhagalpur riots,historical events that led to 1989 Bhagalpur massacre,Bhagalpur riots human rights violations analysis,role of social organizations post-Bhagalpur riots recovery,lessons from the Bhagalpur massacre for communal harmony in India,Hindu-Muslim unity efforts after Bhagalpur violence,Dr. Suresh Khairnar’s work on communal harmony in India,stories of resilience after Bhagalpur riots,impact of Bhagalpur massacre on future communal conflicts in India, comparison between Bhagalpur riots and Gujarat riots, social and economic impact of Bhagalpur riots on survivors, legacy of Bhagalpur riots on modern India, preventing communal violence based on Bhagalpur riots experiences, lessons learned from the 1989 Bhagalpur massacre in India,',
+      category_name: 'हस्तक्षेप',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 42338,
+      storyheading: 'देश का पैसा राजनीति पर खर्च हो रहा है पत्रकारिता के नाम पर',
+      storysubheading: 'The countrys money is being spent on politics in the name of journalism',
+      englishurl: 'journalism-the-fourth-pillar',
+      redirectURL: 'The-countrys-money-is-being-spent-on-politics-in-the-name-of-journalism',
+      category_type: '1',
+      storyImage1: 'The-countrys-money-is-being-spent-on-politics-in-the-name-of-journalism-638580056840794429.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'politics in the name of journalism, दूरदर्शन पर राजनीतिक बहस,',
+      category_name: 'चौथा खंभा',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29817,
+      storyheading: 'राजनीति चमकाने के लिए मेरठ प्रहलाद नगर के साम्प्रदायिक सौहार्द को बिगाड़ने का प्रयास',
+      storysubheading: 'राजनीति-चमकाने-के-लिए-मेर',
+      englishurl: 'national',
+      redirectURL: 'राजनीति-चमकाने-के-लिए-मेर',
+      category_type: '1',
+      storyImage1: 'fPH5QNc2anLPBYQJsoOI.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'communal harmony, communal-harmony, Meerut, meerut, migrating Hindus, migrating-hindus, politics, politics, Prahalad Nagar, prahalad-nagar, प्रहलाद नगर, prhlaad-ngr, मेरठ, mertth, राजनीति, raajniiti, साम्प्रदायिक सौहार्द, saamprdaayik-sauhaard, हिंदुओं के पलायन, hinduon-ke-plaayn',
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29734,
+      storyheading: 'एनआरसी को यूपी में लागू करने की कवायद भाजपा की ध्रुवीकरण की राजनीति का हिस्सा : माले',
+      storysubheading: 'cpi-m-criticises-implementation-of-nrc-in-up',
+      englishurl: 'national',
+      redirectURL: 'cpi-m-criticises-implementation-of-nrc-in-up',
+      category_type: '1',
+      storyImage1: '4J6wK8bcA024kEIApXql.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: "BJP's polarization politics, bjps-polarization-politics, NRC in UP, nrc-in-up, NRC, nrc, एनआरसी, enaarsii, भाजपा की ध्रुवीकरण की राजनीति, bhaajpaa-kii-dhruviikrnn-kii-raajniiti, यूपी में एनआरसी, yuupii-men-enaarsii",
+      category_name: 'देश',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 23032,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'Dec 25 2018  6:30PM',
+  storyheading: 'कोलकाता में कन्हैया कुमार बिफरे, बोले मोदी-ममता दोनों कर रहे हैं सांप्रदायिक राजनीति',
+  storysubheading: 'both-modi-mamata-doing-communal-politics-kanhaiya-kumar',
+  storysynopsis: 'कोलकाता में कन्हैया कुमार बिफरे, बोले मोदी-ममता दोनों कर रहे हैं सांप्रदायिक राजनीति',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>कन्हैया कुमार बिफरे, बोले मोदी-ममता दोनों कर रहे हैं सांप्रदायिक राजनीति</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>Both Modi, Mamata doing communal politics : Kanhaiya Kumar</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>कोलकाता, 26 दिसम्बर। ऑल इंडिया स्टूडेंट्स फेडरेशन (एआईएसएफ) के नेता कन्हैया कुमार ने बुधवार को प्रधानमंत्री नरेंद्र मोदी और पश्चिम बंगाल के मुख्यमंत्री ममता बनर्जी पर संप्रदायिक राजनीति करने का आरोप लगाया। कन्हैया कुमार ने देश के संविधान और लोकतंत्र के विरुद्ध काम करने वाले हर किसी के खिलाफ लड़ने की शपथ ली।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>भारतीय कम्युनिस्ट पार्टी (भाकपा) के स्थापना दिवस पर यहां आयोजित एक कार्यक्रम में कन्हैया ने कहा,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:quote --></p>\n' +
+    '<blockquote class="wp-block-quote"><p>"यह सच है कि मोदी लोकतंत्र का विनाश कर रहे हैं और लोकतांत्रिक संस्थानों को बदनाम कर रहे हैं। इसलिए हर किसी को उनके खिलाफ एकजुट होना चाहिए, लेकिन यह भी सच है कि दिल्ली में बैठकर मोदी जो देश में कर रहे हैं वही कोलकाता में बैठकर दीदी (ममता) कर रही हैं।"</p></p>\n' +
+    '</blockquote>\n' +
+    '<p><!-- /wp:quote --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उन्होंने दावे के साथ कहा,</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:quote --></p>\n' +
+    '<blockquote class="wp-block-quote"><p>"भारत को फिर बांटने की साजिश है। हमारा मुख्य मकसद लोकतंत्र की रक्षा होना चाहिए। अगर कोई स्वेच्छाचारी शासन स्थापित करना चाहता है और लोकतंत्र को नष्ट करना चाहता है तो हम मोदी और दीदी के साथ एक ही तरीके से लड़ेंगे।"</p></p>\n' +
+    '</blockquote>\n' +
+    '<p><!-- /wp:quote --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>बंगाल को बहु-सांस्कृतिक प्रदेश बताते हुए जवाहरलाल नेहरू विश्वविद्यालय (जेएनयू) छात्र संघ के पूर्व अध्यक्ष ने कहा कि सांप्रदायिक ताकतें हमेशा बंगाल के सामाजिक ताना-बाना को नष्ट करके अपनी विभाजनकारी राजनीति का ब्रांड बनाना चाहती हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><a name="_Hlk533371083"></a><a name="_Hlk530222271"></a><a name="_Hlk531594687"></a><a name="_Hlk530214216"></a><strong>क्या यह ख़बर/ लेख आपको पसंद आया ? </strong><strong>कृपया कमेंट बॉक्स में कमेंट भी करें और शेयर भी करें ताकि ज्यादा लोगों तक बात पहुंचे</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:html --></p>\n' +
+    '<div style="background: #eeeeee; border: 1px solid #cccccc; padding: 5px 10px;"><a href="https://www.youtube.com/channel/UCMTm9fQIkV21sa61cH_p8yg"><strong>कृपया हमारा यूट्यूब चैनल सब्सक्राइब करें</strong></a></div></p>\n' +
+    '<p><!-- /wp:html --></p>\n' +
+    '<p><!-- wp:html --><br />\n' +
+    '<iframe width="901" height="507" src="https://www.youtube.com/embed/bRVsg9G8uTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />\n' +
+    '<!-- /wp:html --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><em><strong>Kolkata, All India Students Federation, establishment of the Communist Party of India, Kanhaiya Kumar, communal politics,</strong></em></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n',
+  storyimage1: 'WAVwp1rHfXMe0iEazyH6.jpg',
+  videos: null,
+  tags: 'communal politics, communal-politics, Kanhaiya Kumar, kanhaiya-kumar, कन्हैया कुमार, knhaiyaa-kumaar, बंगाल, bngaal',
+  redirectURL: 'both-modi-mamata-doing-communal-politics-kanhaiya-kumar',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'communal politics, communal-politics, Kanhaiya Kumar, kanhaiya-kumar, कन्हैया कुमार, knhaiyaa-kumaar, बंगाल, bngaal',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'both-modi-mamata-doing-communal-politics-kanhaiya-kumar',
+  createdDate: 'December 25, 2018, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 47413,
+      storyheading: 'उत्तर प्रदेश में पुलिस हिरासत में अत्यधिक मौतें: योगी सरकार की पुलिस निरंकुशता पर दारापुरी का तीखा हमला',
+      storysubheading: 'Excessive deaths in police custody in Uttar Pradesh',
+      englishurl: 'news-2',
+      redirectURL: 'Excessive-deaths-in-police-custody-in-Uttar-Pradesh',
+      category_type: '1',
+      storyImage1: 'Excessive-deaths-in-police-custody-in-Uttar-Pradesh-638657264109845293.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'यूपी में पुलिस हिरासत में मौतें, Deaths in police custody in UP',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 29828,
+      storyheading: 'बहुत बड़ा है खेल, कोरोना वायरस का इस्तेमाल कुछ वैश्विक ताकतें दुनिया को अपनी मुठ्ठी में करने के लिए कर रही हैं !',
+      storysubheading: 'in-response-covid-19-and-it-monsters-new-trap-new-hunters-by-dr-pramod-ranjan',
+      englishurl: 'aapki najar',
+      redirectURL: 'in-response-covid-19-and-it-monsters-new-trap-new-hunters-by-dr-pramod-ranjan',
+      category_type: '1',
+      storyImage1: 'YoQrey4WhuaKZeEAun9c.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: '2019-nCoV, 2019-ncov, 2020 Corona Virus, 2020-corona-virus, article on corona virus, article-on-corona-virus, Cororna virus, cororna-virus, Economic Times, economic-times, Fruit, fruit, Nutrition, nutrition, Pramod Ranjan, pramod-ranjan, Protein, protein, Up police, up-police, World Health Organization, world-health-organization, अनीता एम देसाई, aniitaa-em-desaaii, कोरोना वायरस पर लेख, koronaa-vaayrs-pr-lekh, कोरोना वायरस, koronaa-vaayrs, डब्ल्यूएचओ, ddblyuueco, विश्व स्वास्थ्य संगठन, vishv-svaasthy-sngtthn',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28722,
+      storyheading: 'दो पहिया वाहन के कारण पारसनाथ पर्वत पर डोली मजदूर भुखमरी के कगार पर',
+      storysubheading: 'doli-laborers-on-the-verge-of-starvation-on-parasnath-mountain-due-to-two-wheelers',
+      englishurl: 'uncategorized',
+      redirectURL: 'doli-laborers-on-the-verge-of-starvation-on-parasnath-mountain-due-to-two-wheelers',
+      category_type: '1',
+      storyImage1: 'lUflKAFkU1XMtO6QY8PM.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Up police, up-police, जानिए, jaanie, झारखंड, jhaarkhndd, डोली मजदूर, ddolii-mjduur, पहाड़, phaadd, पारसनाथ पर्वत, paarsnaath-prvt',
+      category_name: 'Uncategorized',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 28234,
+      storyheading: 'एक कुजात गांधीवादी को याद करते हुए',
+      storysubheading: 'on-the-birthday-of-dr-ram-manohar-lohia',
+      englishurl: 'aapki najar',
+      redirectURL: 'on-the-birthday-of-dr-ram-manohar-lohia',
+      category_type: '1',
+      storyImage1: 'yeFyhv4l7zRgHRYtVbP8.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'Up police, up-police, आंदोलनजीविता, aandolnjiivitaa, गांधीवादी, gaandhiivaadii, जाति व्यवस्था, jaati-vyvsthaa, डॉ. राम मनोहर लोहिया, ddon-raam-mnohr-lohiyaa, राममनोहर लोहिया, raammnohr-lohiyaa, लोहिया, lohiyaa',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'देशबन्धु',
+  category_type: 1,
+  storyID: 17008,
+  authorID: 21,
+  author_enname: 'deshdel',
+  author_image: 'Deshbandhu.jpg',
+  storydate: 'Dec  1 2020  6:30PM',
+  storyheading: 'जानिए आपराधिक न्याय तंत्र में डॉक्टरों की भूमिका क्या है',
+  storysubheading: 'role-of-doctors-in-the-criminal-justice-system',
+  storysynopsis: 'जानिए आपराधिक न्याय तंत्र में डॉक्टरों की भूमिका क्या है',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2>Know what is the role of doctors in the criminal justice system</h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>एक पीड़ित अस्पताल में पहुंचते ही जब डॉक्टर को अपनी व्यथा-कथा सुनाए तो एक डॉक्टर का पहला कर्त्तव्य क्या होना चाहिए </strong><strong>| What should be the first duty of a doctor when a victim narrates his or her grief to the doctor as soon as they reach the hospital</strong><strong></strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पश्चिम बंगाल के एक गाँव की महिला ने गाँव के एक युवक पर आरोप लगाया कि उसने 28 अप्रैल, 1997 को उसके साथ बलात्कार किया है। यह शिकायत पंचायत में प्रस्तुत की गई थी। 5 महीने तक कोई कार्यवाही नहीं हुई तो 26 सितम्बर, 1997 को महिला ने पुलिस स्टेशन में शिकायत दर्ज करवा दी जिस पर <strong><a href="https://www.hastakshep.com/in-yogi-raj-women-are-not-safe-rapists-are-saved-demonstration-of-women-at-the-district-magistrates-office-in-badaun/" data-type="post" data-id="9359" target="_blank" rel="noreferrer noopener">बलात्कार का मुकदमा</a></strong> दर्ज किया गया। शिकायतकर्ता का वक्तव्य मजिस्ट्रेट के समक्ष लिखा गया। इसके एक वर्ष बाद 26 सितम्बर, 1998 की रात्रि में बलात्कारी तथा एक अन्य युवक ने उस महिला के घर का द्वार खटखटाया। द्वार खुलते ही दोनों युवकों ने महिला पर एसिड प्रहार किया और भाग गये। महिला का पति मन्दबुद्धि था। अत: घर पर होने के बावजूद भी वह किसी प्रकार से लाभदायक नहीं था। उसके अतिरिक्त दो छोटे बच्चे थे। महिला के शोर मचाने पर पड़ोसी पहुँच गये, महिला को पहले पुलिस स्टेशन लेकर गये और उसके बाद उसे इलाज के लिए अस्पताल लेकर गये। पुलिस स्टेशन में कोई लिखित शिकायत दर्ज नहीं हुई।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>Doctors of the hospital did not send the report of the incident to the police</strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">अस्पताल में उसने सारी घटना तथा दोनों हमलावरों के नाम भी डॉक्टर को बता दिये थे। परन्तु अस्पताल के डॉक्टरों ने इसकी सूचना रिपोर्ट पुलिस को नहीं भेजी। इस घटना के लगभग 5 दिन बाद उसने एक शिक्षित व्यक्ति के माध्यम से शिकायत लिखवाई और रजिस्टर्ड डाक से पुलिस स्टेशन भेजी। इस लिखित शिकायत में उसने अस्पताल में भी अपने विरुद्ध दो अनजान व्यक्तियों द्वारा हमले की शंका व्यक्त की। </p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">यह लिखित शिकायत 7 दिन बाद पुलिस स्टेशन में पहुँची तो पुलिस ने छानबीन की कार्यवाही प्रारम्भ की, परन्तु तब तक 23 नवम्बर, 1998 के दिन शिकायतकर्ता महिला ने दम तोड़ दिया। इस प्रकार दोनों हमलावरों के विरुद्ध <strong>धारा-302 के अन्तर्गत मुकदमा (Lawsuit under section 302)</strong> दर्ज करके कार्यवाही प्रारम्भ की गई, जबकि इनमें से एक <strong>हमलावर के विरुद्ध बलात्कार का मुकदमा</strong> <strong>(Rape case against the attacker)</strong> पहले ही लम्बित था। </p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">शिकायतकर्ता की मृत्यु के बाद बलात्कार के मुकदमें में आरोपी को बरी कर दिया गया। अब केवल कत्ल का मुकदमा शेष था जिसमें मृतक महिला के रिश्तेदारों, पड़ोसियों के अतिरिक्त अस्पताल में इलाज करने वाले प्रथम डॉक्टर का वक्तव्य प्रमुख रूप से लिखा गया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>आरोपियों ने अपनी सफाई में कोई गवाह प्रस्तुत नहीं किया। सत्र न्यायालय ने बलात्कारी आरोपी को मृत्युदण्ड की सज़ा सुनाई जबकि दूसरे आरोपी को आजीवन कारावास की सजा सुनाई गई।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>अपराधियों द्वारा कलकत्ता उच्च न्यायालय के समक्ष प्रस्तुत अपील में निर्णय देते हुए उच्च न्यायालय ने दोनों अपराधियों को बरी कर दिया। इस निर्णय के विरुद्ध शिकायतकर्ता महिला के भाई सुरेश चन्द्र जैना ने सर्वोच्च न्यायालय के समक्ष अपील प्रस्तुत की।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>Supreme Court said that benefit of every small and big doubt cannot be given to the accused</strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>सर्वोच्च न्यायालय के न्यायमूर्ति श्री एन.वी. रमन्ना एवं न्यायमूर्ति श्री प्रफुल्लचन्द पंत की पीठ ने इस अपील पर सुनवाई की।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">अभियुक्तों के वकीलों ने हर प्रकार की तकनीकी आपत्तियों के बल पर अभियुक्तों को बेकसूर सिद्ध करने का प्रयास किया। परन्तु सारे मामले पर विचार करने के उपरान्त सर्वोच्च न्यायालय ने इसे पुलिस, <strong>डॉक्टरों तथा समूचे तन्त्र की असंवेदनशीलता का उदाहरण</strong> बताया। उच्च न्यायालय ने भी तथ्यों, हालात तथा गवाहों को समझने में एक सामान्य बुद्धि का परिचय दिया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><strong>The main objective of the administration of justice is to protect society. | What is the importance of administration of justice?</strong></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">अदालत ने कहा कि हर छोटे-बड़े संदेह का लाभ अभियुक्तों को नहीं दिया जा सकता। किसी परिस्थिति में जब किसी संदेह के कारण वस्तुस्थिति का आकलन करना असम्भव हो रहा हो तो ऐसे संदेह का लाभ ही अभियुक्तों को दिया जाना चाहिए। <strong>न्याय के प्रशासन का मुख्य उद्देश्य समाज की रक्षा करना है।</strong> न्यायिक प्रक्रिया ऐसे पीड़ितों को अनदेखा नहीं कर सकती जो मर चुके हैं और अदालत के समक्ष अपने दु:ख को व्यक्त नहीं कर सकते।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>न्यायमूर्ति श्री रमन्ना ने अपने पृथक निर्णय नोट में कुछ विशेष और महत्त्वपूर्ण सिद्धान्तों का उल्लेख किया। </strong><strong></strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify"><strong>न्यायमूर्ति श्री रमन्ना ने</strong> कहा कि अपराधिक न्याय व्यवस्था केवल निगरानी का तंत्र नहीं है अपितु इसका उद्देश्य प्रत्येक देशवासी का संरक्षण होना चाहिए। इसमें कोई आपत्ति नहीं है कि इस आपराधिक न्याय व्यवस्था का संचालन कई स्तरों पर अलग-अलग प्रकार के लोगों के द्वारा किया जाता है। यदि पीड़ित पक्ष के लोग और पूरा समाज जागरूक हो तभी इन सारे स्तरों पर तन्त्र के लोग आवश्यक कार्यवाही करते हुए दिखाई देंगे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">एक पीड़िता अस्पताल में पहुंचते ही जब डॉक्टर को अपनी व्यथा-कथा सुनाती है तो डॉक्टर का पहला कर्त्तव्य होना चाहिए कि वह उसके सारे वक्तव्य को लिखकर पुलिस के समक्ष प्रस्तुत करे। परन्तु इस मामले में डॉक्टरों ने भी पूरी लापरवाही का परिचय दिया। डॉक्टरों ने पीड़ित महिला का प्रथम वक्तव्य नहीं लिखा। यहाँ तक कि अस्पताल में भर्ती के दौरान जब उसे कुछ अन्य लोगों से धमकी की आशंका थी तब भी कोई कार्यवाही नहीं की गई। इस प्रकार 26 दिन तक अस्पताल के डॉक्टर या पुलिस ने पीड़िता से पूछताछ करने का कोई प्रयास नहीं किया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">उच्च न्यायालय जैसे स्तर पर कार्य करने वाले न्यायाधीश भी तकनीकी कमजोरियों के आधार पर अपराधियों को छोड़ने का कार्य कर देते हैं। न्यायाधीशों को कानून की भावनाओं के आधार पर कार्य करने का प्रशिक्षण मिलता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">जहाँ तक एसिड हमलों की घटनाओं का प्रश्न है, यह स्वीकार करना आवश्यक है कि इससे पीड़िता को केवल शारीरिक ही नहीं अपितु मनोवैज्ञानिक ठेस भी पहुँचती है। सख्त कानूनों तथा सर्वोच्च न्यायालय के अनेकों निर्णयों के बावजूद भी <strong><a href="https://www.hastakshep.com/wolves-have-left-west-bengal-to-make-gujarat/" data-type="post" data-id="14522" target="_blank" rel="noreferrer noopener">एसिड हमलों की घटनाएँ</a></strong> बढ़ती जा रही हैं। ऐसी घटनाएँ केवल कानूनों से नहीं रुकेंगी। इन्हें रोकने के लिए समाज में विद्यमान नर-नारी भेदभाव को समाप्त करने की आवश्यकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"textColor":"vivid-red","fontSize":"huge"} --></p>\n' +
+    '<p class="has-vivid-red-color has-text-color has-huge-font-size"><strong>- विमल वधावन एडवोकेट</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:embed {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/Yj9g0H4GqOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/Yj9g0H4GqOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:embed --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>(देशबन्धु में प्रकाशित <a rel="nofollow" href="https://deshbandhu.co.in/vichar/lawandlegal-role-of-doctors-in-criminal-justice-system-62807-2">लेख</a> का संपादित रूप)</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n',
+  storyimage1: 'JrItqnIWVydoTiKEJ7E0.jpg',
+  videos: null,
+  tags: 'Up police, up-police, डॉक्टर, ddonkttr, बलात्कार, blaatkaar, बलात्कारी, blaatkaarii',
+  redirectURL: 'role-of-doctors-in-the-criminal-justice-system',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'Up police, up-police, डॉक्टर, ddonkttr, बलात्कार, blaatkaar, बलात्कारी, blaatkaarii',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'role-of-doctors-in-the-criminal-justice-system',
+  createdDate: 'December 01, 2020, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 49438,
+      storyheading: 'आज की दस बड़ी खबरें | 14 November 2024. आज सुबह की बड़ी खबरें',
+      storysubheading: 'Todays big news 14 November 2024',
+      englishurl: 'news-2',
+      redirectURL: 'Todays-big-news-14-November-2024',
+      category_type: '1',
+      storyImage1: 'Todays-big-news-14-November-2024-638671782642112324.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: "Today's big news 14 November 2024, 14 नवंबर 2024 सुबह की प्रमुख समाचार हेडलाइंस, आज की 14 नवंबर 2024स बड़ी खबरें",
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 48441,
+      storyheading: 'आज की दस बड़ी खबरें | 08 November2024. आज सुबह की बड़ी खबरें',
+      storysubheading: 'News Bulletin 8 November 2024',
+      englishurl: 'news-2',
+      redirectURL: 'News-Bulletin-8-November-2024',
+      category_type: '1',
+      storyImage1: 'News-Bulletin-8-November-2024-638666598829129584.jpg',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'News Bulletin 8 November 2024,समाचार बुलेटिन 8 नवंबर 2024',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 43343,
+      storyheading: 'आज की दस बड़ी खबरें | 04 अगस्त 2024 आज रात्रि की बड़ी खबरें',
+      storysubheading: '04 August 2024 Todays big news',
+      englishurl: 'news-2',
+      redirectURL: '04-August-2024-Todays-big-news',
+      category_type: '1',
+      storyImage1: 'News-bulletin-DB-Live-638584014251500326.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: "04 अगस्त 2024 आज की बड़ी खबरें, 04 August 2024 Today's big news, 04 अगस्त 2024 खबरें,\r\n" +
+        '04 अगस्त 2024 की प्रमुख खबरें,\r\n' +
+        '04 अगस्त 2024 रात की ताज़ा खबरें,\r\n' +
+        '04 अगस्त 2024 समाचार,\r\n' +
+        '04 अगस्त 2024 प्रमुख समाचार अपडेट्स,\r\n' +
+        '04 अगस्त 2024 ब्रेकिंग न्यूज़,\r\n' +
+        '04 अगस्त 2024 आज की मुख्य ख़बरें,\r\n' +
+        '04 अगस्त 2024 रात्रि की ताज़ा अपडेट्स,\r\n' +
+        '04 अगस्त की बड़ी ख़बरें, School Assembly News Headlines in Hindi for 5 August 2024,',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 40302,
+      storyheading: 'आज की दस बड़ी खबरें | 01 जुलाई 2024 आज की बड़ी खबरें',
+      storysubheading: 'big news 01 July 2024',
+      englishurl: 'news-2',
+      redirectURL: 'big-news-01-July-2024',
+      category_type: '1',
+      storyImage1: 'big-news-01-July-2024-638554616721047005.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: " 01 जुलाई 2024 आज की बड़ी खबरें, 01 July 2024 Today's big news, २ जुलाई के लिए स्कूल असेंबली समाचार सुर्खियां हिंदी में",
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'देशबन्धु',
+  category_type: 1,
+  storyID: 25836,
+  authorID: 21,
+  author_enname: 'deshdel',
+  author_image: 'Deshbandhu.jpg',
+  storydate: 'Jul 14 2022  6:30PM',
+  storyheading: 'मोनोट्रोपा का सच : एक विलक्षण फूलधारी पौधा',
+  storysubheading: 'monotropa-plant-in-hindi',
+  storysynopsis: 'मोनोट्रोपा का सच : एक विलक्षण फूलधारी पौधा',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>परजीवी और सहजीवी का अंतर | सजीवों की कितनी श्रेणियां होती हैं?</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p>सजीवों को विभिन्न समूहों में बांटने का एक प्रमुख आधार (A major basis for dividing living beings into different groups) उनके पोषण का तरीका भी है। इस दृष्टि से सभी सजीवों को दो श्रेणियों में रखा गया है। पहले स्वपोषी और दूसरे परपोषी (<a rel="nofollow" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A4%AA%E0%A5%8B%E0%A4%B7%E0%A4%BF%E0%A4%A4">Heterotroph</a>)। स्वपोषी जीव सूर्य के प्रकाश की उपस्थिति में अपना भोजन स्वयं बनाते हैं। सारे हरे पौधें एवं कुछ बैक्टीरिया इसी श्रेणी में आते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>परपोषी जीव किसे कहते हैं</strong><strong>?</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">जो जीव अपना भोजन दूसरे जीवों से पाप्त करते हैं वे परपोषी कह जाते हैं। सारे जन्तु इसी श्रेणी में आते हैं। इनका भोजन या तो स्वपोषी पेड़-पौधे होते हैं या अन्य जन्तु।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>परपोषियों को भी <strong>परजीवी</strong><strong>, </strong><strong>सहजीवी और मृतजीवी</strong> (parasitic, symbiotic and saprophyte) में बांटा गया है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>परजीवी (</strong><strong>parasitic</strong><strong>)</strong> यानी जो जीव पचा-पचाया भोजन किसी अन्य जीव से प्रापत करे। <strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>सहजीवी का मतलब (</strong><strong>symbiotic</strong><strong>)</strong> होता हे दो जीवों का इस तरह साथ-साथ रहना कि वे एक-दूसरे को मदद पहुंचाए और सामान्यत: इस मदद के बगैर उनका अस्तित्व संभव न हो। <strong></strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p><strong>मृतजीवी (</strong><strong>saprophyte</strong><strong>)</strong> यानी सड़े गले मृत जैविक पदार्थो से अपना भोजन प्रापत करने वाले पौधे ये जंगल में सड़ी-गली पत्तियों व कार्बनिक पदार्थों के ढेरों पर उगते हैं और इनमें भोजन बनाने वाला हरा पदार्थ क्लोरोफिल नहीं होता। मृतजीवी अपना भोजन मृत कार्बनिक पदार्थों से द्रव के रूप में ग्रहण करते है। इनमें ऐसे विषय एन्जाइम होते हैं, जो इनके शरीर से बाहर आकर मृत पदार्थों पर क्रिया करके उन्हें द्रव में बदल देते हैं। फिर ये पचे हुए द्रव पदार्थ विशेष चूषक अंगों द्वारा सोख लिए जाते हैं। ब्रेड, अचार, मुरब्बों और चमड़ों पर लगने वाली फफूंद ही इस मायने में मृतजीवी है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>क्या मोनोट्रोपा मृतजीवी पादप है?</strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:image {"id":10906,"sizeSlug":"large","linkDestination":"none"} --></p>\n' +
+    '<figure class="wp-block-image size-large"><img src="https://img-cdn.thepublive.com/fit-in/580x348/filters:format(webp)/hastakshep-prod/media/post_attachments/5ZFYOauWOVgKNenlAKrz.jpg" alt="Nature And Us" class="wp-image-10906"/><br />\n' +
+    '<figcaption>Nature And Us</figcaption></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:image --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    `<p>मगर <strong><a rel="nofollow" href="https://en.wikipedia.org/wiki/Monotropa">मोनोट्रोपा</a></strong> (<strong><a rel="nofollow" href="https://www.britannica.com/plant/Monotropa">Monotropa</a></strong>) सराकोडेस तथा नियोटिया और इपीपोगान जैसे कुछ आर्किडस को भी उच्चतर माध्यमिक और स्नातक स्तर की अधिकांश पाठ्य पुस्तकों में मृतजीवी ही कहा गया है। ये फूलधारी पौधे हैं। थोड़े गहराई में जाएं तो इनको मृतजीवी कहना उचित नहीं लगता। बल्कि इनका अध्ययन <strong>प्रकृति की खाद्य श्रृंखला के कुछ रोचक तथ्य </strong><strong>(Some interesting facts about nature's food chain)</strong> उजागर करता है। मोनोट्रोपा और नियोटिया के बारे में यह तो बहुत पहले से ही ज्ञात था कि इनकी जड़ों पर जड़-फफूंद (मायकोराइजा) का जाल बिछा रहता है। यह माना गया था कि ये इसी फफूंद-जाल के माध्यम से सड़ी-गली पत्तियों और मृत जन्तुओं से अपना भोजन प्रापत करते हैं।</p></p>\n` +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p><strong>मोनोट्रोपा इंडिका</strong><strong> (Monotropa Indica)</strong> एक क्लोरोफिल रहित क्रीम रंग का पौधा है जो अधिकतर चीड़ (पाइन), ओक और <strong>स्प्रूस</strong> जैसे पेड़ों की छाया तले सड़ी-गली पत्तियों के बीच उगता पाया जाता है। सड़ी-गली पत्तियों के बीच उगने के कारण इसके मृतजीवी होने की पुष्टि सी हो गई।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">चीड़ और स्प्रूस के पेड़ों की जडों के आसपास उगने के कारण इसे बाद में जड़ परजीवी भी कहा गया। परन्तु इन पेड़ों की जड़ों से इसका कोई भौतिक संबंध न मिलने के कारण इस मत को खारिज कर दिया गया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>मोनोट्रोपा का सच क्या है</strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p>आगे चलकर गहराई से छानबीन करने पर पता चला कि <strong>मोनोट्रोपा का सच (</strong><strong>truth of monotropa</strong><strong>)</strong> कुछ और ही है और इस कहानी में एक तीसरा पात्र भी है। वह तीसरा पात्र है तो वहीं फफूंद मगर उसकी वास्तविक भूमिका कापुी समय बाद स्पष्ट हो पाई।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p>यह भूमिका स्पष्ट होने पर पता चला कि उपरोक्त सारे मत कुछ हद तक सही हैं। अब यह स्पष्ट हो चुका है कि मोनोट्रोपा ओर चीड़ व <strong>स्प्रूस के पेड़</strong> (<strong>Spruce</strong>) एक-दूसरे से सीधे चाहे न जुउे हों मगर एक जड़ फफूंद बोलीटस के जरिए अवश्य जुड़े रहत हैं। यह <a rel="noreferrer noopener" href="https://www.hastakshep.com/news-2-technology-and-science-researchers-develop-new-method-to-protect-grape-fruit-from-cid4257649-htm/" data-type="post" data-id="679" target="_blank"><strong>फफूंद</strong> (fungus) </a><strong>मोनोट्रोपा की जड़ों</strong> (Roots of Monotropa) और पोषक पेड़ की जड़ों के बीच एक सेतु की तरह काम करती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p>बाजार्कमैन ने अपने प्रयोगों द्वारा सिद्ध किया कि <strong>बोलीटस फंफूद</strong> <strong>(</strong><strong>boletes fungus</strong><strong>)</strong> पोषक पेड़ (चीड़ व स्प्रुस) से मानोट्रोपा को पोषक पदाथ्र उपलब्ध कराती रहती है। इसे सिद्ध करने के लिए उन्हें कुछ रोचक प्रयोग किए। इनमें आइसोटोप तकनीक का उपयोग किया गया था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":6} --></p>\n' +
+    '<h6><strong>मोनोट्रोपा</strong><strong> </strong><strong>मृतजीवी है या परजीवी</strong><strong>?</strong><strong></strong></h6></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p>कभी-कभी प्रकृति में एक ही तत्व के एकाधिक रूप पाए जाते हैं। जिन्हें हम <strong>आइसोटोप (Isotopes)</strong> कहते हैं। ये रासायनिक रूप से तो एक जैसे होते हैं मगर इनमें कुछ ऐसे ऊतक होते हैं कि इन्हें अलग-अलग पहचाना जा सकता है। मसलन कार्बन तीन रूपों में पाया जाता है- कार्बन-12 कार्बन-13 और कार्ब-14। तो बाजार्कमैन ने ऐसा ग्लूकोज लिया जिसमें जान-बूझकर कार्बन-14 का उपयोग किया गया था। कार्बन रेडियोसक्रिय होता है। यानी अब वे देख सकते थे कि यह कर्बन 14 युक्त <strong><a href="https://www.hastakshep.com/new-drug-molecule-may-be-useful-in-diabetes-treatment/" data-type="post" data-id="23435" target="_blank" rel="noreferrer noopener">ग्लूकोज</a></strong> कहा-कहां जाता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p>इसी प्रकार से उन्होंने चिन्हित फॉस्फोरस वाले भी कुछ पदार्थ लिए। उन्होंने देखा कि जब चीड़ के पेड़ में रेडियो सक्रिय ग्लूकोज ओर फास्फोरस को इंजेक्शन से प्रविष्ट कराया जाता है तो कुछ ही समय पश्चात ये दोनों चिन्हित पदार्थ 1-2 मीटर दूर उग रहे मोनोट्रोपा की काया में मिलते हैं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इस प्रयोग के आधार पर बाजार्कमैन ने मोनोट्रोपा को मृतजीवी की बजाय परजीवी घोषित किया।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":null} --></p>\n' +
+    '<p>अत: कुल मिलाकर मोनोट्रोपा (<strong>Monotropa plant in Hindi</strong>) एक तिहरा तंग है जिसमें एक हरा भरा विशाल पेड़ (चीड़ या स्प्रूस), क्लोरोफिल रहित एक छोटा शाकीय पौधा (मोनोट्रोपा) और जड़ फफूंद (बोलीटस) एक दूसरे से जुड़े हैं। इसमें तीन विभिन्न जीव एक पोषण तंत्र बनाते हैं। अत: मानोट्रोपा को अब और मृतजीवी मानना ठीक नहीं। यह तो परजीवी फूलधरी पौधा है जो फफूंद के माध्यम से अपना पोषण किसी और पेड़ से प्राप्त करता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"textColor":"vivid-red","fontSize":"medium"} --></p>\n' +
+    '<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>डॉ. किशोर पंवार</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:embed {"url":"<iframe width="100%" height="315" src="https://www.youtube.com/embed/jIdivVc6kzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>\n' +
+    '<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">\n' +
+    '<div class="wp-block-embed__wrapper">\n' +
+    '<iframe width="100%" height="315" src="https://www.youtube.com/embed/jIdivVc6kzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n' +
+    '</div></p>\n' +
+    '</figure>\n' +
+    '<p><!-- /wp:embed --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p><strong>Monotropa plant in Hindi</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:jetpack/related-posts {"displayThumbnails":true,"postsToShow":5} /--></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>(देशबन्धु में प्रकाशित लेख का संपादित रूप साभार)</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n',
+  storyimage1: 'rBF6xCkcIZ9cBxZKDjDE.jpg',
+  videos: null,
+  tags: 'प्रकृति समाचार और विचार, prkrti-smaacaar-aur-vicaar, प्रकृति समाचार हिंदी में, prkrti-smaacaar-hindii-men, प्रकृति, prkrti',
+  redirectURL: 'monotropa-plant-in-hindi',
+  englishurl: 'national',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'प्रकृति समाचार और विचार, prkrti-smaacaar-aur-vicaar, प्रकृति समाचार हिंदी में, prkrti-smaacaar-hindii-men, प्रकृति, prkrti',
+  catname: 'देश',
+  catID: 22,
+  canonicalUrl: 'monotropa-plant-in-hindi',
+  createdDate: 'July 14, 2022, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
+data {
+  objrelatedstory: [
+    {
+      storyID: 43357,
+      storyheading: 'नेहरू जी का संविधान सभा में झंडा प्रस्ताव: तिरंगे का इतिहास और महत्व',
+      storysubheading: 'Our flag in the eyes of Nehruji',
+      englishurl: 'aapki najar',
+      redirectURL: 'Our-flag-in-the-eyes-of-Nehruji',
+      category_type: '1',
+      storyImage1: 'Our-flag-in-the-eyes-of-Nehruji-638592539976593848.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'नेहरू जी का संविधान सभा में झंडा प्रस्ताव, तिरंगे का इतिहास और महत्व, नेहरू जी का संविधान सभा में भाषण, संविधान सभा में झंडा प्रस्ताव, भारतीय राष्ट्रीय ध्वज का इतिहास, तिरंगे के रंग और अर्थ, पंडित नेहरू का प्रस्ताव, स्वतंत्रता का प्रतीक झंडा,\r\n' +
+        'तिरंगे की प्रेरणा, नेहरू जी और भारतीय झंडा, संविधान सभा की बहस, भारतीय झंडे का महत्व, हमारे राष्ट्रीय ध्वज तिरंगे का इतिहास,',
+      category_name: 'आपकी नज़र',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 35266,
+      storyheading: 'आज़ादी के आंदोलन पर जवाहरलाल नेहरू के विचार',
+      storysubheading: 'Jawaharlal Nehrus views on freedom movement',
+      englishurl: 'news-2',
+      redirectURL: 'Jawaharlal-Nehrus-views-on-freedom-movement',
+      category_type: '1',
+      storyImage1: 'Jawaharlal-Nehrus-views-on-freedom-movement-638526887210888290.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'आज़ादी के आंदोलन पर जवाहरलाल नेहरू के विचार',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 35258,
+      storyheading: 'राष्ट्र के सामने संकट पर जवाहरलाल नेहरू के विचार',
+      storysubheading: 'Jawaharlal Nehrus views on crisis facing nation',
+      englishurl: 'news-2',
+      redirectURL: 'Jawaharlal-Nehrus-views-on-crisis-facing-nation',
+      category_type: '1',
+      storyImage1: 'Jawaharlal-Nehrus-views-on-crisis-facing-nation-638515859046881351.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'राष्ट्र के सामने संकट पर जवाहरलाल नेहरू के विचार',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    },
+    {
+      storyID: 34261,
+      storyheading: 'राष्ट्र को गतिशील बनाने पर जवाहरलाल नेहरू के विचार',
+      storysubheading: 'Jawaharlal Nehrus thoughts on making nation dynamic',
+      englishurl: 'news-2',
+      redirectURL: 'Jawaharlal-Nehrus-thoughts-on-making-nation-dynamic',
+      category_type: '1',
+      storyImage1: 'Jawaharlal-Nehrus-thoughts-on-making-nation-dynamic-638513787207527113.webp',
+      storyImageThumb: null,
+      fullstory: null,
+      keywords: 'राष्ट्र को गतिशील बनाने पर जवाहरलाल नेहरू के विचार',
+      category_name: 'समाचार',
+      createdDate: null,
+      updatedDate: null
+    }
+  ],
+  author: 'hastakshep',
+  category_type: 1,
+  storyID: 9208,
+  authorID: 7,
+  author_enname: 'hastakshep',
+  author_image: 'eb726339-e325-4b2f-a7e0-2d2f31ba39e7_DefaultImageHastakshep.webp',
+  storydate: 'May 28 2021  6:30PM',
+  storyheading: 'नेहरू का इतिहास बोध भारतीय संस्कृति की तरह विराट और विशाल, गंगा की तरह अविरल प्रवाह्युक्त और सार्वभौम था',
+  storysubheading: 'history-perception-of-jawaharlal-nehru-vijay-shankar-singh',
+  storysynopsis: 'नेहरू का इतिहास बोध भारतीय संस्कृति की तरह विराट और विशाल, गंगा की तरह अविरल प्रवाह्युक्त और सार्वभौम था',
+  fullstory: '<p><!-- wp:heading --></p>\n' +
+    '<h2><strong>जवाहर लाल नेहरू का इतिहास बोध</strong></h2></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:heading {"level":3} --></p>\n' +
+    '<h3><strong>History Perception of Jawaharlal Nehru : Vijay Shankar Singh</strong></h3></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify","fontSize":"medium"} --></p>\n' +
+    '<p class="has-text-align-justify has-medium-font-size"><strong><a rel="noreferrer noopener" href="https://www.hastakshep.com/pt-jawaharlal-nehrus-view-of-indian-culture/" data-type="post" data-id="6147" target="_blank">पं. जवाहर लाल नेहरू</a></strong>,<strong> न केवल आज़ादी के लिए किये गए संघर्ष के शीर्षस्थ नेताओं में से एक रहे हैं, बल्कि वे देश के प्रथम प्रधानमंत्री (First Prime Minister of India) भी रहे हैं। राजनीति में <a href="https://www.hastakshep.com/some-interesting-episodes-of-nehrus-life/" data-type="post" data-id="8106" target="_blank" rel="noreferrer noopener">पं. नेहरू </a>का एक अलग व्यक्तित्व रहा है। आधुनिक भारत के निर्माताओं में उनका स्थान प्रथम पंक्ति में है। पर आज इस लेख में जिस क्षेत्र में उनके योगदान की चर्चा की जा रही है, वह राजनीति से बिलकुल अलग अकादमिक क्षेत्र है। यह क्षेत्र है, इतिहास लेखन का। <a href="https://www.hastakshep.com/the-left-is-the-claimant-of-bhagat-singhs-legacy-professor-chaman-lal/" data-type="post" data-id="7445" target="_blank" rel="noreferrer noopener">नेहरू</a> के इतिहास बोध का।</strong></p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":4} --></p>\n' +
+    '<h4><strong>जवाहर लाल नेहरू की पुस्तकें </strong><strong></strong></h4></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    "<p>अहमदनगर जेल में लिखी गयी पं. जवाहर लाल नेहरू की कालजयी इतिहास पुस्तक, ” <strong>'Glimpses of world history' Book by Jawaharlal Nehru</strong>,” जिसका अनुवाद, ”<strong>विश्व इतिहास की एक झलक</strong>” मोटे तौर पर विश्व इतिहास की घटनाओं का एक सिलसिलेवार विवरण देती है। उसे इतिहास की टेक्स्ट बुक या अकादमिक इतिहास पुस्तक तो नहीं कहा जा सकता, पर वह दुनिया भर में घटने वाली ऐतिहासिक घटनाओं का रोचक विवरण अवश्य प्रस्तुत करती है। यह पुस्तक पत्र लेखन शैली में है। पिता नेहरू ने पुत्री इंदिरा को विश्व इतिहास की एक झलक दिखायी है। पत्र लेखन के माध्यम से इतिहास लिखने का यह एक अनुपम प्रयोग था।</p></p>\n" +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>इसके अतिरिक्त उनकी एक और प्रसिद्ध पुस्तक है, ‘द डिस्कवरी ऑफ़ इंडिया’, ( भारत एक खोज )। प्राचीन भारत के वेदों से ले कर अब तक भारत की यह काल यात्रा है। यह पुस्तक देश के अतीत के साथ साथ, प्राचीन वांग्मय और भारतीय मनीषा के साथ, नेहरू के जुड़ाव को दिखाती है। यह दोनों पुस्तकें यह प्रमाणित करने में सफल रहीं है कि, वह एक स्वाधीनता संग्राम के संघर्षशील नायक और दृष्टा प्रधानमंत्री ही नहीं थे, बल्कि एक सिद्धहस्त लेखक भी थे।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:heading {"level":5} --></p>\n' +
+    '<h5><strong>जवाहरलाल नेहरू की कहानी</strong><strong></strong></h5></p>\n' +
+    '<p><!-- /wp:heading --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">वकालत, नेहरू के परिवार का पुश्तैनी पेशा था। नेहरू बचपन में ही पढ़ने के लिये इंग्लैंड भेज दिए गए। प्रारंभिक शिक्षा, हैरो स्कूल, और उच्च शिक्षा कैंब्रिज में हुयी। वहीं से इन्होंने बार ऐट लॉ की डिग्री ली। फिर स्वदेश आगमन और इलाहाबाद में रह कर वक़ालत का कार्य प्रारम्भ किया। इन्होंने आठ साल वकालत की। पिता मोती लाल नेहरू का रुझान तब तक देश सेवा की ओर हो चुका था। वह सर सीआर दास, जैसे बड़े वकीलों के साथ मिल कर स्वराज पार्टी बना चुके थे। गांधी का देश में आगमन हो चुका था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">गांधी जी का असहयोग आंदोलन शुरू तो हुआ पर चौरी चौरा की हिंसक घटना के कारण आंदोलन की अकाल मृत्य हो गयी। गांधी को सजा हो गयी थी। वे जेल में थे। राजनीतिक परिवेश में ठंडापन था। जवाहर लाल नेहरू जो 1919 में हुए जलियांवाला बाग़ नरसंहार के बाद से ही राजनीति में क़दम रख चुके थे, अब और सक्रिय हो गए।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>1930 के ऐतिहासिक कांग्रेस अधिवेशन, जो लाहौर में रावी नदी के तट पर हुआ, में वे राष्ट्रपति चुने गए। कांग्रेस अध्यक्ष को उन दिनों राष्ट्रपति कहा जाता था। यह अधिवेशन ऐतिहासिक कहा जाता है क्यों कि इसी अधिवेशन में कांग्रेस ने भारत के पूर्ण स्वराज की मांग का प्रस्ताव पास कर अपना लक्ष्य और संघर्ष स्पष्ट कर दिया था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">स्वाधीनता संग्राम में नेहरू ने कुल 9 साल कारागार में बिताये। वह लाहौर, अहमदनगर, लखनऊ और नैनी जेलों में रहे। वहीं इनका अध्ययन और लेखन परिपक्व हुआ। कारागार के समय का इन्होंने सकारात्मक सदुपयोग किया। वह सुबह 9 बजे से लिखना पढ़ना शुरू करते थे, और देर रात तक उनका यह क्रम चलता रहता था। जेल के एकांत और अवकाश ने उन्हें देश के इतिहास, सभ्यता, संस्कृति और परम्पराओं के अध्ययन और पुनर्मूल्यांकन का अवसर दिया। उनका लेखन आत्म मुग्धता के लिए नहीं बल्कि देश की एक ऐसी तस्वीर प्रस्तुत करने के लिए था, जिस से देश का स्वाभिमान जागृत किया जा सके। उन्होंने कुल चार पुस्तकें लिखीं।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    `<p class="has-text-align-justify">1929 में पहली पुस्तक लिखी गयी, ‘<strong>लेटर्स फ्रॉम ए फादर टू ए डॉटर</strong>‘ <strong>('Letters from a Father to His Daughter' Book by Jawaharlal Nehru)</strong>, जिसमें उन्होंने प्रागैतिहासिक काल का विवरण दिया है। 1934,-1935 में उनकी क्लासिक कही जाने वाली पुस्तक, ‘ The glimpses of world history ‘,( विश्व इतिहास की एक झलक ), आयी।</p></p>\n` +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">1936 <strong>पं. जवाहर लाल नेहरू की आत्मकथा</strong>, ‘ माय ऑटोबायोग्राफी,’( मेरी कहानी- Autobiography of Pt. Jawaharlal Nehru ) और 1946 में दर्शन, इतिहास और संस्कृति को ले कर लिखी गयी पुस्तक ”The Discovery of india” ( भारत एक खोज ) प्रकाशित हुयी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उनके इतिहास बोध को समझने के पूर्व उनकी पुस्तकों के बारे में जानना आवश्यक है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>पिता के पत्र पुत्री के नाम, जो 1929 में प्रकाशित पुस्तक थी, में इनके वे पत्र संकलित हैं, जो इन्होंने इलाहाबाद प्रवास के दौरान लिखा था इंदिरा उस समय मसूरी में पढ़ रहीं थीं। इतिहास के साथ, वन्य जीव जंतुओं और अन्य विषयों पर इन्होंने अपनी पुत्री की बाल सुलभ जिज्ञासाओं के समाधान की कोशिश की है। यह प्रयास यह भी बताता है कि सार्वजनिक जीवन की तमाम व्यस्तताओं के बीच, उनमें एक आदर्श पिता जीवित रहा जिस ने संतान को संवारने में कोई भी कसर नहीं छोड़ी। अंग्रेज़ी में लिखे इन पत्रों पुस्तक के रूप में अनुवाद महान उपन्यासकार मुंशी प्रेमचंद ने किया था।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">उनका एक पत्र जिसका उल्लेख यहां करना उचित होगा, जो वन्य जीव के विकास पर आधारित है। डार्विन के विकासवाद का सिद्धांत तब तक अस्तित्व में आ चुका था। उन्होंने लन्दन स्थित केनिग्स्टन म्युजियम में रखे जानवरों के चित्रों पर इस पत्र को केंद्रित किया। उन्होंने यह लिखा कि ठंडे और शीत ग्रस्त क्षेत्रों के जंतु अपने वातावरण के अनुसार ही शुभ्र होते हैं जब कि गर्म क्षेत्रों के जंतु और वनस्पतियाँ विभिन्न रंगों की होती हैं। उनकी इस धारणा के पीछे कोई वैज्ञानिक शोध हो या न हो लेकिन, बाल सुलभ जिज्ञासा को शांत करने की उनकी यह शैली अद्भुत थी।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>दूसरा पत्र, मनुष्य की उत्पत्ति पर है। मनुष्य के विकास का विवरण देता यह पत्र नृतत्वशास्त्र में उनकी रूचि को भी बताता है। मूलतः यह पुस्तक बच्चों के लिए है। इसमें उनका कोई गंभीर इतिहास बोध नहीं झलकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph {"align":"justify"} --></p>\n' +
+    '<p class="has-text-align-justify">इतिहास की उनकी अवधारणा, तिथिक्रम का विवरण और घटनाओं का वर्णन ही नहीं है। विश्व इतिहास की एक झलक, जो 1934-35 में प्रकाशित हुयी, में उन्होंने एशिया के साम्राज्यों के उत्थान और पतन पर विहंगम दृष्टि डाली है। अर्नाल्ड टॉयनाबी के इतिहास एक अध्ययन के तर्ज़ पर उन्होंने सभ्यताओं के उत्थान और पतन को समझने और समझाने का प्रयास किया है। जिस से उनके अध्येता होने का प्रमाण मिलता है। कोई भी व्यक्ति जो विश्व इतिहास की रूपरेखा समझना और जानना चाहता है और संदर्भों की शुष्क वीथिका से बचना चाहता है वह इसका अध्ययन कर सकता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>1934 में ही उनकी आत्म कथा, मेरी कहानी प्रकाशित हुयी। आत्मकथा लेखन एक आधुनिक साहित्य विधा है। पहले खुद के बारे में कुछ कहना और उसे प्रचारित करना आत्म मुग्धता समझा जाता था। इसी लिए पूर्ववर्ती अनेक महान साहित्यकारों के व्यक्तिगत जीवन के बारे में कोई प्रामाणिक विवरण उपलब्ध नहीं होता। जो मिलता है वह या तो किंवदंती के रूप में या समकालीनों द्वारा दिए विवरण के रूप में है। स्वयं को पारदर्शिता के साथ देखना बहुत कठिन होता है वह भी तब, जब कि मनुष्य सार्वजनिक जीवन में हो। पर अपनी आत्म कथा में पं. नेहरू ने जो भी लिखा है वह उनकी खुद की ईमानदार विवेचना है। आप यूँ भी कह सकते हैं कि उनकी आत्मकथा का काल 1932 में ही ख़त्म हो जाता है। जब कि उनके जीवन के अनेक विवाद इस काल के बाद हुए। सुभाष बाबू के साथ विवाद, भारत विभाजन और प्रधान मंत्री काल के अनेक निर्णय, जिनको ले कर उनकी आलोचना होती है, के समय की कोई आत्म कथा लिखी ही नहीं गयी। संकट काल और आलोचना से घिरे होने पर, स्वयं को कैसे बिना लाग लपेट के प्रस्तुत किया जाय इस में आत्मकथा लेखक की कुशलता और ईमानदारी दोनों ही निहित होती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>लन्दन टाइम्स ने पं. नेहरू की पुस्तक <strong>मेरी कहानी</strong> को उस समय की पठनीय पुस्तकों के वर्ग में रखा था। इस पुस्तक में उनके परिवार, उनकी पढ़ाई और 1933 तक के आज़ादी के लिए किये गए संघर्षों का विवरण मिलता है। उस काल के शोधार्थियों के लिए यह पुस्तक एक सन्दर्भ और स्रोत का भी काम करती है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>उनकी सबसे परिपक्व कृति, भारत एक खोज। है। 1944 में यह पुस्तक प्रकाशित हुयी। भारतीय मनीषा, सभ्यता और संस्कृति का अद्भुत सर्वेक्षण इस पुस्तक में है। पूर्णतः अंग्रेज़ी परिवेश में पले और पढ़े लिखे नेहरू द्वारा वेदों से लेकर पुराणों का अध्ययन उनके अंदर छिपे प्राच्य दर्शन को दिखाता है। इस पुस्तक में भारत की एक यात्रा है। इतिहास है, परम्पराएँ हैं और संस्कृति की जीवंतता है।</p></p>\n' +
+    '<p><!-- /wp:paragraph --></p>\n' +
+    '<p><!-- wp:paragraph --></p>\n' +
+    '<p>नेहरू के जीवनीकार एम जे अकबर इस पुस्तक की लेखन शैली की भूरि-भूरि प्रशंसा करते हैं। वह बताते'... 9047 more characters,
+  storyimage1: '1zlrgPRquUG5FGAYZ2oK.jpg',
+  videos: null,
+  tags: 'नेहरू के सपनों का भारत, nehruu-ke-spnon-kaa-bhaart, नेहरू की वैज्ञानिक सोच, nehruu-kii-vaijnyaanik-soc, नेहरू, nehruu, नेहरूजी का सपना, nehruujii-kaa-spnaa, नेहरूजी, nehruujii, पं. जवाहर लाल नेहरू, pn-jvaahr-laal-nehruu, पं. नेहरू, pn-nehruu, पंडित जवाहरलाल नेहरू की पुण्यतिथि, pnddit-jvaahrlaal-nehruu-kii-punnytithi, पंडित नेहरू, pnddit-nehruu',
+  redirectURL: 'history-perception-of-jawaharlal-nehru-vijay-shankar-singh',
+  englishurl: 'aapki najar',
+  englishurldetail: null,
+  subCatID: 0,
+  keywords: 'नेहरू के सपनों का भारत, nehruu-ke-spnon-kaa-bhaart, नेहरू की वैज्ञानिक सोच, nehruu-kii-vaijnyaanik-soc, नेहरू, nehruu, नेहरूजी का सपना, nehruujii-kaa-spnaa, नेहरूजी, nehruujii, पं. जवाहर लाल नेहरू, pn-jvaahr-laal-nehruu, पं. नेहरू, pn-nehruu, पंडित जवाहरलाल नेहरू की पुण्यतिथि, pnddit-jvaahrlaal-nehruu-kii-punnytithi, पंडित नेहरू, pnddit-nehruu',
+  catname: 'आपकी नज़र',
+  catID: 24,
+  canonicalUrl: 'history-perception-of-jawaharlal-nehru-vijay-shankar-singh',
+  createdDate: 'May 28, 2021, 06:30 PM',
+  updatedDate: null,
+  iframeContent: null,
+  iframeTwitter: null
+}
